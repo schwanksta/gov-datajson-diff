@@ -24,7 +24,7 @@ jobs:
             domain=$(echo "$url" | sed -e 's|^[^/]*//||' -e 's|/.*$||' -e 's|.*\.\([^.]*\.[^.]*\)$|\1|' -e 's|\.gov||')
             filename="${domain}.json"
             echo $filename
-            wget -O "$filename" "$url" --quiet
+            wget -O "$filename" "$url"
           done < urls.txt
           ls -al .
           
