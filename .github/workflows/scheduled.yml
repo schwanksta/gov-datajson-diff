@@ -18,6 +18,7 @@ jobs:
       - name: Fetch latest data
         run: |-
           # Get all of the files
+          cat urls.txt
           while IFS= read -r url; do
             domain=$(echo "$url" | sed -e 's|^[^/]*//||' -e 's|/.*$||' -e 's|.*\.\([^.]*\.[^.]*\)$|\1|' -e 's|\.gov||')
             filename="${domain}.json"
