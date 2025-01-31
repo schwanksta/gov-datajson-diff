@@ -1,0 +1,44 @@
+
+name: Get latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '5 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    - name: Fetch latest data
+      run: |-
+        rm *.json
+        # Get all of the  files
+        while IFS= read -r url; do
+            # Extract domain:
+            # 1. Remove protocol (http:// or https://)
+            # 2. Take everything up to the first /
+            # 3. Remove subdomains
+            # 4. Cut the .gov
+            domain=$(echo "$url" | sed -e 's|^[^/]*//||' -e 's|/.*$||' -e 's|.*\.\([^.]*\.[^.]*\)$|\1|' -e 's|\.gov||')            
+            # Create filename with .json extension
+            filename="${domain}.json"
+            
+            # Download the file and show progress
+            wget -O "$filename" "$url" --show-progress
+            
+            echo "Downloaded: $url -> $filename"
+        done < urls.txt
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add .csv
+        timestamp=$(date -u)
+        git commit -F message.txt || exit 0
+        git push
