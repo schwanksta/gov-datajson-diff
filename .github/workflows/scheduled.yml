@@ -24,7 +24,7 @@ jobs:
             domain=$(echo "$url" | sed -e 's|^[^/]*//||' -e 's|/.*$||' -e 's|.*\.\([^.]*\.[^.]*\)$|\1|' -e 's|\.gov||')
             filename="${domain}.json"
             echo $filename
-            wget -O "$filename" "$url" --quiet --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10\_15\_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+            wget -qO- "$url" --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10\_15\_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" | python -m json.tool > "$filename"
           done < urls.txt
           
       - name: Commit and push if it changed
