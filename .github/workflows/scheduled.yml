@@ -24,6 +24,7 @@ jobs:
             filename="${domain}.json"
             wget -O "$filename" "$url" --quiet
           done < urls.txt
+          ls -al .
           
       - name: Commit and push if it changed
         run: |-
