@@ -2,7 +2,6 @@
     "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
     "@type": "dcat:Catalog",
     "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
-    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
     "dataset": [
         {
             "@type": "dcat:Dataset",
@@ -478,5 +477,6 @@
             "spatial": "United States",
             "title": "Costs of Electronic Payments in K-12 Schools"
         }
-    ]
+    ],
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 }
