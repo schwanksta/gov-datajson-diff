@@ -41177,8 +41177,27 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/8ba0f9b4-9493-4aa0-9f82-44ea9468d1b5/data",
+                    "description": "latest",
+                    "format": "API",
+                    "modified": "2025-01-31",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/8ba0f9b4-9493-4aa0-9f82-44ea9468d1b5",
+                    "temporal": "2024-10-01/2024-12-31",
+                    "title": "Provider of Services File - Hospital & Non-Hospital Facilities : 2024-12-02"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "downloadURL": "https://data.cms.gov/sites/default/files/2025-01/b5fb8b31-8e6e-41d0-8d73-8da1e2185ee2/PQWB.POSQ.OTHER.DATA.DEC24.csv",
                     "mediaType": "text/csv",
+                    "modified": "2025-01-31",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/8143cbc7-484f-438b-9dfa-2e81d5d6a1ed",
+                    "temporal": "2024-10-01/2024-12-31",
+                    "title": "Provider of Services File - Hospital & Non-Hospital Facilities : 2024-12-02"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/8143cbc7-484f-438b-9dfa-2e81d5d6a1ed/data",
+                    "format": "API",
                     "modified": "2025-01-31",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/8143cbc7-484f-438b-9dfa-2e81d5d6a1ed",
                     "temporal": "2024-10-01/2024-12-31",
