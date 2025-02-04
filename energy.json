@@ -29273,6 +29273,101 @@
                 "name": "DOE Office of Electricity"
             },
             "title": "Office of Electricity Information Center"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "irregular",
+            "bureauCode": [
+                "015:11"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Kyle Weatherholt",
+                "hasEmail": "mailto:kyle.weatherholt@ports.pppo.gov"
+            },
+            "dataQuality": true,
+            "describedBy": "https://pegasis.ports.pppo.gov/Documents/UserGuides/AnalyticalDataUserGuide.pdf",
+            "describedByType": "application/pdf",
+            "description": "Environmental Geographic Analytical Spatial Information System",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://pegasis.ports.pppo.gov/Pegasis/Default.aspx",
+                    "description": "PPPO Environmental Geographic Analytical Spatial Information System",
+                    "title": "PPPO Environmental Geographic Analytical Spatial Information System"
+                }
+            ],
+            "identifier": "Ports Pegasis",
+            "issued": "2024-08-08",
+            "keyword": [
+                "arcgis"
+            ],
+            "landingPage": "https://pegasis.ports.pppo.gov/Pegasis/Default.aspx",
+            "language": [
+                "en-US"
+            ],
+            "modified": "2025-01-15T20:42:37.090Z",
+            "programCode": [
+                "015:001"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Paducah Portsmouth Project Office"
+            },
+            "rights": "true",
+            "theme": [
+                "geospatial"
+            ],
+            "title": "PPPO Portsmouth Pegasis"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "irregular",
+            "bureauCode": [
+                "015:11"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Bruce Meadows",
+                "hasEmail": "mailto:bruce.meadows@pad.pppo.gov"
+            },
+            "dataQuality": true,
+            "describedBy": "https://pegasis.pad.pppo.gov/pdf/PEGASIS%20User%20Manual%202024.pdf",
+            "describedByType": "application/pdf",
+            "description": "PPPO Environmental Geographic Analytical Spatial Information System",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://pegasis.pad.pppo.gov/",
+                    "conformsTo": "https://pegasis.pad.pppo.gov/",
+                    "description": "PPPO Environmental Geographic Analytical Spatial Information System",
+                    "title": "Paducah Pegasis"
+                }
+            ],
+            "identifier": "Paducah Pegasis",
+            "issued": "2025-01-12",
+            "keyword": [
+                "arcgis"
+            ],
+            "landingPage": "https://pegasis.pad.pppo.gov/",
+            "language": [
+                "en-US"
+            ],
+            "modified": "2025-01-15T20:52:14.034Z",
+            "programCode": [
+                "015:001"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Paducah Portsmouth Project Office"
+            },
+            "rights": "true",
+            "theme": [
+                "geospatial"
+            ],
+            "title": "PPPO Paducah Pegasis"
         }
     ],
     "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
