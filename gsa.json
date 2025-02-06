@@ -17846,6 +17846,53 @@
             },
             "rights": "true",
             "title": "Governmentwide Section 508 Assessment Response Data FY24"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "bureauCode": [
+                "015:11"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Toni Holloway",
+                "hasEmail": "mailto:toni.holloway@gsa.gov"
+            },
+            "description": "The dataset represents the Networx Universal and Enterprise business volume of each government agency that has ordered telecommunications services from the Networx Contract, by Fiscal Year, Contract, Contract Vehicle, Agency and month for the Central and Direct billing accounts.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://inventory.data.gov/dataset/4cfb95dc-e8c6-43f4-87b3-67aebead5215/resource/9be78cf4-d5c4-48fe-93ec-37182581cc86/download/totrevfy25_1stqtr.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "title": "TotRevFY25_1stQtr.xlsx"
+                }
+            ],
+            "identifier": "gsa-2025-02-06-01",
+            "isPartOf": "GSA-2015-08-27",
+            "keyword": [
+                "Networx",
+                "billing",
+                "networx business volume",
+                "telecommunications"
+            ],
+            "language": [
+                "en-US"
+            ],
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "modified": "2025-02-06T21:09:54.419Z",
+            "programCode": [
+                "015:001"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Federal Acquisition Service",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "General Services Administration"
+                }
+            },
+            "rights": "true",
+            "title": "Networx Business Volume FY2025"
         }
     ],
     "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
