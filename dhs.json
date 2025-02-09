@@ -3956,7 +3956,7 @@
                 "Communications"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-01-02T13:11:38-05:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
@@ -5426,6 +5426,39 @@
                 "fn": "Open Data (MGMT)",
                 "hasEmail": "mailto:edmo@hq.dhs.gov"
             },
+            "description": "Includes web-based training, downloadable training and promotional resources, and feedback survey information.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://community.fema.gov/PreparednessCommunity/s/open-training?language=en_US"
+                }
+            ],
+            "identifier": "FEMA-0105",
+            "keyword": [
+                "Training and Exercises"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-02-03T14:11:54-05:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Resilience/National Preparedness Directorate"
+            },
+            "rights": null,
+            "title": "Capacity Building"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
             "description": "Repository of application submission information and scorecards.",
             "distribution": [
                 {
@@ -5438,7 +5471,7 @@
                 "People"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-08-01T07:58:54-04:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
@@ -5471,7 +5504,7 @@
                 "Threats and Hazards"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-08-01T07:58:54-04:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
@@ -5504,7 +5537,7 @@
                 "People"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-08-01T07:58:54-04:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
@@ -5537,7 +5570,7 @@
                 "Authorities"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-01-02T13:11:38-05:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
@@ -5570,7 +5603,7 @@
                 "External Coordination"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-01-02T13:11:38-05:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
@@ -5789,7 +5822,7 @@
                 "External Coordination"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-07-01T07:47:17-04:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
@@ -5832,39 +5865,6 @@
             },
             "rights": null,
             "title": "Hazus Loss Library/Archived Hazus Results"
-        },
-        {
-            "accessLevel": "public",
-            "bureauCode": [
-                "024:070"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Open Data (MGMT)",
-                "hasEmail": "mailto:edmo@hq.dhs.gov"
-            },
-            "description": "Centralized repository for accessing natural hazard risk information, curated by FEMA's Natural Hazards Risk Assessment Program (NHRAP). Risk assessment resources from the Hazus program are always freely available and transparently developed. rnrnDataset provides Hazus risk scores.rnrnDatapoints include Hazard Frequency, Hazard Exposure, SHELDUS, SoVI, BRIC.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "accessURL": "https://www.fema.gov/hazus"
-                }
-            ],
-            "identifier": "FEMA-0187",
-            "keyword": [
-                "Assessments"
-            ],
-            "license": "https://www.usa.gov/government-works",
-            "modified": "2024-09-09T07:52:36-04:00",
-            "programCode": [
-                "024:000"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "FEMA/Resilience/Risk Management Directorate"
-            },
-            "rights": null,
-            "title": "Hazus Risk Scores and Components"
         },
         {
             "accessLevel": "public",
@@ -6775,7 +6775,7 @@
                 "Finance"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-08-01T07:58:54-04:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
@@ -6928,7 +6928,7 @@
                 "fn": "Open Data (MGMT)",
                 "hasEmail": "mailto:edmo@hq.dhs.gov"
             },
-            "description": "This dataset contains data on Public Assistance (PA) project awards (obligations), including the project obligation date(s); dollar amount of Federal Share Obligated for each project and its obligation date(s); FEMA region; state; disaster declaration number; descriptive cause of the declaration (incident type); entity requesting public assistance (applicant name); and distinct name for the repair, replacement or mitigation work listed for assistance (Project Title). The PA Grant Awards Activities dataset does not collect, maintain, use, or disseminate any Personally Identifiable Information (PII).rnrnAs part of Congressional bill HR 152 - the Sandy Recovery Improvement Act of 2013, FEMA is providing the following information for our stakeholders:rn\u2022 Regionrn\u2022 Disaster Declaration Numberrn\u2022 Disaster Typern\u2022 Statern\u2022 Applicantrn\u2022 Countyrn\u2022 Damage Category Codern\u2022 Federal Share Obligatedrn\u2022 Date ObligatedrnrnFEMA obligates funding for a project directly to the Recipient (State or Tribe). It is the Recipient's responsibility to ensure that the eligible subrecipient (listed in the dataset as Applicant Name) receives the award funding.rnThis dataset lists details about project versions. Versions occur when the scope/cost changes for a project.  Versions adjust the cost of the project  with positive additions called obligations and subtractions called deobligations.  Combined, they reconcile to reflect the Total Federal Share Obligation, but reconciliation occurs over the life of the project, sometimes years after the declaration date.  The dataset represents project obligations within a seven-day period prior to the listed date but does not include obligations uploaded on the same day as the publication.  Open projects still under pre-obligation processing are not represented.rnFor more information on the Public Assistance process see: https://www.fema.gov/assistance/public/process.rnThis is raw, unedited data from FEMA's Emergency Management Mission Integrated Environment (EMMIE) system and as such is subject to a small percentage of human error. The financial information is derived from EMMIE and not FEMA's official financial systems. Due to differences in reporting periods, status of obligations and application of business rules, this financial information may differ slightly from official publication on public websites such as usaspending.gov. This dataset is not intended to be used for any official federal reporting.rnIf you have media inquiries about this dataset, please email the FEMA News Desk at FEMA-News-Desk@fema.dhs.gov or call (202) 646-3272. For inquiries about FEMA's data and Open Government program, please email the OpenFEMA team at OpenFEMA@fema.dhs.gov.",
+            "description": "This record description is for the EMMIE portion of the unioned query required due to migration of Public Assistance (PA) Recovery records into the Fac-trax database. This dataset contains data on Public Assistance project awards (obligations), including the project obligation date(s); dollar amount of Federal Share Obligated for each project and its obligation date(s); FEMA region; state; disaster declaration number; descriptive cause of the declaration (incident type); entity requesting public assistance (applicant name); and distinct name for the repair, replacement or mitigation work listed for assistance (Project Title). The PA Grant Awards Activities dataset does not collect, maintain, use, or disseminate any Personally Identifiable Information (PII).rnrnAs part of Congressional bill HR 152 - the Sandy Recovery Improvement Act of 2013, FEMA is providing the following information for our stakeholders:rn\u2022 Regionrn\u2022 Disaster Declaration Numberrn\u2022 Disaster Typern\u2022 Statern\u2022 Applicantrn\u2022 Countyrn\u2022 Damage Category Codern\u2022 Federal Share Obligatedrn\u2022 Date ObligatedrnrnFEMA obligates funding for a project directly to the Recipient (State or Tribe). It is the Recipient's responsibility to ensure that the eligible subrecipient (listed in the dataset as Applicant Name) receives the award funding.rnThis dataset lists details about project versions. Versions occur when the scope/cost changes for a project.  Versions adjust the cost of the project  with positive additions called obligations and subtractions called deobligations.  Combined, they reconcile to reflect the Total Federal Share Obligation, but reconciliation occurs over the life of the project, sometimes years after the declaration date.  The dataset represents project obligations within a seven-day period prior to the listed date but does not include obligations uploaded on the same day as the publication.  Open projects still under pre-obligation processing are not represented.rnFor more information on the Public Assistance process see: https://www.fema.gov/assistance/public/process.rnThis is raw, unedited data from FEMA's Emergency Management Mission Integrated Environment (EMMIE) system and as such is subject to a small percentage of human error. The financial information is derived from EMMIE and not FEMA's official financial systems. Due to differences in reporting periods, status of obligations and application of business rules, this financial information may differ slightly from official publication on public websites such as usaspending.gov. This dataset is not intended to be used for any official federal reporting.rnIf you have media inquiries about this dataset, please email the FEMA News Desk at FEMA-News-Desk@fema.dhs.gov or call (202) 646-3272. For inquiries about FEMA's data and Open Government program, please email the OpenFEMA team at OpenFEMA@fema.dhs.gov.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -6940,7 +6940,7 @@
                 "Incidents"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-07-01T07:47:18-04:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
@@ -7138,7 +7138,7 @@
                 "External Coordination"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-12-02T10:48:00-05:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
@@ -7269,16 +7269,16 @@
             ],
             "identifier": "FEMA-0310",
             "keyword": [
-                "none"
+                "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-07-01T07:47:17-04:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "FEMA"
+                "name": "FEMA/Office of External Affairs/Communication Division"
             },
             "rights": null,
             "title": "Advance Contracts of Goods and Services"
@@ -7324,7 +7324,7 @@
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Open Data (MGMT)",
-                "hasEmail": "mailto:fema-datainventoryprogram@fema.dhs.gov"
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
             },
             "description": "This dataset contains past congressional testimony and speeches from FEMA administration officials,\u00a0in PDF format.",
             "distribution": [
@@ -7335,16 +7335,16 @@
             ],
             "identifier": "FEMA-0317",
             "keyword": [
-                "none"
+                "Communications"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-06-28T15:17:16-04:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "FEMA/Office of External Affairs/Communication Division"
+                "name": "FEMA/Office of External Affairs/Congress & Intergovernmental Affairs Division"
             },
             "rights": null,
             "title": "Congressional Testimony"
@@ -7359,7 +7359,7 @@
                 "fn": "Open Data (MGMT)",
                 "hasEmail": "mailto:edmo@hq.dhs.gov"
             },
-            "description": "FEMA\u00e2\u20ac\u2122s Coordinated Needs Management Strategy (CNMS) uses a geospatial database to identify and track flood hazard study lifecycle and mapping needs within the flood hazard mapping program. CNMS supports community officials and FEMA personnel in analyzing and depicting the validity of flood studies to enhance the understanding of flood hazard risk and make informed decisions on community planning and flood mitigation.",
+            "description": "FEMA\u2019s Coordinated Needs Management Strategy (CNMS) uses a geospatial database to identify and track flood hazard study lifecycle and mapping needs within the flood hazard mapping program. CNMS supports community officials and FEMA personnel in analyzing and depicting the validity of flood studies to enhance the understanding of flood hazard risk and make informed decisions on community planning and flood mitigation.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -7368,16 +7368,16 @@
             ],
             "identifier": "FEMA-0318",
             "keyword": [
-                "none"
+                "Threats and Hazards"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-05-01T10:30:19-04:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "FEMA/Resilience/Federal Insurance and Mitigation Administration"
+                "name": "FEMA/Resilience/Risk Management Directorate"
             },
             "rights": null,
             "title": "Coordinated Needs Management Strategy"
@@ -7503,7 +7503,7 @@
                 "Communications"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-07-01T07:47:17-04:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
@@ -7569,7 +7569,7 @@
                 "Communications"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-09-09T07:52:37-04:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
@@ -7731,16 +7731,16 @@
             ],
             "identifier": "FEMA-0346",
             "keyword": [
-                "none"
+                "People"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-05-01T10:30:19-04:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "FEMA/Office of Equal Rights/Business Management Unit"
+                "name": "FEMA/Office of Equal Rights/Equal Employment Opportunity Unit"
             },
             "rights": null,
             "title": "No FEAR Act Data (FEMA Statistics)"
@@ -7821,7 +7821,7 @@
                 "fn": "Open Data (MGMT)",
                 "hasEmail": "mailto:edmo@hq.dhs.gov"
             },
-            "description": "Preliminary Damage Assessments (PDAs) are conducted to enable FEMA \u2014 as well as state, local, tribal, and territorial partners \u2014 to determine the magnitude of damage and impact of disasters.rnrnDataset containts Preliminary Damage Assessment (PDA) Reports for Major Disaster Declaration Requests (DR) beginning with Fiscal Year 2008 (October 1, 2007).  These reports contain information gathered during the Preliminary Damage Assessment process and published here 30 days after a determination is made on a request or an appeal.",
+            "description": "Preliminary Damage Assessments (PDAs) are conducted to enable FEMA \u2014 as well as state, local, tribal, and territorial partners \u2014 to determine the magnitude of damage and impact of disasters.rnrnDataset contains Preliminary Damage Assessment (PDA) Reports for Major Disaster Declaration Requests (DR) beginning with Fiscal Year 2008 (October 1, 2007).  These reports contain information gathered during the Preliminary Damage Assessment process and published here 30 days after a determination is made on a request or an appeal.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -7830,16 +7830,16 @@
             ],
             "identifier": "FEMA-0349",
             "keyword": [
-                "none"
+                "Authorities"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-01-02T13:11:38-05:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "FEMA/Response and Recovery/Response Directorate"
+                "name": "FEMA/Response and Recovery/Associate Administrator"
             },
             "rights": null,
             "title": "Preliminary Damage Assessments"
@@ -8236,7 +8236,7 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://www.fema.gov/api/open/v1/PublicAssistanceGrantAwardActivities"
+                    "accessURL": "https://www.fema.gov/openfema-data-page/public-assistance-grant-award-activities-v2"
                 }
             ],
             "identifier": "FEMA-0601",
@@ -8244,7 +8244,7 @@
                 "Finance"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-10-02T14:25:02-04:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
@@ -8485,6 +8485,357 @@
             },
             "rights": null,
             "title": "HMA Subapplications"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "Flood Risk Products go beyond the basic flood hazard information on regulatory flood hazard products. Flood Risk Products provide a deeper and user-friendly analysis of flood risks within a Risk MAP Flood Risk Project.rnrnFRPs depict and assist users to understand risk but are not regulatory products.rnrnDatapoints include number of FRPs available.",
+            "identifier": "FEMA-0618",
+            "keyword": [
+                "none"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-02-03T14:11:54-05:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Resilience/Federal Insurance and Mitigation Administration"
+            },
+            "rights": null,
+            "title": "Flood Risk Products"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "Light Detection and Ranging (lidar) is\u202fa technology\u202fused\u202fto create high-resolution\u202fmodels of ground elevation\u202fwith\u202fa\u202fvertical accuracy\u202fof\u202f10\u202fcentimeters\u202f(4 inches).\u202f rnrnFEMA collects lidar elevation data to support flood mapping. USGS is the primary Federal steward of lidar data. FEMA archives lidar data for FEMA projects where USGS does not manage the Lidar data collection. rnrnDatapoints include ground elevation models and vertical metrics for ground elevation.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://hazards.fema.gov"
+                }
+            ],
+            "identifier": "FEMA-0619",
+            "keyword": [
+                "Threats and Hazards"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-02-03T14:11:54-05:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Resilience/Risk Management Directorate"
+            },
+            "rights": null,
+            "title": "Lidar Elevation"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "FEMA\u2019s Coordinated Needs Management Strategy (CNMS) uses a geospatial database to identify and track flood hazard study lifecycle and mapping needs within the flood hazard mapping program. CNMS supports community officials and FEMA personnel in analyzing and depicting the validity of flood studies to enhance the understanding of flood hazard risk and make informed decisions on community planning and flood mitigation.",
+            "identifier": "FEMA-0623",
+            "keyword": [
+                "Threats and Hazards"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-02-03T14:11:54-05:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Resilience/Risk Management Directorate"
+            },
+            "rights": null,
+            "title": "Coordinated Needs Management System/New, Validated, and Updated Engineering Miles"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "Default Hazus Statewide databases used for baseline risk assessment.rnrnHazus produces a variety of actionable risk information including physical damage, estimated social impacts, economic impacts, and cost effectiveness.rnrnEarthquake model, Flood model, Hurricane model, Tsunami model, Inventory data, Hazus General Building Stock.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://www.fema.gov/flood-maps/tools-resources/flood-map-products/hazus/software"
+                }
+            ],
+            "identifier": "FEMA-0625",
+            "keyword": [
+                "Threats and Hazards"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-02-03T14:11:54-05:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Resilience/Risk Management Directorate"
+            },
+            "rights": null,
+            "title": "Hazus Data"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "Local, State, Regional, and National Average Annual Loss data from the adoption of hazard-resistant building codes",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://www.fema.gov/sites/default/files/documents/fema_building-codes-save-study-results.xlsx"
+                }
+            ],
+            "identifier": "FEMA-0626",
+            "keyword": [
+                "Assessments"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-02-03T14:11:54-05:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Resilience/Risk Management Directorate"
+            },
+            "rights": null,
+            "title": "AALs from the adoption of I-Codes"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "Centralized repository for accessing natural hazard risk information, curated by FEMA's Natural Hazards Risk Assessment Program (NHRAP). Risk assessment resources from the Hazus program are always freely available and transparently developed. rnrnDataset provides authoritative Hazus loss modeling results (Flood - Riverine and Coastal, Earthquake, Hurricane Wind, Tsunami).rnrnDatapoints are hard risk reports, result spreadsheets, geospatial data, hazard data, and Hazus Package Region (HPR).",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://hazards.fema.gov/hll/about"
+                }
+            ],
+            "identifier": "FEMA-0629",
+            "keyword": [
+                "Threats and Hazards"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-02-03T14:11:54-05:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Resilience/Risk Management Directorate"
+            },
+            "rights": null,
+            "title": "Hazus Loss Library/Archived Hazus Results"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "Centralized repository for accessing natural hazard risk information, curated by FEMA's Natural Hazards Risk Assessment Program (NHRAP). Risk assessment resources from the Hazus program are always freely available and transparently developed. rnrnDataset provides Hazus risk scores.rnrnDatapoints include Hazard Frequency, Hazard Exposure, SHELDUS, SoVI, BRIC.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://www.fema.gov/hazus"
+                }
+            ],
+            "identifier": "FEMA-0630",
+            "keyword": [
+                "Assessments"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-02-03T14:11:54-05:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Resilience/Risk Management Directorate"
+            },
+            "rights": null,
+            "title": "Hazus Risk Scores and Components"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "Mitigation Best Practices are stories, articles or case studies about individuals, businesses or communities that undertook successful efforts to reduce or eliminate disaster risks.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://www.fema.gov/emergency-managers/risk/hazard-mitigation-planning/best-practices"
+                }
+            ],
+            "identifier": "FEMA-0632",
+            "keyword": [
+                "Communications"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-02-03T14:11:54-05:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Resilience/Federal Insurance Directorate"
+            },
+            "rights": null,
+            "title": "MP Web Content (Drupal/Diamond)"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "The Mitigation Planning Portal (MPP) is an online platform for tracking and reporting mitigation plans and related data elements across all ten Federal Emergency Management Agency (FEMA) Regions. rnrnDataset is used to identify mitigation plans across states and regions.rnrnDatapoints include links to mitigation plans for each state (a separate excel file of state links is held on local drive).",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://fema.maps.arcgis.com/apps/webappviewer/index.html?id=ec2fb023df744cf480da89539338c386"
+                }
+            ],
+            "identifier": "FEMA-0633",
+            "keyword": [
+                "Threats and Hazards"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-02-03T14:11:54-05:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Resilience/Risk Management Directorate"
+            },
+            "rights": null,
+            "title": "Local Hazard Mitigation Plan Status Dynamic Map (Geoplatform)"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "The data found on this page comes from the Hazard Mitigation Planning Program's Mitigation Planning Portal (MPP). The MPP is an online platform for tracking and reporting on mitigation plans and related data elements across all ten Federal Emergency Management Agency (FEMA) Regions. MPP data provides insight into which jurisdictions are participating in mitigation plans across the country and what the status of those plans are. Additionally, MPP data provides dates to support tracking of when plans are approved and when they are set to expire which FEMA uses to monitor and support disaster preparedness and resilience.rnHazard mitigation planning reduces loss of life and property by minimizing the impact of disasters. It begins with state, tribal, territorial and local governments identifying natural disaster risks and vulnerabilities that are common in their area. After identifying these risks, they develop long-term strategies for protecting people and property from similar events. Mitigation plans are key to breaking the cycle of disaster damage and reconstruction. When applying for certain types of non-emergency disaster assistance, FEMA requires a hazard mitigation plan. These requirements are part of the laws, regulations and policy surrounding hazard mitigation planning. For more information, visit Hazard Mitigation Planning (https://www.fema.gov/emergency-managers/risk-management/hazard-mitigation-planning)rnrnHazard mitigation plans enable state, tribal, territorial, and local governments to: rnulli Increase education and awareness around threats, hazards, risk, and vulnerabilities/liliBuild partnerships for risk reduction with governments, organizations, businesses, and the public/liliIdentify long-term strategies that seek to reduce risk/liliAlign risk reduction with other state, tribal, territorial or local objectives/liliIdentify implementation actions to focus resources on the greatest risks and vulnerabilities/liliConnect priorities to potential funding sources/liliIncrease investment in mitigation actions/li/ulrnrnA FEMA-approved hazard mitigation plan is needed to receive certain types of non-emergency disaster assistance.rnrnrnPlease note that jurisdictions may participate in multiple plans. This is raw, unedited data that is dependent on Regional entry, as such it is subject to human error and delayed entry of plan information. The data is updated from authoritative sources and has a minimum 24 hour delay.rnCitation: The Agency's preferred citation for datasets (API usage or file downloads) can be found on the OpenFEMA Terms and Conditions page, Citing Data section: https://www.fema.gov/about/openfema/terms-conditions. rnPlace name may differ from official naming standard referenced in update organization documents (i.e. Tribal name under BIA list or other authoritative source Village of, City of, etc.).rnrnIf you have media inquiries about this dataset, please email the FEMA News Desk FEMA-News-Desk@dhs.gov or call (202) 646-3272.  For inquiries about FEMA's data and Open government program please contact the OpenFEMA team via email OpenFEMA@fema.dhs.gov.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://www.fema.gov/api/open/v1/HazardMitigationPlanStatuses"
+                }
+            ],
+            "identifier": "FEMA-0634",
+            "keyword": [
+                "Assessments"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-02-03T14:11:54-05:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Resilience/Risk Management Directorate"
+            },
+            "rights": null,
+            "title": "Hazard Mitigation Plan Statuses (OpenFEMA)"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "This record description is for the FEMA Applicant Case Tracker (Fac-trax - Grants Manager) portion of the unioned query required due to migration of Public Assistance (PA) Recovery records from the EMMIE database into the Fac-trax database. This dataset contains data on Public Assistance project awards (obligations), including the project obligation date(s); dollar amount of Federal Share Obligated for each project and its obligation date(s); FEMA region; state; disaster declaration number; descriptive cause of the declaration (incident type); entity requesting public assistance (applicant name); and distinct name for the repair, replacement or mitigation work listed for assistance (Project Title). The PA Grant Awards Activities dataset does not collect, maintain, use, or disseminate any Personally Identifiable Information (PII).rnrnAs part of Congressional bill HR 152 - the Sandy Recovery Improvement Act of 2013, FEMA is providing the following information for our stakeholders:rn\u2022 Regionrn\u2022 Disaster Declaration Numberrn\u2022 Disaster Typern\u2022 Statern\u2022 Applicantrn\u2022 Countyrn\u2022 Damage Category Codern\u2022 Federal Share Obligatedrn\u2022 Date ObligatedrnrnFEMA obligates funding for a project directly to the Recipient (State or Tribe). It is the Recipient's responsibility to ensure that the eligible subrecipient (listed in the dataset as Applicant Name) receives the award funding.rnThis dataset lists details about project versions. Versions occur when the scope/cost changes for a project.  Versions adjust the cost of the project  with positive additions called obligations and subtractions called deobligations.  Combined, they reconcile to reflect the Total Federal Share Obligation, but reconciliation occurs over the life of the project, sometimes years after the declaration date.  The dataset represents project obligations within a seven-day period prior to the listed date but does not include obligations uploaded on the same day as the publication.  Open projects still under pre-obligation processing are not represented.rnFor more information on the Public Assistance process see: https://www.fema.gov/assistance/public/process.rnThis is raw, unedited data from FEMA's Fac-trax database and as such is subject to a small percentage of human error. The financial information is derived from Fac-trax and not FEMA's official financial systems. Due to differences in reporting periods, status of obligations and application of business rules, this financial information may differ slightly from official publication on public websites such as usaspending.gov. This dataset is not intended to be used for any official federal reporting.rnIf you have media inquiries about this dataset, please email the FEMA News Desk at FEMA-News-Desk@fema.dhs.gov or call (202) 646-3272. For inquiries about FEMA's data and Open Government program, please email the OpenFEMA team at OpenFEMA@fema.dhs.gov.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://www.fema.gov/openfema-data-page/public-assistance-grant-award-activities-v2"
+                }
+            ],
+            "identifier": "FEMA-0635",
+            "keyword": [
+                "Incidents"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-02-03T14:11:54-05:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Response and Recovery/Recovery Directorate"
+            },
+            "rights": null,
+            "title": "Public Assistance Grant Award Activities (Factrax)"
         },
         {
             "accessLevel": "public",
@@ -29215,7 +29566,7 @@
                 "Finance"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-07-01T07:47:18-04:00",
+            "modified": "2025-02-03T14:11:54-05:00",
             "programCode": [
                 "024:000"
             ],
@@ -32059,6 +32410,39 @@
             },
             "rights": null,
             "title": "010 Office of Intelligence and Analysis Open Source Enterprice Open Source Intelligence Collection and Reporting"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "Descriptions of all National Disaster & Emergency Management University (NDEMU) Independent Study courses including code, title, date, overview, prerequisities, CEUs, and length.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://training.fema.gov/is/crslist.aspx"
+                }
+            ],
+            "identifier": "FEMA-0612",
+            "keyword": [
+                "Training and Exercises"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-02-03T14:11:54-05:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Resilience/National Preparedness Directorate"
+            },
+            "rights": null,
+            "title": "NDEMU Independent Study Course Information"
         }
     ]
 }
