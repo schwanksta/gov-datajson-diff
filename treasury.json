@@ -383,7 +383,7 @@
             ],
             "landingPage": "http://www.treasury.gov/resource-center/data-chart-center/Pages/mbs-purchase-program.aspx",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -432,7 +432,7 @@
             ],
             "landingPage": "http://www.treasury.gov/resource-center/data-chart-center/Pages/mbs-purchase-program.aspx",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -1020,7 +1020,7 @@
             ],
             "landingPage": "http://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=billrates",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -1067,7 +1067,7 @@
             ],
             "landingPage": "http://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=reallongtermrate",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -1118,7 +1118,7 @@
             ],
             "landingPage": "http://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -3612,7 +3612,7 @@
             ],
             "landingPage": "http://www.treasury.gov/resource-center/data-chart-center/tic/Pages/ticsec.aspx",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -3661,7 +3661,7 @@
             ],
             "landingPage": "http://www.treasury.gov/resource-center/data-chart-center/tic/Pages/ticsec.aspx",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -4079,7 +4079,7 @@
             ],
             "landingPage": "http://www.treasury.gov/resource-center/data-chart-center/tic/Pages/ticsec.aspx",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -4485,7 +4485,7 @@
                 "terrorist financing"
             ],
             "license": "http://opendefinition.org/licenses/cc-zero/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -8853,35 +8853,33 @@
                 "015:45"
             ],
             "contactPoint": {
-                "fn": "Cynthia Belmonte",
+                "fn": "Kevin Pierce",
                 "hasEmail": "mailto:sis@irs.gov"
             },
-            "describedBy": "https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data",
-            "description": "Annual extract of select Form 990PF financial data items captured on the IRS Master File produced solely for release to the general public.",
+            "describedBy": "http://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi",
+            "description": "This annual study provides selected income and tax items classified by State, ZIP Code, and the size of adjusted gross income. These data include the number of returns, which approximates the number of households; the number of personal exemptions, which approximates the population; adjusted gross income; wages and salaries; dividends before exclusion; and interest received. Data are based who reported on U.S. Individual Income Tax Returns (Forms 1040) filed with the IRS. SOI collects these data as part of its Individual Income Tax Return (Form 1040) Statistics program, Data by Geographic Areas, ZIP Code Data.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data",
-                    "describedBy": "https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data",
+                    "accessURL": "http://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi",
+                    "describedBy": "http://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi",
                     "describedByType": "text/html",
-                    "downloadURL": "https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data",
+                    "downloadURL": "http://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi",
                     "mediaType": "text/html"
                 }
             ],
-            "identifier": "015-IRS-SOI-990PFFDE",
+            "identifier": "015-IRS-SOI-ZIPCODE",
             "keyword": [
                 "IRS",
                 "statistics of income",
                 "soi",
-                "nonprofit",
-                "charitable",
-                "private foundation",
-                "contribution",
-                "grant",
-                "form 990-pf"
+                "state",
+                "zip code",
+                "income tax",
+                "form 1040"
             ],
-            "landingPage": "https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data",
-            "modified": "2023-11-22",
+            "landingPage": "http://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi",
+            "modified": "2024-06-07",
             "primaryITInvestmentUII": "015-000000021",
             "programCode": [
                 "015:042"
@@ -8898,7 +8896,7 @@
                     }
                 }
             },
-            "title": "Tax-Exempt Organizations (Private Foundations) Financial Data Extract"
+            "title": "Individuals, ZIP Code Data"
         },
         {
             "@type": "dcat:Dataset",
@@ -9130,33 +9128,35 @@
                 "015:45"
             ],
             "contactPoint": {
-                "fn": "Kevin Pierce",
+                "fn": "Cynthia Belmonte",
                 "hasEmail": "mailto:sis@irs.gov"
             },
-            "describedBy": "http://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi",
-            "description": "This annual study provides selected income and tax items classified by State, ZIP Code, and the size of adjusted gross income. These data include the number of returns, which approximates the number of households; the number of personal exemptions, which approximates the population; adjusted gross income; wages and salaries; dividends before exclusion; and interest received. Data are based who reported on U.S. Individual Income Tax Returns (Forms 1040) filed with the IRS. SOI collects these data as part of its Individual Income Tax Return (Form 1040) Statistics program, Data by Geographic Areas, ZIP Code Data.",
+            "describedBy": "https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data",
+            "description": "Annual extract of select Form 990PF financial data items captured on the IRS Master File produced solely for release to the general public.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "http://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi",
-                    "describedBy": "http://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi",
+                    "accessURL": "https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data",
+                    "describedBy": "https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data",
                     "describedByType": "text/html",
-                    "downloadURL": "http://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi",
+                    "downloadURL": "https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data",
                     "mediaType": "text/html"
                 }
             ],
-            "identifier": "015-IRS-SOI-ZIPCODE",
+            "identifier": "015-IRS-SOI-990PFFDE",
             "keyword": [
                 "IRS",
                 "statistics of income",
                 "soi",
-                "state",
-                "zip code",
-                "income tax",
-                "form 1040"
+                "nonprofit",
+                "charitable",
+                "private foundation",
+                "contribution",
+                "grant",
+                "form 990-pf"
             ],
-            "landingPage": "http://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi",
-            "modified": "2024-06-07",
+            "landingPage": "https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data",
+            "modified": "2023-11-22",
             "primaryITInvestmentUII": "015-000000021",
             "programCode": [
                 "015:042"
@@ -9173,7 +9173,7 @@
                     }
                 }
             },
-            "title": "Individuals, ZIP Code Data"
+            "title": "Tax-Exempt Organizations (Private Foundations) Financial Data Extract"
         },
         {
             "@type": "dcat:Dataset",
@@ -9211,7 +9211,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/recovery_tigtareports.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:015"
             ],
@@ -9259,7 +9259,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/oa_auditplans.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:015"
             ],
@@ -9309,7 +9309,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/oa_auditreports.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:015"
             ],
@@ -9360,7 +9360,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/recovery_congress.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -9409,7 +9409,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/publications_congress.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -9458,7 +9458,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/important_foia_ad_dele.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -9504,7 +9504,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/oi_doj.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:016"
             ],
@@ -9556,7 +9556,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/oie_iereports.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -9604,7 +9604,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/oi_highlights.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:016"
             ],
@@ -9654,7 +9654,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/important_foia_mis.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -9707,7 +9707,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/oa_management.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:015"
             ],
@@ -9755,7 +9755,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/important_foia_ad_memo.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -9803,7 +9803,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/oi_office.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:016"
             ],
@@ -9854,7 +9854,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/important_foia_ad_oper.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -9903,7 +9903,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/about_orgchart.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -9951,7 +9951,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/oa_peerreports.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -10001,7 +10001,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/publications_press.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -10052,7 +10052,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/recovery_reports_fy13_static.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:015"
             ],
@@ -10103,7 +10103,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/publications_semi.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -10151,7 +10151,7 @@
             ],
             "landingPage": "http://www.treasury.gov/tigta/recovery_programplan.shtml",
             "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -10184,7 +10184,7 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://www.ttb.gov/what-we-do/enforcement/offers-in-compromise",
+                    "accessURL": "https://www.ttb.gov/business-central/fo/administrative-cases#offers",
                     "downloadURL": "https://www.ttb.gov/what-we-do/enforcement/offers-in-compromise",
                     "mediaType": "text/html"
                 }
@@ -10193,7 +10193,7 @@
             "keyword": [
                 "Compromise"
             ],
-            "landingPage": "https://www.ttb.gov/what-we-do/enforcement/offers-in-compromise",
+            "landingPage": "https://www.ttb.gov/business-central/fo/administrative-cases#offers",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
             "modified": "2023-06-22",
             "programCode": [
@@ -10228,7 +10228,7 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://www.ttb.gov/what-we-do/enforcement/offers-in-compromise",
+                    "accessURL": "https://www.ttb.gov/business-central/fo/administrative-cases#offers",
                     "downloadURL": "https://www.ttb.gov/what-we-do/enforcement/offers-in-compromise",
                     "mediaType": "text/html"
                 }
@@ -10237,7 +10237,7 @@
             "keyword": [
                 "Compromise"
             ],
-            "landingPage": "https://www.ttb.gov/what-we-do/enforcement/offers-in-compromise",
+            "landingPage": "https://www.ttb.gov/business-central/fo/administrative-cases#offers",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
             "modified": "2023-06-22",
             "programCode": [
@@ -10273,10 +10273,10 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://www.ttb.gov/images/pdfs/statistics/95news06.htm",
+                    "accessURL": "https://www.ttb.gov/statistics/reports-and-data",
                     "describedBy": "https://www.ttb.gov/glossary",
                     "describedByType": "text/html",
-                    "downloadURL": "https://www.ttb.gov/images/pdfs/statistics/95news06.htm",
+                    "downloadURL": "https://www.ttb.gov/pdfs/statistics/95news06",
                     "mediaType": "text/html"
                 }
             ],
@@ -10292,7 +10292,7 @@
                 "snuff",
                 "TTB"
             ],
-            "landingPage": "https://www.ttb.gov/images/pdfs/statistics/95news06.htm",
+            "landingPage": "https://www.ttb.gov/statistics/reports-and-data",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
             "modified": "1995-09-30",
             "programCode": [
@@ -10342,7 +10342,7 @@
             ],
             "landingPage": "https://www.ttb.gov/foia/foia-logs",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:027"
             ],
@@ -10480,12 +10480,9 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "conformsTo": "http://www.isotc211.org/2005/gmd",
-                    "description": "The metadata original source",
+                    "accessURL": "https://www.ttb.gov/wine/ava-map-explorer",
                     "downloadURL": "https://www.arcgis.com/sharing/rest/content/items/a1c35b4a3dd2426f911d918aebd8add1/info/metadata/metadata.xml?format=iso19115",
-                    "format": "XML",
-                    "mediaType": "text/xml",
-                    "title": "Original Metadata"
+                    "mediaType": "text/xml"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -10495,7 +10492,6 @@
                 }
             ],
             "identifier": "015-TTB-8",
-            "issued": "2019-12-31T00:00:00",
             "keyword": [
                 "viticultural",
                 "wine",
@@ -10522,9 +10518,6 @@
                     }
                 }
             },
-            "theme": [
-                "geospatial"
-            ],
             "title": "AVA Map Explorer"
         },
         {
@@ -10559,7 +10552,7 @@
             ],
             "landingPage": "https://www.ttb.gov/beer/statistics",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:026"
             ],
@@ -10636,7 +10629,7 @@
                 "hasEmail": "mailto:ttbfoia@ttb.gov"
             },
             "describedBy": "https://www.ttb.gov/glossary",
-            "description": "Monthly distilled spirits statistical release reports compiled using data from:\r\n\r\nMonthly Report of Processing (Denaturing) Operations Form 5110.43\r\nMonthly Report of Production Operations Form 5110.40\r\nMonthly Report of Processing Operations Form 5110.25\r\nMonthly Report of Storage Operations Form 5110.11",
+            "description": "Monthly distilled spirits statistical release reports compiled using data from:\n\nMonthly Report of Processing (Denaturing) Operations Form 5110.43\nMonthly Report of Production Operations Form 5110.40\nMonthly Report of Processing Operations Form 5110.25\nMonthly Report of Storage Operations Form 5110.11",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -10660,7 +10653,7 @@
             ],
             "landingPage": "https://www.ttb.gov/distilled-spirits/statistics",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:026"
             ],
@@ -10757,7 +10750,7 @@
             ],
             "landingPage": "https://www.ttb.gov/foia/foia-annual-reports",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:027"
             ],
@@ -10817,7 +10810,7 @@
             ],
             "landingPage": "https://www.ttb.gov/foia/list-of-permittees",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:026"
             ],
@@ -10969,7 +10962,7 @@
             ],
             "landingPage": "https://www.ttb.gov/wine/list-of-pending-american-viticultural-areas-petitions",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-07-24",
+            "modified": "2023-10-10",
             "programCode": [
                 "015:027"
             ],
@@ -11112,7 +11105,7 @@
             ],
             "landingPage": "https://www.ttb.gov/nrc/statistics-original-applications-to-operate",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:027"
             ],
@@ -11162,7 +11155,7 @@
             ],
             "landingPage": "https://www.ttb.gov/formulation/fonl-processing-times",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:027"
             ],
@@ -11212,7 +11205,7 @@
             ],
             "landingPage": "https://www.ttb.gov/labeling/processing-times",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:027"
             ],
@@ -11261,7 +11254,7 @@
             ],
             "landingPage": "https://www.ttb.gov/foia/electronic-reading-room",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:026"
             ],
@@ -11321,7 +11314,7 @@
             ],
             "landingPage": "https://www.ttb.gov/tax-audit/tax-collections",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:026"
             ],
@@ -11538,7 +11531,7 @@
             ],
             "landingPage": "https://www.ttb.gov/tobacco/tobacco-statistics",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:026"
             ],
@@ -11583,7 +11576,7 @@
             ],
             "landingPage": "https://www.ttb.gov/epayment",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:026"
             ],
@@ -11628,7 +11621,7 @@
             ],
             "landingPage": "https://www.ttb.gov/about-ttb/plans-and-reports-annual-reports",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:005"
             ],
@@ -11786,7 +11779,7 @@
             ],
             "landingPage": "https://www.ttbonline.gov/colasonline/publicSearchColasBasic.do",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:027"
             ],
@@ -11894,7 +11887,7 @@
             ],
             "landingPage": "https://www.ttb.gov/wine/wine-statistics",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:026"
             ],
@@ -11938,7 +11931,7 @@
                 "Bullion Mintage\u00a0Figures"
             ],
             "landingPage": "https://www.usmint.gov/bullion-sales",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -11981,7 +11974,7 @@
                 "Circulating Coins Production Figures"
             ],
             "landingPage": "https://www.usmint.gov/circulating-coins-production",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -12024,7 +12017,7 @@
                 "Cumulative Numismatic Sales Figures"
             ],
             "landingPage": "https://www.usmint.gov/cumulative-sales-figures/",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -12067,7 +12060,7 @@
                 "Numismatic Precious Metal Products Sales Figures"
             ],
             "landingPage": "https://www.usmint.gov/precious-metal-products",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
@@ -12115,7 +12108,7 @@
                 "Circulating Coin Sales"
             ],
             "landingPage": "https://www.usmint.gov/about/reports",
-            "modified": "2023-12-08",
+            "modified": "2025-02-11",
             "programCode": [
                 "015:000"
             ],
