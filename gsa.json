@@ -3724,15 +3724,15 @@
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://inventory.data.gov/dataset/9a9e946e-124e-46f5-a934-e458a6c1c2b2/resource/f5d0cf4e-fdd9-45cf-9987-9f1122ff45e2/download/2025-1-31-iolp-leases.xlsx",
+                    "downloadURL": "https://inventory.data.gov/dataset/9a9e946e-124e-46f5-a934-e458a6c1c2b2/resource/78334b97-962a-4c22-86e1-c8a3b56f8d7d/download/2025-2-7-iolp-buildings.xlsx",
                     "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                    "title": "2025 - 1 - 31 - IOLP Leases.xlsx"
+                    "title": "2025 - 2 - 7 - IOLP Buildings.xlsx"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://inventory.data.gov/dataset/9a9e946e-124e-46f5-a934-e458a6c1c2b2/resource/e9a02783-3127-4162-bdd9-c7c79140e52a/download/2025-1-31-iolp-buildings.xlsx",
+                    "downloadURL": "https://inventory.data.gov/dataset/9a9e946e-124e-46f5-a934-e458a6c1c2b2/resource/1b474a87-3ef4-44ab-9341-c4b8e69556a5/download/2025-2-7-iolp-leases.xlsx",
                     "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                    "title": "2025 - 1 - 31 - IOLP Buildings.xlsx"
+                    "title": "2025 - 2 - 7 - IOLP Leases.xlsx"
                 }
             ],
             "identifier": "GSA-4495",
@@ -7578,9 +7578,9 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://inventory.data.gov/dataset/acf8e47e-24d2-4e4d-a786-847643f101fd/resource/cf5456cc-287a-42b7-839a-ccf8eacd2f4d/download/1.31.25data.json",
+                    "downloadURL": "https://inventory.data.gov/dataset/acf8e47e-24d2-4e4d-a786-847643f101fd/resource/81e73017-0de4-4e0a-bf44-f86169c3d960/download/2.6.25data.json",
                     "mediaType": "application/json",
-                    "title": "1.31.25data.json"
+                    "title": "2.6.25data.json"
                 }
             ],
             "identifier": "GSA-2015-11-13-01",
@@ -17893,6 +17893,53 @@
             },
             "rights": "true",
             "title": "Networx Business Volume FY2025"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "bureauCode": [
+                "015:11"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Loren Smith",
+                "hasEmail": "mailto:loren.smith@gsa.gov"
+            },
+            "description": "This dataset represents the EIS business volume of each government agency that has ordered telecommunication services from the EIS contract. This contains data from FY2025.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://inventory.data.gov/dataset/81c389b0-2ad4-4bb3-9228-0d8649dd4ee4/resource/e842d8ea-81ba-4cc1-8c2e-b8d82b90c678/download/eistotrevfy25_q1.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "title": "EISTotRevFY25_Q1.xlsx"
+                }
+            ],
+            "identifier": "GSA-2025-02-10-01",
+            "keyword": [
+                "EIS",
+                "business-volume",
+                "enterprise infrastructure",
+                "gsa",
+                "telecommunications"
+            ],
+            "language": [
+                "en-US"
+            ],
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "modified": "2025-02-10T14:04:37.968Z",
+            "programCode": [
+                "015:001"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Federal Acquisition Service",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "General Services Administration"
+                }
+            },
+            "rights": "true",
+            "title": "FY25 Enterprise Infrastructure Solutions (EIS) Quarterly Reports"
         }
     ],
     "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
