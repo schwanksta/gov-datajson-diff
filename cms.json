@@ -15493,8 +15493,17 @@
             "dataQuality": true,
             "describedBy": "https://data.cms.gov/sites/default/files/2024-10/53da33d6-c110-4834-99ad-483980a07269/PUFRecordLayout-2025.pdf",
             "describedByType": "application/pdf",
-            "description": "The Monthly Prescription Drug Plan Formulary and Pharmacy Network Information files contain formulary and pharmacy network data for Medicare Prescription Drug Plans and Medicare Advantage (MA) Prescription Drug Plans (with the exception of employer and Program of All-Inclusive Care for the Elderly plans).\n\n\u00a0\n\nNotice: CMS has identified an issue that resulted in a 15% coinsurance for plans with Defined Standard benefits to be listed rather than a 25% coinsurance in the Beneficiary Cost File under certain scenarios. This issue affected the October 2023 to November 2024 data. CMS will re-post the corrected data in batches between now and May 2025. The following files have already been corrected and re-posted:\n\n\n\tOctober 2024\n\tNovember 2024\n\n\n\u00a0\n\nThese non-identifiable files are available on a monthly basis and are comprised of the following tables:\n\n\n\tPlan Information - Information such as plan name, contract ID, plan ID, service area, and plan type.\n\tGeographic Locator - MA and Prescription Drug Plans region codes and county codes.\n\tBasic Drugs Formulary - Formulary details for each plan including National Drug Codes (NDCs), cost share tier level, and indicators for step therapy, quantity limits, and prior authorization.\n\tExcluded Drugs Formulary - Enhanced alternative plans may elect to provide a supplemental benefit and cover excluded drugs. File includes formulary details for excluded drugs that are covered by the plan (for enhanced alternative plans only).\n\tBeneficiary Cost - Plan level cost sharing details for preferred, non-preferred, and mail order network pharmacies.\n\tPharmacy Network - National Provider Identifier (NPI) numbers for each network pharmacy including preferred, retail, and mail order indicators.\n\tIndication Based Coverage Formulary File - Includes drugs covered based on FDA-approved indication for each plan.\n\tInsulin Beneficiary Cost File - Plan level cost sharing details for insulin at preferred, non-preferred and mail order network pharmacies.\n\n\n\u00a0\n\nThese are large files and can take time to download.\u00a0\n\u00a0\n\nPlease read the \u201cAgreement for Use\u201d in the Resources section below. This document contains important information regarding timeframes for obtaining data as well as data accuracy and integrity.\n\n\u00a0\n\nThe Quarterly Prescription Drug Plan Formulary, Pharmacy Network, and Pricing Information\u00a0is also available to access for the quarterly level information.\u00a0\n\n\u00a0\n\nPlease note:\u00a0The Part D benefit year information for plans become available in October of the year prior. For example, year 2024 data is available in the October, November and December 2023 monthly files. Year 2024 data continues to be available in the January through September 2024 monthly files, then beginning in October of 2024 year 2025 data becomes available.\n\nEstimated release dates for upcoming 2025 monthly data (files reflect data for the month in which the file is released):\n\n\n\t2/26/25\n\t3/26/25\n\t4/23/25\n\t5/21/25\n\t6/18/25\n\t7/30/25\n\t8/27/25\n\t9/24/25\n\n\nFiles older than contract year 2019 can be purchased.",
+            "description": "The Monthly Prescription Drug Plan Formulary and Pharmacy Network Information files contain formulary and pharmacy network data for Medicare Prescription Drug Plans and Medicare Advantage (MA) Prescription Drug Plans (with the exception of employer and Program of All-Inclusive Care for the Elderly plans).\n\n\u00a0\n\nNotice: CMS has identified an issue that resulted in a 15% coinsurance for plans with Defined Standard benefits to be listed rather than a 25% coinsurance in the Beneficiary Cost File under certain scenarios. This issue affected the October 2023 to November 2024 data. CMS will re-post the corrected data in batches between now and May 2025. The following files have already been corrected and re-posted:\n\n\n\tOctober 2023\n\tNovember 2023\n\tDecember\u00a02023\n\tOctober 2024\n\tNovember 2024\n\n\n\u00a0\n\nThese non-identifiable files are available on a monthly basis and are comprised of the following tables:\n\n\n\tPlan Information - Information such as plan name, contract ID, plan ID, service area, and plan type.\n\tGeographic Locator - MA and Prescription Drug Plans region codes and county codes.\n\tBasic Drugs Formulary - Formulary details for each plan including National Drug Codes (NDCs), cost share tier level, and indicators for step therapy, quantity limits, and prior authorization.\n\tExcluded Drugs Formulary - Enhanced alternative plans may elect to provide a supplemental benefit and cover excluded drugs. File includes formulary details for excluded drugs that are covered by the plan (for enhanced alternative plans only).\n\tBeneficiary Cost - Plan level cost sharing details for preferred, non-preferred, and mail order network pharmacies.\n\tPharmacy Network - National Provider Identifier (NPI) numbers for each network pharmacy including preferred, retail, and mail order indicators.\n\tIndication Based Coverage Formulary File - Includes drugs covered based on FDA-approved indication for each plan.\n\tInsulin Beneficiary Cost File - Plan level cost sharing details for insulin at preferred, non-preferred and mail order network pharmacies.\n\n\n\u00a0\n\nThese are large files and can take time to download.\u00a0\n\u00a0\n\nPlease read the \u201cAgreement for Use\u201d in the Resources section below. This document contains important information regarding timeframes for obtaining data as well as data accuracy and integrity.\n\n\u00a0\n\nThe Quarterly Prescription Drug Plan Formulary, Pharmacy Network, and Pricing Information\u00a0is also available to access for the quarterly level information.\u00a0\n\n\u00a0\n\nPlease note:\u00a0The Part D benefit year information for plans become available in October of the year prior. For example, year 2024 data is available in the October, November and December 2023 monthly files. Year 2024 data continues to be available in the January through September 2024 monthly files, then beginning in October of 2024 year 2025 data becomes available.\n\nEstimated release dates for upcoming 2025 monthly data (files reflect data for the month in which the file is released):\n\n\n\t3/26/25\n\t4/23/25\n\t5/21/25\n\t6/18/25\n\t7/30/25\n\t8/27/25\n\t9/24/25\n\n\nFiles older than contract year 2019 can be purchased.",
             "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-02/2cef8337-fdb7-46fd-bda7-5d926d3b7785/2025_20250220.zip",
+                    "mediaType": "application/zip",
+                    "modified": "2025-02-27",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/d1a42851-4d76-416d-a30c-3fdf2bb888f4",
+                    "temporal": "2025-02-01/2025-02-28",
+                    "title": "Monthly Prescription Drug Plan Formulary and Pharmacy Network Information : 2025-02-01"
+                },
                 {
                     "@type": "dcat:Distribution",
                     "downloadURL": "https://data.cms.gov/sites/default/files/2025-01/b41e18c0-2249-490f-a57b-5ed085e03baf/2025_20250123.zip",
@@ -15614,30 +15623,30 @@
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2023-12/8d417dfb-14df-4128-b8b6-cec049762042/2024_20231214.zip",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-01/df39a477-5d55-4770-a11e-f03eb9c6e2de/2024_20250131_Dec2023.zip",
                     "mediaType": "application/zip",
-                    "modified": "2024-01-05",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/1982d8a3-07f6-4d80-88c2-cfa8e4c85d57",
+                    "modified": "2025-02-27",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/befafee6-06da-4685-b789-9e84809ff48b",
                     "temporal": "2023-12-01/2023-12-31",
-                    "title": "Monthly Prescription Drug Plan Formulary and Pharmacy Network Information : 2023-12-14"
+                    "title": "Monthly Prescription Drug Plan Formulary and Pharmacy Network Information : 2023-12-15"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2023-12/3bee0a79-f692-468b-999e-b5b4d18de0bd/2024_20231116.zip",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-01/aae877a9-335c-43dd-b1a0-e649742d1444/2024_20250131_Nov2023.zip",
                     "mediaType": "application/zip",
-                    "modified": "2023-12-14",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/ad58418f-6b5f-4917-9c70-37a71c59c0a1",
+                    "modified": "2025-02-27",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/49510a31-0268-4cd4-ba8a-6749169a8576",
                     "temporal": "2023-11-01/2023-11-30",
-                    "title": "Monthly Prescription Drug Plan Formulary and Pharmacy Network Information : 2023-11-16"
+                    "title": "Monthly Prescription Drug Plan Formulary and Pharmacy Network Information : 2023-11-17"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2023-10/c412f770-2494-4000-ac78-cd10986968d6/2024_20231018.zip",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-01/333d554e-d4db-4bff-ac69-80068c59953c/2024_20250131_Oct2023.zip",
                     "mediaType": "application/zip",
-                    "modified": "2023-12-14",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/8d519d3b-6c21-4d17-ba9a-a88232f37d6f",
+                    "modified": "2025-02-27",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/416f3806-63e2-45ab-b46a-ab766f97c380",
                     "temporal": "2023-10-01/2023-10-31",
-                    "title": "Monthly Prescription Drug Plan Formulary and Pharmacy Network Information : 2023-10-18"
+                    "title": "Monthly Prescription Drug Plan Formulary and Pharmacy Network Information : 2023-10-19"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -16167,7 +16176,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-02-05",
+            "modified": "2025-02-27",
             "programCode": [
                 "009:000"
             ],
@@ -16178,7 +16187,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-10/70a9541f-c350-43c3-a3c6-26fe428807de/Methodology-PUF-2025.pdf"
             ],
-            "temporal": "2019-01-01/2025-01-31",
+            "temporal": "2019-01-01/2025-02-28",
             "theme": [
                 "Medicare"
             ],
