@@ -3222,9 +3222,9 @@
             "identifier": "https://www.data.va.gov/api/views/38ij-jq95",
             "issued": "2024-06-09",
             "keyword": [
-                "ncvas state summary",
+                "fy2024",
                 "maryland",
-                "fy2024"
+                "ncvas state summary"
             ],
             "landingPage": "https://www.data.va.gov/d/38ij-jq95",
             "modified": "2025-03-06",
@@ -3505,7 +3505,7 @@
                 "fn": "National Center for Veterans Analysis and Statistics",
                 "hasEmail": "mailto:VANCVAS@VA.GOV"
             },
-            "description": "VetPop2023 projection of living Veterans by gender and 4 age groups at the VISN level. \n\nNote: Rounding to the nearest 1,000 is always appropriate for VetPop estimates.",
+            "description": "VetPop2023 projection of living Veterans by sex and 4 age groups at the VISN level. \n\nNote: Rounding to the nearest 1,000 is always appropriate for VetPop estimates.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -3535,16 +3535,16 @@
                 }
             ],
             "identifier": "https://www.data.va.gov/api/views/3aej-m45q",
-            "issued": "2024-09-09",
+            "issued": "2025-03-06",
             "keyword": [
-                "veteran population",
                 "veterans",
+                "veteran population",
                 "vetpop",
                 "vetpop2023"
             ],
             "landingPage": "https://www.data.va.gov/d/3aej-m45q",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-09-09",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -3818,7 +3818,7 @@
                 "fn": "National Center for Veterans Analysis and Statistics",
                 "hasEmail": "mailto:VANCVAS@VA.GOV"
             },
-            "description": "VetPop2023 projection of living Veterans by gender and rank (Officer or Enlisted) at the national level. \n\nNote: Rounding to the nearest 1,000 is always appropriate for VetPop estimates.",
+            "description": "VetPop2023 projection of living Veterans by sex and rank (Officer or Enlisted) at the national level. \n\nNote: Rounding to the nearest 1,000 is always appropriate for VetPop estimates.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -3848,7 +3848,7 @@
                 }
             ],
             "identifier": "https://www.data.va.gov/api/views/3bpv-5eec",
-            "issued": "2024-09-09",
+            "issued": "2025-03-06",
             "keyword": [
                 "veteran population",
                 "veterans",
@@ -3857,7 +3857,7 @@
             ],
             "landingPage": "https://www.data.va.gov/d/3bpv-5eec",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-09-09",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -15079,7 +15079,7 @@
                 "fn": "National Center for Veterans Analysis and Statistics",
                 "hasEmail": "mailto:VANCVAS@VA.GOV"
             },
-            "description": "VetPop2023 projection of living Veterans by gender and period of service at the state level. \n\nNote: Rounding to the nearest 1,000 is always appropriate for VetPop estimates.",
+            "description": "VetPop2023 projection of living Veterans by sex and period of service at the state level. \n\nNote: Rounding to the nearest 1,000 is always appropriate for VetPop estimates.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -15109,16 +15109,16 @@
                 }
             ],
             "identifier": "https://www.data.va.gov/api/views/6kr5-skza",
-            "issued": "2024-09-09",
+            "issued": "2025-03-06",
             "keyword": [
-                "veteran population",
                 "veterans",
+                "veteran population",
                 "vetpop",
                 "vetpop2023"
             ],
             "landingPage": "https://www.data.va.gov/d/6kr5-skza",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-09-09",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -21862,7 +21862,7 @@
                 "fn": "National Center for Veterans Analysis and Statistics",
                 "hasEmail": "mailto:VANCVAS@VA.GOV"
             },
-            "description": "VetPop2023 projection of living Veterans by gender and race/ethnicity at the national level. \n\nNote: Rounding to the nearest 1,000 is always appropriate for VetPop estimates.",
+            "description": "VetPop2023 projection of living Veterans by sex and race/ethnicity at the national level. \n\nNote: Rounding to the nearest 1,000 is always appropriate for VetPop estimates.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -21892,7 +21892,7 @@
                 }
             ],
             "identifier": "https://www.data.va.gov/api/views/8zhc-knsi",
-            "issued": "2024-09-05",
+            "issued": "2025-03-06",
             "keyword": [
                 "veteran population",
                 "veterans",
@@ -21901,7 +21901,7 @@
             ],
             "landingPage": "https://www.data.va.gov/d/8zhc-knsi",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-09-09",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -41034,8 +41034,8 @@
             "identifier": "https://www.data.va.gov/api/views/f43c-vb9n",
             "issued": "2025-03-06",
             "keyword": [
-                "veterans",
                 "veteran population",
+                "veterans",
                 "vetpop",
                 "vetpop2023"
             ],
@@ -42281,7 +42281,7 @@
                 "fn": "National Center for Veterans Analysis and Statistics",
                 "hasEmail": "mailto:VANCVAS@VA.GOV"
             },
-            "description": "The Department of Veterans Affairs provides official estimates and projections of the Veteran population using the Veteran Population Projection Model (VetPop). Based on the available information through September 30, 2020, the latest model VetPop2020 estimated the Veteran population for the period from 2000 to 2020. The \u201cNumber of Estimated Veterans by State, Gender, and Age Group, 9/30/2000 to 9/30/2020\u201d data table shows the number of living Veterans at the end of each fiscal year from 2000 to 2020.",
+            "description": "The Department of Veterans Affairs provides official estimates and projections of the Veteran population using the Veteran Population Projection Model (VetPop). Based on the available information through September 30, 2020, the latest model VetPop2020 estimated the Veteran population for the period from 2000 to 2020. The \u201cNumber of Estimated Veterans by State, Sex, and Age Group, 9/30/2000 to 9/30/2020\u201d data table shows the number of living Veterans at the end of each fiscal year from 2000 to 2020.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -42311,14 +42311,14 @@
                 }
             ],
             "identifier": "https://www.data.va.gov/api/views/fkjq-z6m8",
-            "issued": "2022-10-04",
+            "issued": "2025-03-06",
             "keyword": [
-                "historical period estimate",
-                "veteran population"
+                "veteran population",
+                "historical period estimate"
             ],
             "landingPage": "https://www.data.va.gov/d/fkjq-z6m8",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-04-06",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -50993,7 +50993,7 @@
                 "fn": "National Center for Veterans Analysis and Statistics",
                 "hasEmail": "mailto:VANCVAS@VA.GOV"
             },
-            "description": "VetPop2023 projection of living Veterans by gender and race/ethnicity at the state level. \n\nNote: Rounding to the nearest 1,000 is always appropriate for VetPop estimates.",
+            "description": "VetPop2023 projection of living Veterans by sex and race/ethnicity at the state level. \n\nNote: Rounding to the nearest 1,000 is always appropriate for VetPop estimates.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -51023,16 +51023,16 @@
                 }
             ],
             "identifier": "https://www.data.va.gov/api/views/ig48-b5dn",
-            "issued": "2024-09-09",
+            "issued": "2025-03-06",
             "keyword": [
-                "veteran population",
                 "veterans",
+                "veteran population",
                 "vetpop",
                 "vetpop2023"
             ],
             "landingPage": "https://www.data.va.gov/d/ig48-b5dn",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-09-09",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -54593,8 +54593,8 @@
             "identifier": "https://www.data.va.gov/api/views/jrjd-qghv",
             "issued": "2025-03-06",
             "keyword": [
-                "veterans",
                 "veteran population",
+                "veterans",
                 "vetpop",
                 "vetpop2023"
             ],
@@ -55865,7 +55865,7 @@
                 "fn": "National Center for Veterans Analysis and Statistics",
                 "hasEmail": "mailto:VANCVAS@VA.GOV"
             },
-            "description": "VetPop2023 projection of living Veterans by gender and branch of service at the national level. \n\nNote: Rounding to the nearest 1,000 is always appropriate for VetPop estimates.",
+            "description": "VetPop2023 projection of living Veterans by sex and branch of service at the national level. \n\nNote: Rounding to the nearest 1,000 is always appropriate for VetPop estimates.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -55895,16 +55895,16 @@
                 }
             ],
             "identifier": "https://www.data.va.gov/api/views/k9dc-9an8",
-            "issued": "2024-09-05",
+            "issued": "2025-03-06",
             "keyword": [
-                "veteran population",
                 "veterans",
+                "veteran population",
                 "vetpop",
                 "vetpop2023"
             ],
             "landingPage": "https://www.data.va.gov/d/k9dc-9an8",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-09-09",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -71419,9 +71419,9 @@
             "identifier": "https://www.data.va.gov/api/views/rwgn-ekjg",
             "issued": "2024-09-04",
             "keyword": [
+                "veterans",
                 "vetpop",
-                "vetpop2023",
-                "veterans"
+                "vetpop2023"
             ],
             "landingPage": "https://www.data.va.gov/d/rwgn-ekjg",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -74598,7 +74598,7 @@
                 "fn": "National Center of Veterans Analytics Services",
                 "hasEmail": "mailto:VACONCVAS@va.gov"
             },
-            "description": "FY2023 Total Veterans Population by Gender",
+            "description": "FY2023 Total Veterans Population by Sex",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -74630,12 +74630,12 @@
             "identifier": "https://www.data.va.gov/api/views/sywf-qkby",
             "issued": "2024-08-15",
             "keyword": [
-                "veteran population",
-                "veterans"
+                "veterans",
+                "veteran population"
             ],
             "landingPage": "https://www.data.va.gov/d/sywf-qkby",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-10-25",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -74643,7 +74643,7 @@
                 "@type": "org:Organization",
                 "name": "Department of Veterans Affairs"
             },
-            "title": "VetPop Total Population by Gender"
+            "title": "VetPop Total Population by Sex"
         },
         {
             "@type": "dcat:Dataset",
@@ -78289,7 +78289,7 @@
                 "fn": "National Center for Veterans Analysis and Statistics",
                 "hasEmail": "mailto:VANCVAS@VA.GOV"
             },
-            "description": "The Department of Veterans Affairs provides official estimates and projections of the Veteran population using the Veteran Population Projection Model (VetPop). Based on the available information through September 30, 2020, the latest model VetPop2020 estimated the Veteran population for the period from 2000 to 2020. The \u201cNumber of Estimated Veterans by Gender and Age Group, 9/30/2000 to 9/30/2020\u201d data table shows the number of living Veterans at the end of each fiscal year from 2000 to 2020.",
+            "description": "The Department of Veterans Affairs provides official estimates and projections of the Veteran population using the Veteran Population Projection Model (VetPop). Based on the available information through September 30, 2020, the latest model VetPop2020 estimated the Veteran population for the period from 2000 to 2020. The \u201cNumber of Estimated Veterans by Sex and Age Group, 9/30/2000 to 9/30/2020\u201d data table shows the number of living Veterans at the end of each fiscal year from 2000 to 2020.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -78319,14 +78319,14 @@
                 }
             ],
             "identifier": "https://www.data.va.gov/api/views/ugb5-p35y",
-            "issued": "2022-10-04",
+            "issued": "2025-03-06",
             "keyword": [
-                "historical period estimate",
-                "veteran population"
+                "veteran population",
+                "historical period estimate"
             ],
             "landingPage": "https://www.data.va.gov/d/ugb5-p35y",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-04-06",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -82238,8 +82238,8 @@
             "identifier": "https://www.data.va.gov/api/views/vggh-gqm3",
             "issued": "2025-03-06",
             "keyword": [
-                "veterans",
                 "veteran population",
+                "veterans",
                 "vetpop",
                 "vetpop2023"
             ],
@@ -85729,7 +85729,7 @@
                 "fn": "National Center for Veterans Analysis and Statistics",
                 "hasEmail": "mailto:VANCVAS@VA.GOV"
             },
-            "description": "VetPop2023 projection of living Veterans by gender and period of service at the national level. \n\nNote: Rounding to the nearest 1,000 is always appropriate for VetPop estimates.",
+            "description": "VetPop2023 projection of living Veterans by sex and period of service at the national level. \n\nNote: Rounding to the nearest 1,000 is always appropriate for VetPop estimates.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -85759,7 +85759,7 @@
                 }
             ],
             "identifier": "https://www.data.va.gov/api/views/weu6-zpb9",
-            "issued": "2024-09-05",
+            "issued": "2025-03-06",
             "keyword": [
                 "veteran population",
                 "veterans",
@@ -85768,7 +85768,7 @@
             ],
             "landingPage": "https://www.data.va.gov/d/weu6-zpb9",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-09-09",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -87229,8 +87229,8 @@
             "identifier": "https://www.data.va.gov/api/views/wubk-nag4",
             "issued": "2025-03-06",
             "keyword": [
-                "veterans",
                 "veteran population",
+                "veterans",
                 "vetpop",
                 "vetpop2023"
             ],
@@ -88285,12 +88285,12 @@
             "identifier": "https://www.data.va.gov/api/views/xayc-j8g6",
             "issued": "2024-09-09",
             "keyword": [
-                "veteran population",
                 "veterans",
+                "veteran population",
                 "vetpop"
             ],
             "landingPage": "https://www.data.va.gov/d/xayc-j8g6",
-            "modified": "2024-10-25",
+            "modified": "2025-03-06",
             "programCode": [
                 "Office of Enterprise Integration"
             ],
@@ -91755,13 +91755,13 @@
             "identifier": "https://www.data.va.gov/api/views/yr7p-v5my",
             "issued": "2024-08-06",
             "keyword": [
-                "veteran population",
-                "veterans",
                 "vetpop",
-                "vetpop2023"
+                "vetpop2023",
+                "veteran population",
+                "veterans"
             ],
             "landingPage": "https://www.data.va.gov/d/yr7p-v5my",
-            "modified": "2024-10-25",
+            "modified": "2025-03-06",
             "programCode": [
                 "Office of Enterprise Integration"
             ],
