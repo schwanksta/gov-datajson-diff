@@ -10799,7 +10799,7 @@
                 "veterans benefits"
             ],
             "landingPage": "https://www.data.va.gov/d/59yt-v847",
-            "modified": "2023-01-12",
+            "modified": "2025-03-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "www.data.va.gov"
@@ -12389,7 +12389,7 @@
                 "hasEmail": "mailto:vancvas@va.gov"
             },
             "dataQuality": true,
-            "description": "This report provides county-level estimates of the number of Veterans who were receiving VA Disability Compensation benefits as of the end of fiscal year 2023. It includes the Veterans\u2019 total service-connected disability (SCD) rating, age group, and gender. Blank values represent small cell counts that have been suppressed to protect the identity of Veterans as well as some cell counts that have been suppressed in order to prevent the determination of the values of the aforementioned small cell counts. Some categories may not sum to the total due to missing information (e.g., age, gender, etc.).\n\nThe availability of gender and age data is limited as some records have no gender or birthdate available. In the table, there are 404 Veterans whose gender is not available and 113 Veterans whose age is not available.\n\nThe number of Veterans who were disability compensation recipients during FY 2023 but were no longer disability compensation recipients at the end of FY 2023 is 138,646.  These Veterans are not included in the table.\n\nSource: Department of Veterans Affairs, Office of Enterprise Integration, Veteran Object FY23 data and Veterans Benefits Administration VETSNET FY 2023 compensation data.\n\nPrepared by National Center for Veterans Analysis & Statistics, www.va.gov/vetdata.",
+            "description": "This report provides county-level estimates of the number of Veterans who were receiving VA Disability Compensation benefits as of the end of fiscal year 2023. It includes the Veterans\u2019 total service-connected disability (SCD) rating, age group, and sex. Blank values represent small cell counts that have been suppressed to protect the identity of Veterans as well as some cell counts that have been suppressed in order to prevent the determination of the values of the aforementioned small cell counts. Some categories may not sum to the total due to missing information (e.g., age, sex, etc.).\n\nThe availability of sex and age data is limited as some records have no sex or birthdate available. In the table, there are 404 Veterans whose sex is not available and 113 Veterans whose age is not available.\n\nThe number of Veterans who were disability compensation recipients during FY 2023 but were no longer disability compensation recipients at the end of FY 2023 is 138,646.  These Veterans are not included in the table.\n\nSource: Department of Veterans Affairs, Office of Enterprise Integration, Veteran Object FY23 data and Veterans Benefits Administration VETSNET FY 2023 compensation data.\n\nPrepared by National Center for Veterans Analysis & Statistics, www.va.gov/vetdata.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -12446,7 +12446,7 @@
                 "English"
             ],
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-04-23",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:005"
             ],
@@ -30252,7 +30252,7 @@
                 "hasEmail": "mailto:vancvas@va.gov"
             },
             "dataQuality": true,
-            "description": "This report provides state-level estimates of the number of Veterans who were receiving VA Pension benefits as of the end of fiscal year 2023. It includes the Veterans\u2019 gender. Blank values represent small cell counts that have been suppressed to protect the identity of Veterans as well as some cell counts that have been suppressed in order to prevent the determination of the values of the aforementioned small cell counts. Some categories may not sum to the total due to missing information (e.g., gender, etc.).\n\nThe availability of gender data is limited as some records have no gender available. In the table, there are 123 Veterans whose gender is not available.\n\nThere are a small number of pension recipients for whom neither state nor country could be determined from the data sources used.  These pension recipients are not included in the table.\n\nThe number of Veterans who were pension recipients during FY 2023 but were no longer pension recipients at the end of FY 2023 is 32,176.  These Veterans are not included in the table.\n\nSource: Department of Veterans Affairs, Office of Enterprise Integration, Veteran Object FY23 data and Veterans Benefits Administration VETSNET FY 2023 pension data.\n\nPrepared by National Center for Veterans Analysis & Statistics, www.va.gov/vetdata.",
+            "description": "This report provides state-level estimates of the number of Veterans who were receiving VA Pension benefits as of the end of fiscal year 2023. It includes the Veterans\u2019 sex. Blank values represent small cell counts that have been suppressed to protect the identity of Veterans as well as some cell counts that have been suppressed in order to prevent the determination of the values of the aforementioned small cell counts. Some categories may not sum to the total due to missing information (e.g., sex, etc.).\n\nThe availability of sex data is limited as some records have no sex available. In the table, there are 123 Veterans whose sex is not available.\n\nThere are a small number of pension recipients for whom neither state nor country could be determined from the data sources used.  These pension recipients are not included in the table.\n\nThe number of Veterans who were pension recipients during FY 2023 but were no longer pension recipients at the end of FY 2023 is 32,176.  These Veterans are not included in the table.\n\nSource: Department of Veterans Affairs, Office of Enterprise Integration, Veteran Object FY23 data and Veterans Benefits Administration VETSNET FY 2023 pension data.\n\nPrepared by National Center for Veterans Analysis & Statistics, www.va.gov/vetdata.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -30284,25 +30284,25 @@
             "identifier": "https://www.data.va.gov/api/views/br8p-iseu",
             "issued": "2024-04-23",
             "keyword": [
-                "2023",
-                "2023 pension",
-                "fy2023",
-                "fy 2023",
-                "fy 2023 pension",
-                "fy2023 pension",
+                "pension",
                 "fy23",
                 "fy 23",
-                "fy 23 pension",
+                "fy2023",
+                "fy 2023",
+                "2023",
+                "state",
                 "fy23 pension",
-                "pension",
-                "state"
+                "fy 23 pension",
+                "fy2023 pension",
+                "fy 2023 pension",
+                "2023 pension"
             ],
             "landingPage": "https://www.data.va.gov/d/br8p-iseu",
             "language": [
                 "English"
             ],
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-04-23",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:009"
             ],
@@ -50908,7 +50908,7 @@
                 "veterans benefits"
             ],
             "landingPage": "https://www.data.va.gov/d/iehx-efs9",
-            "modified": "2023-01-12",
+            "modified": "2025-03-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "www.data.va.gov"
@@ -50982,8 +50982,8 @@
             "identifier": "https://www.data.va.gov/api/views/ig48-b5dn",
             "issued": "2025-03-06",
             "keyword": [
-                "veterans",
                 "veteran population",
+                "veterans",
                 "vetpop",
                 "vetpop2023"
             ],
@@ -55279,7 +55279,7 @@
                 "hasEmail": "mailto:vancvas@va.gov"
             },
             "dataQuality": true,
-            "description": "This report provides county-level estimates of the number of Veterans who received VA Disability Compensation benefits during fiscal year 2019. It includes the Veterans\u2019 total service-connected disability (SCD) rating, age group, and gender. Blank values represent small cell counts that have been suppressed to protect the identity of Veterans. Some categories may not sum to the total due to missing information (e.g., age, gender, etc.).\n\nSource: Department of Veterans Affairs, Office of Enterprise Integration, United States Veterans Eligibility Trends & Statistics (USVETS) 2019\n\nPrepared by National Center for Veterans Analysis & Statistics, www.va.gov/vetdata",
+            "description": "This report provides county-level estimates of the number of Veterans who received VA Disability Compensation benefits during fiscal year 2019. It includes the Veterans\u2019 total service-connected disability (SCD) rating, age group, and sex. Blank values represent small cell counts that have been suppressed to protect the identity of Veterans. Some categories may not sum to the total due to missing information (e.g., age, sex, etc.).\n\nSource: Department of Veterans Affairs, Office of Enterprise Integration, United States Veterans Eligibility Trends & Statistics (USVETS) 2019\n\nPrepared by National Center for Veterans Analysis & Statistics, www.va.gov/vetdata",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -55324,7 +55324,7 @@
                 "English"
             ],
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-08-08",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -55794,8 +55794,8 @@
             "identifier": "https://www.data.va.gov/api/views/k9dc-9an8",
             "issued": "2025-03-06",
             "keyword": [
-                "veterans",
                 "veteran population",
+                "veterans",
                 "vetpop",
                 "vetpop2023"
             ],
@@ -55927,7 +55927,7 @@
                 "hasEmail": "mailto:\tvancvas@va.gov"
             },
             "dataQuality": true,
-            "description": "This report provides county-level estimates of the number of Veterans who received VA Disability Compensation benefits during fiscal year 2021. It includes the Veterans\u2019 total service-connected disability (SCD) rating, age group, and gender. Blank values represent small cell counts that have been suppressed to protect the identity of Veterans. In the \"Total: Disability Compensation Recipients\" column, each blank cell represents less than 10 Veterans. Some categories may not sum to the total due to missing information (e.g., age, gender, etc.).\n\nSource: Department of Veterans Affairs, Office of Enterprise Integration, United States Veterans Eligibility Trends & Statistics (USVETS) 2021 and Veterans Benefits Administration VETSNET FY 2021 compensation data.\n\nPrepared by National Center for Veterans Analysis & Statistics, www.va.gov/vetdata.",
+            "description": "This report provides county-level estimates of the number of Veterans who received VA Disability Compensation benefits during fiscal year 2021. It includes the Veterans\u2019 total service-connected disability (SCD) rating, age group, and sex. Blank values represent small cell counts that have been suppressed to protect the identity of Veterans. In the \"Total: Disability Compensation Recipients\" column, each blank cell represents less than 10 Veterans. Some categories may not sum to the total due to missing information (e.g., age, sex, etc.).\n\nSource: Department of Veterans Affairs, Office of Enterprise Integration, United States Veterans Eligibility Trends & Statistics (USVETS) 2021 and Veterans Benefits Administration VETSNET FY 2021 compensation data.\n\nPrepared by National Center for Veterans Analysis & Statistics, www.va.gov/vetdata.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -55975,7 +55975,7 @@
                 "English"
             ],
             "license": "http://creativecommons.org/publicdomain/zero/1.0/legalcode",
-            "modified": "2022-11-30",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -63857,7 +63857,7 @@
                 }
             ],
             "identifier": "https://www.data.va.gov/api/views/p9xy-tb8w",
-            "issued": "2022-12-13",
+            "issued": "2025-03-06",
             "keyword": [
                 "utilization",
                 "va benefits",
@@ -63869,7 +63869,7 @@
             ],
             "landingPage": "https://www.data.va.gov/d/p9xy-tb8w",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-01-05",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -74527,8 +74527,8 @@
             "identifier": "https://www.data.va.gov/api/views/sywf-qkby",
             "issued": "2024-08-15",
             "keyword": [
-                "veterans",
-                "veteran population"
+                "veteran population",
+                "veterans"
             ],
             "landingPage": "https://www.data.va.gov/d/sywf-qkby",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -78218,8 +78218,8 @@
             "identifier": "https://www.data.va.gov/api/views/ugb5-p35y",
             "issued": "2025-03-06",
             "keyword": [
-                "veteran population",
-                "historical period estimate"
+                "historical period estimate",
+                "veteran population"
             ],
             "landingPage": "https://www.data.va.gov/d/ugb5-p35y",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -81005,9 +81005,9 @@
             "identifier": "https://www.data.va.gov/api/views/va4a-ptj8",
             "issued": "2024-07-19",
             "keyword": [
+                "utilization",
                 "veterans",
-                "women veterans",
-                "utilization"
+                "women veterans"
             ],
             "landingPage": "https://www.data.va.gov/d/va4a-ptj8",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -86035,22 +86035,22 @@
             "keyword": [
                 "age",
                 "fy20",
+                "fy 20",
                 "fy2020",
                 "fy 2020",
-                "fy 20",
-                "va user",
-                "va users",
-                "va healthcare",
-                "va health care",
                 "healthcare",
                 "health care",
+                "sex",
+                "va healthcare",
+                "va health care",
+                "va user",
+                "va users",
                 "veteran",
-                "veterans",
                 "veteran healthcare",
                 "veteran health care",
+                "veterans",
                 "veteran user",
-                "veteran users",
-                "sex"
+                "veteran users"
             ],
             "landingPage": "https://www.data.va.gov/d/wh83-r6xy",
             "language": [
