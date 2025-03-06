@@ -76049,7 +76049,7 @@
                 }
             ],
             "identifier": "https://www.data.va.gov/api/views/tmnn-2iqd",
-            "issued": "2024-07-25",
+            "issued": "2025-03-06",
             "keyword": [
                 "pension",
                 "period of service",
@@ -76057,7 +76057,7 @@
             ],
             "landingPage": "https://www.data.va.gov/d/tmnn-2iqd",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-08-02",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -80973,7 +80973,7 @@
                 "fn": "National Center for Veterans Analysis and Statistics",
                 "hasEmail": "mailto:VACONCVAS@VA.GOV"
             },
-            "description": "Percent of Veterans that use VA benefits by program and gender in FY 2023",
+            "description": "Percent of Veterans that use VA benefits by program and sex in FY 2023",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -81005,13 +81005,13 @@
             "identifier": "https://www.data.va.gov/api/views/va4a-ptj8",
             "issued": "2024-07-19",
             "keyword": [
-                "utilization",
                 "veterans",
-                "women veterans"
+                "women veterans",
+                "utilization"
             ],
             "landingPage": "https://www.data.va.gov/d/va4a-ptj8",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-08-05",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -81019,7 +81019,7 @@
                 "@type": "org:Organization",
                 "name": "Department of Veterans Affairs"
             },
-            "title": "Percent of Veterans who Use VA Benefits by Program and Gender, FY2023"
+            "title": "Percent of Veterans who Use VA Benefits by Program and Sex, FY2023"
         },
         {
             "@type": "dcat:Dataset",
@@ -85129,7 +85129,7 @@
             "identifier": "https://www.data.va.gov/api/views/wci3-yrsv",
             "issued": "2024-08-05",
             "landingPage": "https://www.data.va.gov/d/wci3-yrsv",
-            "modified": "2024-08-27",
+            "modified": "2025-03-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "www.data.va.gov"
@@ -86001,7 +86001,7 @@
                 "hasEmail": "mailto:vancvas@va.gov"
             },
             "dataQuality": true,
-            "description": "Note: \"Total Number of Veterans\" represents FY 2020 projected Veteran counts from VA's Veteran Population Projection Model 2018 (VetPop18).  These projections are made with the assumption that Veterans are not missing information (e.g. age, gender, etc.).\nNote: \"Veteran VA Users\" and \"Veteran VA Healthcare Users\" represent historical Veteran counts from VA's United States Veterans Eligibility Trends and Statistics 2020 (USVETS 2020).\nNote: \"Veteran VA Users\" includes Veteran users of VA healthcare or any other VA benefit or service.\nNote: There are 4,214 Veteran VA Users not shown in the table below whose gender is missing.  Of these, 4,126 are missing age.  There are 4,158 Veteran VA Healthcare Users not shown in the table below whose gender is missing.  Of these, 4,125 are missing age.\n\nSources: USVETS 2020 and VetPop18",
+            "description": "Note: \"Total Number of Veterans\" represents FY 2020 projected Veteran counts from VA's Veteran Population Projection Model 2018 (VetPop18).  These projections are made with the assumption that Veterans are not missing information (e.g. age, sex, etc.).\nNote: \"Veteran VA Users\" and \"Veteran VA Healthcare Users\" represent historical Veteran counts from VA's United States Veterans Eligibility Trends and Statistics 2020 (USVETS 2020).\nNote: \"Veteran VA Users\" includes Veteran users of VA healthcare or any other VA benefit or service.\nNote: There are 4,214 Veteran VA Users not shown in the table below whose sex is missing.  Of these, 4,126 are missing age.  There are 4,158 Veteran VA Healthcare Users not shown in the table below whose sex is missing.  Of these, 4,125 are missing age.\n\nSources: USVETS 2020 and VetPop18",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -86031,33 +86031,33 @@
                 }
             ],
             "identifier": "https://www.data.va.gov/api/views/wh83-r6xy",
-            "issued": "2022-05-04",
+            "issued": "2025-03-06",
             "keyword": [
                 "age",
                 "fy20",
-                "fy 20",
                 "fy2020",
                 "fy 2020",
-                "gender",
-                "healthcare",
-                "health care",
-                "va healthcare",
-                "va health care",
+                "fy 20",
                 "va user",
                 "va users",
+                "va healthcare",
+                "va health care",
+                "healthcare",
+                "health care",
                 "veteran",
+                "veterans",
                 "veteran healthcare",
                 "veteran health care",
-                "veterans",
                 "veteran user",
-                "veteran users"
+                "veteran users",
+                "sex"
             ],
             "landingPage": "https://www.data.va.gov/d/wh83-r6xy",
             "language": [
                 "English"
             ],
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2022-05-04",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -86065,7 +86065,7 @@
                 "@type": "org:Organization",
                 "name": "Department of Veterans Affairs"
             },
-            "title": "FY 2020 Total Number of Veterans, Veteran VA Users, and Veteran VA Healthcare Users by Gender and Age Group"
+            "title": "FY 2020 Total Number of Veterans, Veteran VA Users, and Veteran VA Healthcare Users by Sex and Age Group"
         },
         {
             "@type": "dcat:Dataset",
