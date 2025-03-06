@@ -3537,8 +3537,8 @@
             "identifier": "https://www.data.va.gov/api/views/3aej-m45q",
             "issued": "2025-03-06",
             "keyword": [
-                "veterans",
                 "veteran population",
+                "veterans",
                 "vetpop",
                 "vetpop2023"
             ],
@@ -14526,7 +14526,7 @@
                 "hasEmail": "mailto:vancvas@va.gov"
             },
             "dataQuality": true,
-            "description": "Notes:\n\n\"Total Number of Veterans\" represents FY 2021 projected Veteran counts from VA's Veteran Population Projection Model 2020 (VetPop20). These projections represent living Veterans as of 9/30/2021 and are made with the assumption that Veterans are not missing information (e.g., gender, age, etc.).\n\n\"Veteran VA Users\" represents historical Veteran VA user counts from VA's United States Veterans Eligibility Trends and Statistics 2021 (USVETS 2021). These counts represent Veterans who used any VA benefit or service during FY 2021 (includes both living and deceased Veterans as of end of FY 2021).\n\n\"Veteran VA Healthcare Users\" represents historical Veteran VA healthcare user counts from VA's United States Veterans Eligibility Trends and Statistics 2021 (USVETS 2021). These counts represent Veterans who used VA healthcare during FY 2021 (includes both living and deceased Veterans as of end of FY 2021).\n\n\"Veteran VA Users\" includes Veteran users of VA healthcare or any other VA benefit or service.\n\nThere are 1,458 Veteran VA Users not shown in the table below whose gender is missing. Of these, 1,360 are missing age. There are 1,387 Veteran VA Healthcare Users not shown in the table below whose gender is missing. Of these, 1,360 are missing age.\n\nSources: USVETS 2021 and VetPop20\nEffective Date: 9/30/2021",
+            "description": "Notes:\n\n\"Total Number of Veterans\" represents FY 2021 projected Veteran counts from VA's Veteran Population Projection Model 2020 (VetPop20). These projections represent living Veterans as of 9/30/2021 and are made with the assumption that Veterans are not missing information (e.g., sex, age, etc.).\n\n\"Veteran VA Users\" represents historical Veteran VA user counts from VA's United States Veterans Eligibility Trends and Statistics 2021 (USVETS 2021). These counts represent Veterans who used any VA benefit or service during FY 2021 (includes both living and deceased Veterans as of end of FY 2021).\n\n\"Veteran VA Healthcare Users\" represents historical Veteran VA healthcare user counts from VA's United States Veterans Eligibility Trends and Statistics 2021 (USVETS 2021). These counts represent Veterans who used VA healthcare during FY 2021 (includes both living and deceased Veterans as of end of FY 2021).\n\n\"Veteran VA Users\" includes Veteran users of VA healthcare or any other VA benefit or service.\n\nThere are 1,458 Veteran VA Users not shown in the table below whose sex is missing. Of these, 1,360 are missing age. There are 1,387 Veteran VA Healthcare Users not shown in the table below whose sex is missing. Of these, 1,360 are missing age.\n\nSources: USVETS 2021 and VetPop20\nEffective Date: 9/30/2021",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -14556,7 +14556,7 @@
                 }
             ],
             "identifier": "https://www.data.va.gov/api/views/6fsh-rj6s",
-            "issued": "2022-11-25",
+            "issued": "2025-03-06",
             "keyword": [
                 "2021",
                 "age",
@@ -14564,9 +14564,9 @@
                 "fy 2021",
                 "fy21",
                 "fy 21",
-                "gender",
                 "healthcare",
                 "health care",
+                "sex",
                 "va healthcare",
                 "va health care",
                 "va user",
@@ -14583,7 +14583,7 @@
                 "English"
             ],
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2022-11-28",
+            "modified": "2025-03-06",
             "programCode": [
                 "029:086"
             ],
@@ -14591,7 +14591,7 @@
                 "@type": "org:Organization",
                 "name": "Department of Veterans Affairs"
             },
-            "title": "FY 2021 Total Number of Veterans, Veteran VA Users, and Veteran VA Healthcare Users by Gender and Age Group"
+            "title": "FY 2021 Total Number of Veterans, Veteran VA Users, and Veteran VA Healthcare Users by Sex and Age Group"
         },
         {
             "@type": "dcat:Dataset",
@@ -15111,8 +15111,8 @@
             "identifier": "https://www.data.va.gov/api/views/6kr5-skza",
             "issued": "2025-03-06",
             "keyword": [
-                "veterans",
                 "veteran population",
+                "veterans",
                 "vetpop",
                 "vetpop2023"
             ],
@@ -19050,49 +19050,6 @@
                 "name": "Department of Veterans Affairs"
             },
             "title": "VetPop2023 Top 10 States: FY 2024"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "bureauCode": [
-                "029:00"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "NCVAS",
-                "hasEmail": "mailto:vancvas@va.gov"
-            },
-            "dataQuality": true,
-            "description": "<p>The spreadsheet of Korean War Veterans by State includes the total Korean War Veteran population for each state and broken out by age and gender. It also includes Korean War casualties by state from the Congressional Research Service.</p>",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://www.data.va.gov/download/7tmk-t8ud/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-                }
-            ],
-            "identifier": "10c0ea18-87a2-4392-a56b-71fab0a465f1",
-            "issued": "2018-02-01",
-            "keyword": [
-                "korea",
-                "veterans"
-            ],
-            "landingPage": "https://www.data.va.gov/d/7tmk-t8ud",
-            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2020-11-12",
-            "programCode": [
-                "029:086"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Department of Veterans Affairs"
-            },
-            "theme": [
-                "Basic Statistics",
-                "Use",
-                "and Operational Data"
-            ],
-            "title": "Korean War Veterans by State"
         },
         {
             "@type": "dcat:Dataset",
@@ -42313,8 +42270,8 @@
             "identifier": "https://www.data.va.gov/api/views/fkjq-z6m8",
             "issued": "2025-03-06",
             "keyword": [
-                "veteran population",
-                "historical period estimate"
+                "historical period estimate",
+                "veteran population"
             ],
             "landingPage": "https://www.data.va.gov/d/fkjq-z6m8",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -54489,66 +54446,6 @@
                 "Use of Benefits and Services"
             ],
             "title": "USA SPENDING EDUCATION CH33 B028 POST-9/11 VETERANS EDUCATIONAL ASSISTANCE APR2019"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "bureauCode": [
-                "029:00"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "National Center for Veterans Analysis and Statistics",
-                "hasEmail": "mailto:VANCVAS@VA.GOV"
-            },
-            "description": "The Department of Veterans Affairs provides official estimates and projections of the Veteran population using the Veteran Population Projection Model (VetPop). Based on the available information through September 30, 2020, the latest model VetPop2020 estimated the Veteran population for the period from 2000 to 2020. This data table shows the number of living Veterans at the end of each fiscal year from 2000 to 2020 by race, ethnicity, gender, and age group for Veterans residing in the U.S. (50 states and D.C.).",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://www.data.va.gov/api/views/jpz2-637p/rows.csv?accessType=DOWNLOAD",
-                    "mediaType": "text/csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "describedBy": "https://www.data.va.gov/api/views/jpz2-637p/columns.rdf",
-                    "describedByType": "application/rdf+xml",
-                    "downloadURL": "https://www.data.va.gov/api/views/jpz2-637p/rows.rdf?accessType=DOWNLOAD",
-                    "mediaType": "application/rdf+xml"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "describedBy": "https://www.data.va.gov/api/views/jpz2-637p/columns.json",
-                    "describedByType": "application/json",
-                    "downloadURL": "https://www.data.va.gov/api/views/jpz2-637p/rows.json?accessType=DOWNLOAD",
-                    "mediaType": "application/json"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "describedBy": "https://www.data.va.gov/api/views/jpz2-637p/columns.xml",
-                    "describedByType": "application/xml",
-                    "downloadURL": "https://www.data.va.gov/api/views/jpz2-637p/rows.xml?accessType=DOWNLOAD",
-                    "mediaType": "application/xml"
-                }
-            ],
-            "identifier": "https://www.data.va.gov/api/views/jpz2-637p",
-            "issued": "2024-04-17",
-            "keyword": [
-                "ethnicity",
-                "historical period estimate",
-                "race",
-                "veteran population"
-            ],
-            "landingPage": "https://www.data.va.gov/d/jpz2-637p",
-            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-04-17",
-            "programCode": [
-                "029:086"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Department of Veterans Affairs"
-            },
-            "title": "VetPop2020 National Estimates by Race 2000 to 2020"
         },
         {
             "@type": "dcat:Dataset",
@@ -88285,8 +88182,8 @@
             "identifier": "https://www.data.va.gov/api/views/xayc-j8g6",
             "issued": "2024-09-09",
             "keyword": [
-                "veterans",
                 "veteran population",
+                "veterans",
                 "vetpop"
             ],
             "landingPage": "https://www.data.va.gov/d/xayc-j8g6",
@@ -91755,10 +91652,10 @@
             "identifier": "https://www.data.va.gov/api/views/yr7p-v5my",
             "issued": "2024-08-06",
             "keyword": [
-                "vetpop",
-                "vetpop2023",
                 "veteran population",
-                "veterans"
+                "veterans",
+                "vetpop",
+                "vetpop2023"
             ],
             "landingPage": "https://www.data.va.gov/d/yr7p-v5my",
             "modified": "2025-03-06",
