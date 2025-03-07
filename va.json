@@ -79157,7 +79157,7 @@
                 "hasEmail": "mailto:vancvas@va.gov"
             },
             "dataQuality": true,
-            "description": "This report provides state-level estimates of the number of Veterans who received VA Pension benefits during fiscal year 2019. It includes the Veterans\u2019 gender. Blank values represent small cell counts that have been suppressed to protect the identity of Veterans. Some categories may not sum to the total due to missing information (e.g., gender, etc.).\n\nSource: Department of Veterans Affairs, Office of Enterprise Integration, United States Veterans Eligibility Trends & Statistics (USVETS) 2019 and Veterans Benefits Administration VETSNET FY 2019 pension data.\n\nPrepared by National Center for Veterans Analysis & Statistics, www.va.gov/vetdata.",
+            "description": "This report provides state-level estimates of the number of Veterans who received VA Pension benefits during fiscal year 2019. It includes the Veterans\u2019 sex. Blank values represent small cell counts that have been suppressed to protect the identity of Veterans. Some categories may not sum to the total due to missing information (e.g., sex, etc.).\n\nSource: Department of Veterans Affairs, Office of Enterprise Integration, United States Veterans Eligibility Trends & Statistics (USVETS) 2019 and Veterans Benefits Administration VETSNET FY 2019 pension data.\n\nPrepared by National Center for Veterans Analysis & Statistics, www.va.gov/vetdata.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -79189,12 +79189,12 @@
             "identifier": "https://www.data.va.gov/api/views/uq82-m9cd",
             "issued": "2024-09-27",
             "keyword": [
-                "2019",
-                "fy19",
-                "fy 19",
-                "fy2019",
-                "fy 2019",
                 "pension",
+                "fy19",
+                "fy2019",
+                "fy 19",
+                "fy 2019",
+                "2019",
                 "state"
             ],
             "landingPage": "https://www.data.va.gov/d/uq82-m9cd",
@@ -79202,7 +79202,7 @@
                 "English"
             ],
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-09-27",
+            "modified": "2025-03-07",
             "programCode": [
                 "029:086"
             ],
