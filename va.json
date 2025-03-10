@@ -23563,12 +23563,12 @@
             "identifier": "https://www.data.va.gov/api/views/9jtx-xawd",
             "issued": "2021-02-08",
             "keyword": [
-                "utilization",
-                "veterans"
+                "veterans",
+                "utilization"
             ],
             "landingPage": "https://www.data.va.gov/d/9jtx-xawd",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2021-02-26",
+            "modified": "2025-03-10",
             "programCode": [
                 "029:086"
             ],
@@ -89154,7 +89154,7 @@
                 "hasEmail": "mailto:vaconcvas@va.gov"
             },
             "dataQuality": true,
-            "description": "Take-up rate within 2 fiscal years after separation from military service by race/ethnicity and gender.",
+            "description": "Take-up rate within 2 fiscal years after separation from military service by race/ethnicity and sex.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -89186,14 +89186,14 @@
             "identifier": "https://www.data.va.gov/api/views/xykt-5dut",
             "issued": "2021-02-19",
             "keyword": [
-                "gender",
+                "veterans",
                 "take-up rate",
                 "use",
-                "veterans"
+                "sex"
             ],
             "landingPage": "https://www.data.va.gov/d/xykt-5dut",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2021-03-24",
+            "modified": "2025-03-10",
             "programCode": [
                 "029:086"
             ],
@@ -89201,7 +89201,7 @@
                 "@type": "org:Organization",
                 "name": "Department of Veterans Affairs"
             },
-            "title": "Take-up Rate by Race/Etnicity and Gender"
+            "title": "Take-up Rate by Race/Ethnicity and Sex"
         },
         {
             "@type": "dcat:Dataset",
