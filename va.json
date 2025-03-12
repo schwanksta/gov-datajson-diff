@@ -476,14 +476,6 @@
             },
             "dataQuality": true,
             "description": "<p>This data set shows the number of veterans and survivors who are receiving either disability compensation or pension benefits from the Department of Veterans Affairs.</p>",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://www.va.gov/VETDATA/docs/Datagov/FY_2011_CNP_by_County.xlsx",
-                    "mediaType": "application/vnd.ms-excel",
-                    "title": "xls"
-                }
-            ],
             "identifier": "VA-VBA-CP2011-001",
             "isPartOf": "VA-VBA-MASTER-COMPENSATIONPENSION-001",
             "issued": "2017-07-26",
@@ -496,12 +488,12 @@
                 "va",
                 "veteran"
             ],
-            "landingPage": "https://www.va.gov/VETDATA/docs/Datagov/Technical_Notes_COMP_by_County_2011.doc",
+            "landingPage": "https://www.data.va.gov/d/28cd-fydu",
             "language": [
                 "en-US"
             ],
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2020-05-15",
+            "modified": "2025-03-12",
             "programCode": [
                 "029:003"
             ],
@@ -509,9 +501,6 @@
                 "@type": "org:Organization",
                 "name": "Department of Veterans Affairs"
             },
-            "references": [
-                "https://www.va.gov/VETDATA/docs/Datagov/Technical_Notes_COMP_by_County_2011.doc"
-            ],
             "temporal": "2010-10-01T04:00:00Z/2011-09-30T04:00:00Z",
             "theme": [
                 "Section 10. National Security and Veterans Affairs"
