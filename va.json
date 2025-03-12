@@ -16183,6 +16183,64 @@
             ],
             "contactPoint": {
                 "@type": "vcard:Contact",
+                "fn": "National Center for Veterans Analysis and Statistics",
+                "hasEmail": "mailto:VANCVAS@VA.GOV"
+            },
+            "description": "The Department of Veterans Affairs provides official estimates and projections of the Veteran population using the Veteran Population Projection Model (VetPop). Based on the available information through September 30, 2023, the latest model VetPop2023 estimated the Veteran population for the period from 2000 to 2023. The \u201cNumber of Estimated Veterans by Sex and Age Group, 9/30/2000 to 9/30/2023\u201d data table shows the number of living Veterans at the end of each fiscal year from 2000 to 2023.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://www.data.va.gov/api/views/6xz6-j7yi/rows.csv?accessType=DOWNLOAD",
+                    "mediaType": "text/csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/6xz6-j7yi/columns.rdf",
+                    "describedByType": "application/rdf+xml",
+                    "downloadURL": "https://www.data.va.gov/api/views/6xz6-j7yi/rows.rdf?accessType=DOWNLOAD",
+                    "mediaType": "application/rdf+xml"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/6xz6-j7yi/columns.json",
+                    "describedByType": "application/json",
+                    "downloadURL": "https://www.data.va.gov/api/views/6xz6-j7yi/rows.json?accessType=DOWNLOAD",
+                    "mediaType": "application/json"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/6xz6-j7yi/columns.xml",
+                    "describedByType": "application/xml",
+                    "downloadURL": "https://www.data.va.gov/api/views/6xz6-j7yi/rows.xml?accessType=DOWNLOAD",
+                    "mediaType": "application/xml"
+                }
+            ],
+            "identifier": "https://www.data.va.gov/api/views/6xz6-j7yi",
+            "issued": "2025-03-12",
+            "keyword": [
+                "veteran population",
+                "historical period estimate"
+            ],
+            "landingPage": "https://www.data.va.gov/d/6xz6-j7yi",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "modified": "2025-03-12",
+            "programCode": [
+                "029:086"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Department of Veterans Affairs"
+            },
+            "title": "VetPop2023 National Estimates 2000 to 2023"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "bureauCode": [
+                "029:00"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
                 "fn": "Danielle Gervalis",
                 "hasEmail": "mailto:Danielle.gervalis@va.gov"
             },
@@ -42212,64 +42270,6 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "bureauCode": [
-                "029:00"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "National Center for Veterans Analysis and Statistics",
-                "hasEmail": "mailto:VANCVAS@VA.GOV"
-            },
-            "description": "The Department of Veterans Affairs provides official estimates and projections of the Veteran population using the Veteran Population Projection Model (VetPop). Based on the available information through September 30, 2020, the latest model VetPop2020 estimated the Veteran population for the period from 2000 to 2020. The \u201cNumber of Estimated Veterans by State, Sex, and Age Group, 9/30/2000 to 9/30/2020\u201d data table shows the number of living Veterans at the end of each fiscal year from 2000 to 2020.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://www.data.va.gov/api/views/fkjq-z6m8/rows.csv?accessType=DOWNLOAD",
-                    "mediaType": "text/csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "describedBy": "https://www.data.va.gov/api/views/fkjq-z6m8/columns.rdf",
-                    "describedByType": "application/rdf+xml",
-                    "downloadURL": "https://www.data.va.gov/api/views/fkjq-z6m8/rows.rdf?accessType=DOWNLOAD",
-                    "mediaType": "application/rdf+xml"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "describedBy": "https://www.data.va.gov/api/views/fkjq-z6m8/columns.json",
-                    "describedByType": "application/json",
-                    "downloadURL": "https://www.data.va.gov/api/views/fkjq-z6m8/rows.json?accessType=DOWNLOAD",
-                    "mediaType": "application/json"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "describedBy": "https://www.data.va.gov/api/views/fkjq-z6m8/columns.xml",
-                    "describedByType": "application/xml",
-                    "downloadURL": "https://www.data.va.gov/api/views/fkjq-z6m8/rows.xml?accessType=DOWNLOAD",
-                    "mediaType": "application/xml"
-                }
-            ],
-            "identifier": "https://www.data.va.gov/api/views/fkjq-z6m8",
-            "issued": "2025-03-06",
-            "keyword": [
-                "historical period estimate",
-                "veteran population"
-            ],
-            "landingPage": "https://www.data.va.gov/d/fkjq-z6m8",
-            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2025-03-06",
-            "programCode": [
-                "029:086"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Department of Veterans Affairs"
-            },
-            "title": "VetPop2020 State Estimates 2000 to 2020"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "bureauCode": [
                 "029:25"
             ],
             "contactPoint": {
@@ -51170,6 +51170,64 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "bureauCode": [
+                "029:00"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "National Center for Veterans Analysis and Statistics",
+                "hasEmail": "mailto:VANCVAS@VA.GOV"
+            },
+            "description": "The Department of Veterans Affairs provides official estimates and projections of the Veteran population using the Veteran Population Projection Model (VetPop). Based on the available information through September 30, 2023, the latest model VetPop2023 estimated the Veteran population for the period from 2000 to 2023. The \u201cNumber of Estimated Veterans by State, Sex, and Age Group, 9/30/2000 to 9/30/2023\u201d data table shows the number of living Veterans at the end of each fiscal year from 2000 to 2023.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://www.data.va.gov/api/views/ii4k-rqz2/rows.csv?accessType=DOWNLOAD",
+                    "mediaType": "text/csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/ii4k-rqz2/columns.rdf",
+                    "describedByType": "application/rdf+xml",
+                    "downloadURL": "https://www.data.va.gov/api/views/ii4k-rqz2/rows.rdf?accessType=DOWNLOAD",
+                    "mediaType": "application/rdf+xml"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/ii4k-rqz2/columns.json",
+                    "describedByType": "application/json",
+                    "downloadURL": "https://www.data.va.gov/api/views/ii4k-rqz2/rows.json?accessType=DOWNLOAD",
+                    "mediaType": "application/json"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/ii4k-rqz2/columns.xml",
+                    "describedByType": "application/xml",
+                    "downloadURL": "https://www.data.va.gov/api/views/ii4k-rqz2/rows.xml?accessType=DOWNLOAD",
+                    "mediaType": "application/xml"
+                }
+            ],
+            "identifier": "https://www.data.va.gov/api/views/ii4k-rqz2",
+            "issued": "2025-03-12",
+            "keyword": [
+                "veteran population",
+                "historical period estimate"
+            ],
+            "landingPage": "https://www.data.va.gov/d/ii4k-rqz2",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "modified": "2025-03-12",
+            "programCode": [
+                "029:086"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Department of Veterans Affairs"
+            },
+            "title": "VetPop2023 State Estimates 2000 to 2023"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "bureauCode": [
                 "029:25"
             ],
             "contactPoint": {
@@ -54749,7 +54807,7 @@
                 "hasEmail": "mailto:vancvas@va.gov"
             },
             "dataQuality": true,
-            "description": "This report provides state-level estimates of the number of Veterans who received VA Pension benefits during fiscal year 2020.  It includes the Veterans\u2019 gender.  Blank values represent small cell counts that have been suppressed to protect the identity of Veterans.  Some categories may not sum to the total due to missing information (e.g., gender, etc.).\n                                                                                                    \nSource: Department of Veterans Affairs, Office of Enterprise Integration, United States Veterans Eligibility Trends & Statistics (USVETS) 2020 and Veterans Benefits Administration VETSNET FY 2020 pension data.\n \nPrepared by National Center for Veterans Analysis & Statistics, www.va.gov/vetdata.",
+            "description": "This report provides state-level estimates of the number of Veterans who received VA Pension benefits during fiscal year 2020.  It includes the Veterans\u2019 sex.  Blank values represent small cell counts that have been suppressed to protect the identity of Veterans.  Some categories may not sum to the total due to missing information (e.g., sex, etc.).\n                                                                                                    \nSource: Department of Veterans Affairs, Office of Enterprise Integration, United States Veterans Eligibility Trends & Statistics (USVETS) 2020 and Veterans Benefits Administration VETSNET FY 2020 pension data.\n \nPrepared by National Center for Veterans Analysis & Statistics, www.va.gov/vetdata.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -54782,19 +54840,19 @@
             "issued": "2022-02-02",
             "keyword": [
                 "compensation and pension",
-                "fy20",
-                "fy 20",
                 "fy2020",
-                "fy 2020",
+                "state",
                 "pension",
-                "state"
+                "fy20",
+                "fy 2020",
+                "fy 20"
             ],
             "landingPage": "https://www.data.va.gov/d/jwup-zh9z",
             "language": [
                 "English"
             ],
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2022-02-08",
+            "modified": "2025-03-12",
             "programCode": [
                 "029:086"
             ],
@@ -78105,64 +78163,6 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "bureauCode": [
-                "029:00"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "National Center for Veterans Analysis and Statistics",
-                "hasEmail": "mailto:VANCVAS@VA.GOV"
-            },
-            "description": "The Department of Veterans Affairs provides official estimates and projections of the Veteran population using the Veteran Population Projection Model (VetPop). Based on the available information through September 30, 2020, the latest model VetPop2020 estimated the Veteran population for the period from 2000 to 2020. The \u201cNumber of Estimated Veterans by Sex and Age Group, 9/30/2000 to 9/30/2020\u201d data table shows the number of living Veterans at the end of each fiscal year from 2000 to 2020.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://www.data.va.gov/api/views/ugb5-p35y/rows.csv?accessType=DOWNLOAD",
-                    "mediaType": "text/csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "describedBy": "https://www.data.va.gov/api/views/ugb5-p35y/columns.rdf",
-                    "describedByType": "application/rdf+xml",
-                    "downloadURL": "https://www.data.va.gov/api/views/ugb5-p35y/rows.rdf?accessType=DOWNLOAD",
-                    "mediaType": "application/rdf+xml"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "describedBy": "https://www.data.va.gov/api/views/ugb5-p35y/columns.json",
-                    "describedByType": "application/json",
-                    "downloadURL": "https://www.data.va.gov/api/views/ugb5-p35y/rows.json?accessType=DOWNLOAD",
-                    "mediaType": "application/json"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "describedBy": "https://www.data.va.gov/api/views/ugb5-p35y/columns.xml",
-                    "describedByType": "application/xml",
-                    "downloadURL": "https://www.data.va.gov/api/views/ugb5-p35y/rows.xml?accessType=DOWNLOAD",
-                    "mediaType": "application/xml"
-                }
-            ],
-            "identifier": "https://www.data.va.gov/api/views/ugb5-p35y",
-            "issued": "2025-03-06",
-            "keyword": [
-                "historical period estimate",
-                "veteran population"
-            ],
-            "landingPage": "https://www.data.va.gov/d/ugb5-p35y",
-            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2025-03-06",
-            "programCode": [
-                "029:086"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Department of Veterans Affairs"
-            },
-            "title": "VetPop2020 National Estimates 2000 to 2020"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "bureauCode": [
                 "029:40"
             ],
             "contactPoint": {
@@ -87915,14 +87915,6 @@
             },
             "dataQuality": true,
             "description": "<p>This data set shows the number of veterans and survivors who are receiving either disability compensation or pension benefits from the Department of Veterans Affairs.</p>",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://www.va.gov/VETDATA/docs/Datagov/FY_2010_CNP_by_County.xlsx",
-                    "mediaType": "application/vnd.ms-excel",
-                    "title": "xls"
-                }
-            ],
             "identifier": "VA-VBA-CP2010-001",
             "isPartOf": "VA-VBA-MASTER-COMPENSATIONPENSION-001",
             "issued": "2017-07-26",
@@ -87935,12 +87927,12 @@
                 "va",
                 "veteran"
             ],
-            "landingPage": "https://www.va.gov/VETDATA/docs/Datagov/Technical_Notes_COMP_by_County_2010.doc",
+            "landingPage": "https://www.data.va.gov/d/x8eh-bfax",
             "language": [
                 "en-US"
             ],
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2020-05-15",
+            "modified": "2025-03-12",
             "programCode": [
                 "029:003"
             ],
@@ -87948,9 +87940,6 @@
                 "@type": "org:Organization",
                 "name": "Department of Veterans Affairs"
             },
-            "references": [
-                "https://www.va.gov/VETDATA/docs/Datagov/Technical_Notes_COMP_by_County_2010.doc"
-            ],
             "temporal": "2009-10-01T04:00:00Z/2010-09-30T04:00:00Z",
             "theme": [
                 "Section 10. National Security and Veterans Affairs"
@@ -88108,12 +88097,12 @@
             "identifier": "https://www.data.va.gov/api/views/xayc-j8g6",
             "issued": "2024-09-09",
             "keyword": [
-                "veteran population",
                 "veterans",
+                "veteran population",
                 "vetpop"
             ],
             "landingPage": "https://www.data.va.gov/d/xayc-j8g6",
-            "modified": "2025-03-06",
+            "modified": "2025-03-12",
             "programCode": [
                 "Office of Enterprise Integration"
             ],
@@ -89654,64 +89643,6 @@
                 "name": "www.data.va.gov"
             },
             "title": "NCVAS State Summary Indiana FY2021"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "bureauCode": [
-                "029:00"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "National Center for Veterans Analysis and Statistics",
-                "hasEmail": "mailto:VANCVAS@VA.GOV"
-            },
-            "description": "The Department of Veterans Affairs provides official estimates and projections of the Veteran population using the Veteran Population Projection Model (VetPop). Based on the available information through September 30, 2020, the latest model VetPop2020 projected a steady decrease in the Veteran population over the next 30 years. The \u201cPercent Change in Veteran Population\u201d data table shows the change in the Veteran population from 2000 to 2022 by state. During this period, the average decrease in the Veteran population is 30% at the state level.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://www.data.va.gov/api/views/y6jj-gsxt/rows.csv?accessType=DOWNLOAD",
-                    "mediaType": "text/csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "describedBy": "https://www.data.va.gov/api/views/y6jj-gsxt/columns.rdf",
-                    "describedByType": "application/rdf+xml",
-                    "downloadURL": "https://www.data.va.gov/api/views/y6jj-gsxt/rows.rdf?accessType=DOWNLOAD",
-                    "mediaType": "application/rdf+xml"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "describedBy": "https://www.data.va.gov/api/views/y6jj-gsxt/columns.json",
-                    "describedByType": "application/json",
-                    "downloadURL": "https://www.data.va.gov/api/views/y6jj-gsxt/rows.json?accessType=DOWNLOAD",
-                    "mediaType": "application/json"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "describedBy": "https://www.data.va.gov/api/views/y6jj-gsxt/columns.xml",
-                    "describedByType": "application/xml",
-                    "downloadURL": "https://www.data.va.gov/api/views/y6jj-gsxt/rows.xml?accessType=DOWNLOAD",
-                    "mediaType": "application/xml"
-                }
-            ],
-            "identifier": "https://www.data.va.gov/api/views/y6jj-gsxt",
-            "issued": "2022-10-04",
-            "keyword": [
-                "percent change by state",
-                "veteran population"
-            ],
-            "landingPage": "https://www.data.va.gov/d/y6jj-gsxt",
-            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2022-10-04",
-            "programCode": [
-                "029:086"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Department of Veterans Affairs"
-            },
-            "title": "Percent Change in Veteran Population by State from 2000 to 2022"
         },
         {
             "@type": "dcat:Dataset",
