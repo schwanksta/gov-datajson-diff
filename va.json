@@ -15616,10 +15616,10 @@
             ],
             "contactPoint": {
                 "@type": "vcard:Contact",
-                "fn": "Mark Guagliardo",
+                "fn": "Sharon Ennis",
                 "hasEmail": "mailto:VANCVAS@va.gov"
             },
-            "description": "Rate of Veteran use of VA programs and services by gender within each era of conflict in which they first served. Data underlying the eighth figure of Part 1 of the FY2018 Utilization Profile, a report on Veterans' use of VA benefits and services.",
+            "description": "Rate of Veteran use of VA programs and services by sex within each era of conflict in which they first served. Data underlying the eighth figure of Part 1 of the FY2018 Utilization Profile, a report on Veterans' use of VA benefits and services.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -15651,14 +15651,14 @@
             "identifier": "https://www.data.va.gov/api/views/6rv8-6vr9",
             "issued": "2020-10-19",
             "keyword": [
+                "veterans",
                 "utilization",
                 "veteran benefits",
-                "veterans",
                 "veterans benefits"
             ],
             "landingPage": "https://www.data.va.gov/d/6rv8-6vr9",
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-08-26",
+            "modified": "2025-03-12",
             "programCode": [
                 "029:000"
             ],
@@ -15666,7 +15666,7 @@
                 "@type": "org:Organization",
                 "name": "Department of Veterans Affairs"
             },
-            "title": "Veterans Utilization Profile FY18 - Fig. 9 - Use Rate of Genders within Era"
+            "title": "Veterans Utilization Profile FY18 - Fig. 9 - Use Rate of Sexes within Era"
         },
         {
             "@type": "dcat:Dataset",
@@ -35530,7 +35530,7 @@
                 "hasEmail": "mailto:vancvas@va.gov"
             },
             "dataQuality": true,
-            "description": "<p>To show percentage of distribution of Veterans by gender and civilian population for age, race/ethnicity, important socio-economic characteristics and period of service.</p>",
+            "description": "<p>To show percentage of distribution of Veterans by sex and civilian population for age, race/ethnicity, important socio-economic characteristics and period of service.</p>",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -35546,7 +35546,7 @@
             ],
             "landingPage": "https://www.data.va.gov/d/dizi-2nzn",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2020-11-03",
+            "modified": "2025-03-12",
             "programCode": [
                 "029:086"
             ],
@@ -44021,7 +44021,7 @@
             ],
             "landingPage": "https://www.data.va.gov/d/gavm-n6bm",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2020-01-30",
+            "modified": "2025-03-12",
             "programCode": [
                 "029:058"
             ],
