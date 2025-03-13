@@ -13313,44 +13313,6 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
-            "bureauCode": [
-                "029:00"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "NCVAS Mailbox",
-                "hasEmail": "mailto:vancvas@va.gov"
-            },
-            "dataQuality": true,
-            "description": "<p>To show demographic and socio-economic percentage of distribution of AIAN Veterans by gender, age, state, period of service, education, personal income and other important characteristics</p>",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://www.data.va.gov/download/63px-hq5d/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-                }
-            ],
-            "identifier": "cd48f374-32ac-4ed0-956d-ea72b4f6290b",
-            "issued": "2017-09-14",
-            "keyword": [
-                "american indian and alaskan native",
-                "veterans"
-            ],
-            "landingPage": "https://www.data.va.gov/d/63px-hq5d",
-            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2020-11-03",
-            "programCode": [
-                "029:086"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Department of Veterans Affairs"
-            },
-            "title": "AIAN Veterans Report (2015)"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
             "accrualPeriodicity": "R/P1Y",
             "bureauCode": [
                 "029:25"
@@ -35564,44 +35526,6 @@
                 "and Operational Data"
             ],
             "title": "State Summary: Pennsylvania FY15"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "bureauCode": [
-                "029:00"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "NCVAS Mailbox",
-                "hasEmail": "mailto:vancvas@va.gov"
-            },
-            "dataQuality": true,
-            "description": "<p>To show percentage of distribution of Veterans by sex and civilian population for age, race/ethnicity, important socio-economic characteristics and period of service.</p>",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://www.data.va.gov/download/dizi-2nzn/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-                }
-            ],
-            "identifier": "3c3df421-7430-4f27-99fc-cafa97b1e37f",
-            "issued": "2019-06-13",
-            "keyword": [
-                "demographics",
-                "veterans"
-            ],
-            "landingPage": "https://www.data.va.gov/d/dizi-2nzn",
-            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2025-03-12",
-            "programCode": [
-                "029:086"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Department of Veterans Affairs"
-            },
-            "title": "Profile of Veterans: (2017)"
         },
         {
             "@type": "dcat:Dataset",
