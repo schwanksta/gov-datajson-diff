@@ -6602,6 +6602,63 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "bureauCode": [
+                "029:00"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "National Center for Veterans Analysis and Statistics",
+                "hasEmail": "mailto:VACONCVAS@VA.GOV"
+            },
+            "description": "Number and percent of women Veterans in fiscal years 2000 to 2023.\n\nSource: VetPop2020",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://www.data.va.gov/api/views/3ypd-vvhe/rows.csv?accessType=DOWNLOAD",
+                    "mediaType": "text/csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/3ypd-vvhe/columns.rdf",
+                    "describedByType": "application/rdf+xml",
+                    "downloadURL": "https://www.data.va.gov/api/views/3ypd-vvhe/rows.rdf?accessType=DOWNLOAD",
+                    "mediaType": "application/rdf+xml"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/3ypd-vvhe/columns.json",
+                    "describedByType": "application/json",
+                    "downloadURL": "https://www.data.va.gov/api/views/3ypd-vvhe/rows.json?accessType=DOWNLOAD",
+                    "mediaType": "application/json"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/3ypd-vvhe/columns.xml",
+                    "describedByType": "application/xml",
+                    "downloadURL": "https://www.data.va.gov/api/views/3ypd-vvhe/rows.xml?accessType=DOWNLOAD",
+                    "mediaType": "application/xml"
+                }
+            ],
+            "identifier": "https://www.data.va.gov/api/views/3ypd-vvhe",
+            "issued": "2025-03-13",
+            "keyword": [
+                "women veterans"
+            ],
+            "landingPage": "https://www.data.va.gov/d/3ypd-vvhe",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "modified": "2025-03-13",
+            "programCode": [
+                "029:086"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Department of Veterans Affairs"
+            },
+            "title": "Women Veterans in 2023: VetPop2020 Estimates of Women, FY2000-2023"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "bureauCode": [
                 "029:40"
             ],
             "contactPoint": {
@@ -23557,6 +23614,63 @@
             ],
             "contactPoint": {
                 "@type": "vcard:Contact",
+                "fn": "National Center for Veterans Analysis and Statistics",
+                "hasEmail": "mailto:VACONCVAS@VA.GOV"
+            },
+            "description": "VetPop2020 projections of the Veteran population by sex and race/ethnicity for fiscal years 2020 to 2050.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://www.data.va.gov/api/views/9ia3-eizs/rows.csv?accessType=DOWNLOAD",
+                    "mediaType": "text/csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/9ia3-eizs/columns.rdf",
+                    "describedByType": "application/rdf+xml",
+                    "downloadURL": "https://www.data.va.gov/api/views/9ia3-eizs/rows.rdf?accessType=DOWNLOAD",
+                    "mediaType": "application/rdf+xml"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/9ia3-eizs/columns.json",
+                    "describedByType": "application/json",
+                    "downloadURL": "https://www.data.va.gov/api/views/9ia3-eizs/rows.json?accessType=DOWNLOAD",
+                    "mediaType": "application/json"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/9ia3-eizs/columns.xml",
+                    "describedByType": "application/xml",
+                    "downloadURL": "https://www.data.va.gov/api/views/9ia3-eizs/rows.xml?accessType=DOWNLOAD",
+                    "mediaType": "application/xml"
+                }
+            ],
+            "identifier": "https://www.data.va.gov/api/views/9ia3-eizs",
+            "issued": "2025-03-14",
+            "keyword": [
+                "women veterans"
+            ],
+            "landingPage": "https://www.data.va.gov/d/9ia3-eizs",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "modified": "2025-03-14",
+            "programCode": [
+                "029:086"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Department of Veterans Affairs"
+            },
+            "title": "Women Veterans in 2023: VetPop2020 by Sex and Race/Ethnicity"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "bureauCode": [
+                "029:00"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
                 "fn": "NCVAS",
                 "hasEmail": "mailto:vancvas@va.gov"
             },
@@ -32071,6 +32185,63 @@
                 "and Operational Data"
             ],
             "title": "COIN 0017 CARS AGE PROFILE REPORT JAN 2015"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "bureauCode": [
+                "029:00"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "National Center for Veterans Analysis and Statistics",
+                "hasEmail": "mailto:VACONCVAS@VA.GOV"
+            },
+            "description": "VetPop2020 projections of the Veteran population by sex and period of service for fiscal years 2020 to 2050.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://www.data.va.gov/api/views/cbt6-e4ja/rows.csv?accessType=DOWNLOAD",
+                    "mediaType": "text/csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/cbt6-e4ja/columns.rdf",
+                    "describedByType": "application/rdf+xml",
+                    "downloadURL": "https://www.data.va.gov/api/views/cbt6-e4ja/rows.rdf?accessType=DOWNLOAD",
+                    "mediaType": "application/rdf+xml"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/cbt6-e4ja/columns.json",
+                    "describedByType": "application/json",
+                    "downloadURL": "https://www.data.va.gov/api/views/cbt6-e4ja/rows.json?accessType=DOWNLOAD",
+                    "mediaType": "application/json"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/cbt6-e4ja/columns.xml",
+                    "describedByType": "application/xml",
+                    "downloadURL": "https://www.data.va.gov/api/views/cbt6-e4ja/rows.xml?accessType=DOWNLOAD",
+                    "mediaType": "application/xml"
+                }
+            ],
+            "identifier": "https://www.data.va.gov/api/views/cbt6-e4ja",
+            "issued": "2025-03-14",
+            "keyword": [
+                "women veterans"
+            ],
+            "landingPage": "https://www.data.va.gov/d/cbt6-e4ja",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "modified": "2025-03-14",
+            "programCode": [
+                "029:086"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Department of Veterans Affairs"
+            },
+            "title": "Women Veterans in 2023: VetPop2020 by Sex, Period of Service"
         },
         {
             "@type": "dcat:Dataset",
@@ -84979,7 +85150,7 @@
             "identifier": "https://www.data.va.gov/api/views/wci3-yrsv",
             "issued": "2024-08-05",
             "landingPage": "https://www.data.va.gov/d/wci3-yrsv",
-            "modified": "2025-03-06",
+            "modified": "2025-03-14",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "www.data.va.gov"
