@@ -34861,10 +34861,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/9887a515-7552-4693-bf58-735c77af46d7/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-02-27",
+                    "modified": "2025-03-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/9887a515-7552-4693-bf58-735c77af46d7",
-                    "temporal": "2025-01-01/2025-01-31",
-                    "title": "Opt Out Affidavits : 2025-01-31"
+                    "temporal": "2025-02-01/2025-02-28",
+                    "title": "Opt Out Affidavits : 2025-02-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-03/8cdbaa34-846c-4a84-9952-5a41cf00cb4d/Opt_Out_List_February.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-03-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/572816d4-ae54-4dca-a2dd-e18abd681fe5",
+                    "temporal": "2025-02-01/2025-02-28",
+                    "title": "Opt Out Affidavits : 2025-02-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/572816d4-ae54-4dca-a2dd-e18abd681fe5/data",
+                    "format": "API",
+                    "modified": "2025-03-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/572816d4-ae54-4dca-a2dd-e18abd681fe5",
+                    "temporal": "2025-02-01/2025-02-28",
+                    "title": "Opt Out Affidavits : 2025-02-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -35275,7 +35293,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-02-27",
+            "modified": "2025-03-24",
             "programCode": [
                 "009:000"
             ],
@@ -35286,7 +35304,7 @@
             "references": [
                 "https://data.cms.gov/resources/opt-out-affidavits-methodology"
             ],
-            "temporal": "2023-04-01/2025-01-31",
+            "temporal": "2023-04-01/2025-02-28",
             "theme": [
                 "Medicare"
             ],
