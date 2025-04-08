@@ -43,14 +43,17 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/P1M",
             "bureauCode": [
-                "012:11"
+                "015:11"
             ],
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Elaine Zimmerman",
                 "hasEmail": "mailto:zimmerman.elaine@dol.gov"
             },
+            "describedBy": "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/Public-disclosure/foia",
+            "describedByType": "text/html",
             "description": "The Form 5500 Annual Report is the primary source of information about the operations, funding and investments of approximately 800,000 retirement and welfare benefit plans. Datasets contain the raw, unedited data from all of the Form 5500 and Form 5500-SF filings for each year, including the data reported in the various schedules.",
             "distribution": [
                 {
@@ -61,6 +64,7 @@
                 }
             ],
             "identifier": "EBSA-11-012:019-102",
+            "issued": "2025-03-01",
             "keyword": [
                 "5500",
                 "Benefit Plan",
@@ -69,36 +73,45 @@
                 "Participants",
                 "assets"
             ],
+            "landingPage": "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/Public-disclosure/foia",
             "language": [
                 "en-US"
             ],
             "license": "http://www.usa.gov/publicdomain/label/1.0/",
-            "modified": "2021-04-02T17:38:19.742Z",
+            "modified": "2025-04-04T21:15:18.215Z",
             "programCode": [
-                "012:019"
+                "015:001"
             ],
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Employee Benefits Security Administration",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
-                    "name": "Department of Labor"
+                    "name": "Employee Benefits Security Administration"
                 }
             },
             "rights": "true",
+            "spatial": "Address",
+            "temporal": "2000-01-01/2025-03-01",
+            "theme": [
+                "geospatial"
+            ],
             "title": "Form 5500 FOIA Datasets"
         },
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/PT1S",
             "bureauCode": [
-                "012:11"
+                "015:11"
             ],
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Elaine Zimmerman",
                 "hasEmail": "mailto:zimmerman.elaine@dol.gov"
             },
+            "describedBy": "https://www.dol.gov/agencies/ebsa/workers-and-families/preparing-for-retirement/pension-plan-actuarial-information-search-instructions",
+            "describedByType": "text/html",
             "description": "This database consists of submissions of abandoned ERISA plans by Qualified Termination Administrators",
             "distribution": [
                 {
@@ -115,28 +128,35 @@
                 "ERISA",
                 "Missing Participants"
             ],
+            "landingPage": "https://www.askebsa.dol.gov/AbandonedPlanSearch/",
             "language": [
                 "en-US"
             ],
             "license": "http://www.usa.gov/publicdomain/label/1.0/",
-            "modified": "2021-04-02T17:41:36.011Z",
+            "modified": "2025-04-08T13:43:12.091Z",
             "programCode": [
-                "012:019"
+                "015:001"
             ],
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Employee Benefits Security Administration",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
-                    "name": "Department of Labor"
+                    "name": "Employee Benefits Security Administration"
                 }
             },
             "rights": "true",
+            "spatial": "Address",
+            "temporal": "2000-01-01/2025-03-28",
+            "theme": [
+                "geospatial"
+            ],
             "title": "Abandoned Plan Search Database"
         },
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/PT1S",
             "bureauCode": [
                 "015:11"
             ],
@@ -145,6 +165,8 @@
                 "fn": "Elaine Zimmerman",
                 "hasEmail": "mailto:zimmerman.elaine@dol.gov"
             },
+            "describedBy": "https://enforcedata.dol.gov/views/data_dictionary.php",
+            "describedByType": "text/html",
             "description": "The dataset consists of closed cases that resulted in penalty assessments by EBSA since 2000. This data provides information on EBSA's enforcement programs to enforce ERISA's Form 5500 Annual Return/Report filing requirement focusing on deficient filers, late filers and non-filers.",
             "identifier": "EBSA-11-012:019-100",
             "issued": "2010-02-22",
@@ -162,11 +184,12 @@
                 "late filers",
                 "non-filers"
             ],
+            "landingPage": "https://www.efast.dol.gov/portal/app/disseminatePublic?execution=e2s1",
             "language": [
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-copyright",
-            "modified": "2024-11-05T16:03:28.823Z",
+            "modified": "2025-04-04T21:11:11.434Z",
             "programCode": [
                 "015:001"
             ],
@@ -179,19 +202,24 @@
                 }
             },
             "rights": "true",
+            "spatial": "Address",
+            "temporal": "2000-01-01/2025-03-28",
             "title": "EBSA Form 5500 Annual Return/Report Filing Enforcement Data"
         },
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/PT1S",
             "bureauCode": [
-                "012:11"
+                "015:11"
             ],
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Elaine Zimmerman",
                 "hasEmail": "mailto:zimmerman.elaine@dol.gov"
             },
+            "describedBy": "https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/affordable-care-act/for-employers-and-advisers/mewas",
+            "describedByType": "text/html",
             "description": "Electronic filing system for the Form M-1 annual report for multiple employer welfare arrangements",
             "distribution": [
                 {
@@ -207,65 +235,30 @@
                 "MEWA",
                 "welfare"
             ],
+            "landingPage": "https://www.askebsa.dol.gov/epds/",
             "language": [
                 "en-US"
             ],
             "license": "http://www.usa.gov/publicdomain/label/1.0/",
-            "modified": "2021-04-02T17:50:03.151Z",
+            "modified": "2025-04-08T13:52:55.467Z",
             "programCode": [
-                "012:019"
+                "015:001"
             ],
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Employee Benefits Security Administration",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
-                    "name": "Department of Labor"
+                    "name": "Employee Benefits Security Administration"
                 }
             },
             "rights": "true",
+            "spatial": "Address",
+            "temporal": "2000-01-01/2025-03-28",
+            "theme": [
+                "geospatial"
+            ],
             "title": "M-1 Filings Database"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "accrualPeriodicity": "irregular",
-            "bureauCode": [
-                "012:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "The Office of Outreach, Education and Assistance (OEA) of EBSA provides service to EBSA\u2019s customers by means of outreach, education & technical assistance. OEA is responsible for external communications with the public through a variety of vehicles including the media, public outreach, brochures, other educational materials, national educational campaigns, public service announcements, EBSA\u2019s web site, and participant and compliance assistance activities. The automated system that is used to track and manage the inquiries.",
-            "identifier": "EBSA-11-012:019-101",
-            "keyword": [
-                "Benefit Recovery",
-                "Benefits Advisor",
-                "EBSA",
-                "ERISA",
-                "Outreach Inquiry",
-                "inquiries"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "license": "http://www.usa.gov/publicdomain/label/1.0/",
-            "modified": "2021-04-01T15:18:48.076Z",
-            "programCode": [
-                "012:019"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Department of Labor"
-                }
-            },
-            "rights": "Restricted dataset",
-            "title": "Technical Assistance and Inquiry Database"
         },
         {
             "@type": "dcat:Dataset",
@@ -869,7 +862,7 @@
                 }
             ],
             "identifier": "WHD-16-012:027-379",
-            "issued": "2024-12-11",
+            "issued": "2025-03-12",
             "keyword": [
                 "FLCE",
                 "WHD",
@@ -879,7 +872,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-16T14:58:28.541Z",
+            "modified": "2025-03-17T15:03:53.360Z",
             "programCode": [
                 "015:001"
             ],
@@ -966,7 +959,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-09T18:22:11.521Z",
+            "modified": "2025-03-17T13:15:57.887Z",
             "programCode": [
                 "015:001"
             ],
@@ -997,7 +990,7 @@
                 "hasEmail": "mailto:rehkop.christopher.h@dol.gov"
             },
             "describedBy": "https://sms.netdigitalsolutions.com/custom.aspx?cuiid=117",
-            "description": "Data repository for DOL's real property portfolio and GSA occupancy agreements",
+            "description": "Data repository for DOL's real property portfolio and GSA occupancy agreements.",
             "identifier": "OASAM BOC-25-012:044-207",
             "keyword": [
                 "BOC",
@@ -1009,7 +1002,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-06T13:23:04.029Z",
+            "modified": "2025-03-17T10:47:14.621Z",
             "programCode": [
                 "015:001"
             ],
@@ -1043,18 +1036,18 @@
                 "fn": "Heath Rehkop",
                 "hasEmail": "mailto:rehkop.christopher.h@dol.gov"
             },
-            "description": "GSA and DOE Federal Automotive Statistical Tool (FAST) for statutory reporting",
+            "description": "GSA and DOE Federal Automotive Statistical Tool (FAST) for statutory reporting.",
             "identifier": "OASAM BOC-25-012:044-214",
             "keyword": [
                 "BOC",
-                "FAST report",
+                "FAST Reporting",
                 "OASAM"
             ],
             "landingPage": "https://fastweb.inel.gov/",
             "language": [
                 "en-US"
             ],
-            "modified": "2024-06-27T13:56:30.946Z",
+            "modified": "2025-03-17T11:04:04.158Z",
             "programCode": [
                 "015:001"
             ],
@@ -1098,7 +1091,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-06-27T17:04:03.369Z",
+            "modified": "2025-03-17T12:46:46.398Z",
             "programCode": [
                 "015:001"
             ],
@@ -1114,7 +1107,9 @@
                 "https://www.energystar.gov/buildings/facility-owners-and-managers/existing-buildings/use-portfolio-manager"
             ],
             "rights": "restricted",
-            "spatial": "address",
+            "theme": [
+                "geospatial"
+            ],
             "title": "energy use water use costs"
         },
         {
@@ -1139,7 +1134,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T12:40:24.297Z",
+            "modified": "2025-03-17T13:05:05.237Z",
             "programCode": [
                 "015:001"
             ],
@@ -1170,7 +1165,7 @@
                 "fn": "Michelle Abellar",
                 "hasEmail": "mailto:Abellar.Michelle@dol.gov"
             },
-            "description": "Web-based e-Recruitment system that provides both Department of Labor (DOL) employees and outside job seekers the opportunity to apply for DOL jobs via the Internet.",
+            "description": "Web-based e-Recruitment system that provided both Department of Labor (DOL) employees and outside job seekers the opportunity to apply for DOL jobs via the Internet through June 2023 until being replaced by the USA Staffing System (with Phase 1 agencies beginning to use the system in April 2023).",
             "identifier": "OASAM OHR-25-012:044-236",
             "keyword": [
                 "OASAM",
@@ -1179,11 +1174,11 @@
                 "certificate",
                 "vacancies"
             ],
-            "landingPage": "https://hr.monstergovt.com/dol/home/login.hms",
+            "landingPage": "https://hr.monstergovt.com/dol-arc/home/login.hms#/home-dashboard",
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:44:30.180Z",
+            "modified": "2025-03-17T13:45:56.440Z",
             "programCode": [
                 "015:001"
             ],
@@ -1195,6 +1190,9 @@
                     "name": "Office of the Assistant Secretary for Administration and Management"
                 }
             },
+            "references": [
+                "https://labornet.dol.gov/me/careercenter/DOORS/"
+            ],
             "rights": "private",
             "title": "DOORS"
         },
@@ -1216,15 +1214,13 @@
                 "HR data",
                 "Human Capital Data",
                 "OASAM",
-                "OHR",
-                "hr",
-                "human capital"
+                "OHR"
             ],
             "landingPage": "https://datainsight.teaps.treasury.gov/PortalEntry",
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:35:59.639Z",
+            "modified": "2025-03-17T13:48:24.825Z",
             "programCode": [
                 "015:001"
             ],
@@ -1268,7 +1264,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:49:39.961Z",
+            "modified": "2025-03-17T14:29:05.391Z",
             "programCode": [
                 "015:001"
             ],
@@ -1497,7 +1493,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-09T18:25:20.163Z",
+            "modified": "2025-03-17T10:35:37.125Z",
             "programCode": [
                 "015:001"
             ],
@@ -1510,7 +1506,7 @@
                 }
             },
             "references": [
-                "https://labornetcontentdev.opadev.dol.gov/workplaceresources/policies/FAIR-Act/"
+                "https://labornet.dol.gov/workplaceresources/policies/FAIR-Act/"
             ],
             "rights": "not available",
             "title": "Federal Activities Inventory Reform (FAIR) Act Inventory"
@@ -1538,7 +1534,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-06-27T13:59:47.411Z",
+            "modified": "2025-03-17T12:26:10.198Z",
             "programCode": [
                 "015:001"
             ],
@@ -1581,7 +1577,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:03:36.345Z",
+            "modified": "2025-03-17T13:30:48.306Z",
             "programCode": [
                 "015:001"
             ],
@@ -1618,7 +1614,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:06:27.074Z",
+            "modified": "2025-03-17T13:39:42.379Z",
             "programCode": [
                 "015:001"
             ],
@@ -1704,7 +1700,7 @@
                 }
             ],
             "identifier": "WHD-16-012:027-378",
-            "issued": "2024-12-11",
+            "issued": "2025-03-06",
             "keyword": [
                 "FLC",
                 "WHD",
@@ -1714,7 +1710,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-16T14:59:06.187Z",
+            "modified": "2025-03-17T15:04:20.792Z",
             "programCode": [
                 "015:001"
             ],
@@ -1790,7 +1786,7 @@
                 "fn": "Heath Rehkop",
                 "hasEmail": "mailto:rehkop.christopher.h@dol.gov"
             },
-            "description": "ROW supports GSA's strategic goal of eliminating paper while supplying timely critical billing information to client agencies. ROW allows client agencies to view their monthly bills online using web browsers. Deployed software infrastructure is minimal for client agencies and GSA. Each agency can only see their agencies current bills or historical bills that are always available. ROW currently is the only electronic means in which external agencies can view their rent bills online.",
+            "description": "ROW supports GSA's strategic goal of eliminating paper while supplying timely critical billing information to client agencies. ROW allows client agencies to view their Monthly bills online using web browsers. Deployed software infrastructure is minimal for client agencies and GSA. Each agency can only see their agencies current bills or historical bills that are always available. ROW currently is the only electronic means in which external agencies can view their rent bills online.",
             "identifier": "OASAM BOC-25-012:044-212",
             "keyword": [
                 "BOC",
@@ -1802,7 +1798,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-06-27T13:53:01.329Z",
+            "modified": "2025-03-17T10:59:32.630Z",
             "programCode": [
                 "015:001"
             ],
@@ -1884,7 +1880,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-06-27T13:58:30.164Z",
+            "modified": "2025-03-17T12:24:07.992Z",
             "programCode": [
                 "015:001"
             ],
@@ -1929,7 +1925,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-06-27T13:49:58.629Z",
+            "modified": "2025-03-17T12:55:44.122Z",
             "programCode": [
                 "015:001"
             ],
@@ -1942,7 +1938,7 @@
                 }
             },
             "references": [
-                "https://gsaxcess.gov/"
+                "https://PPMS.gov"
             ],
             "rights": "restricted",
             "spatial": "location characteristics, address",
@@ -2011,7 +2007,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:51:46.418Z",
+            "modified": "2025-03-17T14:30:42.688Z",
             "programCode": [
                 "015:001"
             ],
@@ -2414,7 +2410,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:09:01.783Z",
+            "modified": "2025-03-17T13:13:49.658Z",
             "programCode": [
                 "015:001"
             ],
@@ -2435,7 +2431,7 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "restricted public",
-            "accrualPeriodicity": "R/P1Y",
+            "accrualPeriodicity": "R/P3M",
             "bureauCode": [
                 "015:11"
             ],
@@ -2454,7 +2450,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T16:00:00.009Z",
+            "modified": "2025-03-17T12:37:14.962Z",
             "programCode": [
                 "015:001"
             ],
@@ -2499,10 +2495,11 @@
                 "hr",
                 "tna"
             ],
+            "landingPage": "https://www.nfc.usda.gov/reporting/warnmsg.aspx",
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:37:20.415Z",
+            "modified": "2025-03-17T13:53:29.386Z",
             "programCode": [
                 "015:001"
             ],
@@ -2545,7 +2542,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:38:36.949Z",
+            "modified": "2025-03-17T14:03:13.416Z",
             "programCode": [
                 "015:001"
             ],
@@ -2557,6 +2554,9 @@
                     "name": "Office of the Assistant Secretary for Administration and Management"
                 }
             },
+            "references": [
+                "https://labornet.dol.gov/me/hrworks/webTA.htm"
+            ],
             "rights": "private",
             "spatial": "location characteristics",
             "title": "WebTA"
@@ -2654,7 +2654,7 @@
                 "fn": "Steven Pierce",
                 "hasEmail": "mailto:pierce.steven@dol.gov"
             },
-            "description": "Electronic Records Archive (ERA)\nOnline portal through which DOL conduct business new system that allows Federal agencies to perform critical records management transactions  with the National Archives and Records Administration",
+            "description": "Electronic Records Archive (ERA)\nOnline portal through which DOL conduct business new system that allows Federal agencies to perform critical records management transactions with the National Archives and Records Administration",
             "identifier": "OASAM BOC-25-012:044-203",
             "keyword": [
                 "ERA",
@@ -2666,7 +2666,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:09:56.102Z",
+            "modified": "2025-03-17T13:13:17.802Z",
             "programCode": [
                 "015:001"
             ],
@@ -2696,7 +2696,7 @@
                 "fn": "Derrek Sanks",
                 "hasEmail": "mailto:sanks.derrek.d@dol.gov"
             },
-            "description": "Data repository for ETA Job Corps Center Facility Information, DOL's real property portfolio, and GSA occupancy agreements",
+            "description": "Data repository for ETA Job Corps Center Facility Information, DOL's real property portfolio and GSA occupancy agreements.",
             "identifier": "OASAM BOC-25-012:044-208",
             "keyword": [
                 "BOC",
@@ -2706,7 +2706,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-06T13:21:37.846Z",
+            "modified": "2025-03-17T10:51:48.470Z",
             "programCode": [
                 "015:001"
             ],
@@ -2751,7 +2751,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-06T13:19:25.640Z",
+            "modified": "2025-03-17T10:53:58.447Z",
             "programCode": [
                 "015:001"
             ],
@@ -2795,7 +2795,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:22:44.919Z",
+            "modified": "2025-03-17T13:52:20.937Z",
             "programCode": [
                 "015:001"
             ],
@@ -2845,7 +2845,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-09T18:23:31.150Z",
+            "modified": "2025-03-17T13:18:59.170Z",
             "programCode": [
                 "015:001"
             ],
@@ -2873,10 +2873,10 @@
             ],
             "contactPoint": {
                 "@type": "vcard:Contact",
-                "fn": "Traci Smith",
-                "hasEmail": "mailto:smith.traci@dol.gov"
+                "fn": "Tatyana Niglio",
+                "hasEmail": "mailto:niglio.tatyana@dol.gov"
             },
-            "description": "Folio is a shared service application that enables government agencies to manage their IT projects, programs, portfolios and submit the IT Budget to OMB. The General Service Administration (GSA) manages the Folio application in collaboration with the 18 member agencies. OMB requires agencies to track and report on realized cost savings / avoidance as part of the IT investment submission. \n(previously titled: Electronic Capital Planning Investment Control (eCPIC))",
+            "description": "Folio is a shared service application that enables government agencies to manage their IT projects, programs, portfolios and submit the IT Budget to OMB. The General Service Administration (GSA) manages the Folio application in collaboration with the 18 member agencies. OMB requires agencies to track and report on realized cost savings / avoidance as part of the IT investment submission. (previously titled: Electronic Capital Planning Investment Control (eCPIC))",
             "identifier": "OASAM OCIO-25-012:044-253",
             "keyword": [
                 "OASAM",
@@ -2886,7 +2886,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:17:53.669Z",
+            "modified": "2025-03-17T14:36:44.538Z",
             "programCode": [
                 "015:001"
             ],
@@ -2898,6 +2898,9 @@
                     "name": "Office of the Assistant Secretary for Administration and Management"
                 }
             },
+            "references": [
+                "https://community.max.gov/display/GSA/FOLIO"
+            ],
             "rights": "restricted",
             "title": "Folio"
         },
@@ -2960,7 +2963,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:56:56.025Z",
+            "modified": "2025-03-17T10:55:58.219Z",
             "programCode": [
                 "015:001"
             ],
@@ -3006,7 +3009,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-06T13:30:41.232Z",
+            "modified": "2025-03-17T10:57:47.807Z",
             "programCode": [
                 "015:001"
             ],
@@ -3040,7 +3043,7 @@
                 "fn": "Carlton Brown",
                 "hasEmail": "mailto:brown.carlton@dol.gov"
             },
-            "description": "A computerized system used by Civil Rights Center management and employees to record and track Equal Opportunity (EO) complaints alleging discrimination in programs and activities that receive DOL Federal financial assistance or alleging discrimination by public entities that operate programs related to labor and the work force.",
+            "description": "A computerized system used by the Civil Rights Center management and its employees to record and track Equal Opportunity (EO) complaints alleging discrimination in programs and activities that receive DOL Federal financial assistance or alleging discrimination by Public entities that operate programs related to labor and the work force.",
             "identifier": "OASAM CRC-25-012:044-226",
             "keyword": [
                 "CRC",
@@ -3050,7 +3053,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T12:38:16.446Z",
+            "modified": "2025-03-17T12:57:34.457Z",
             "programCode": [
                 "015:001"
             ],
@@ -3084,6 +3087,7 @@
             "description": "The Reasonable Accommodation Tracking System (RATS) is an electronic system for processing reasonable accommodation requests.  RATS allows the Reasonable Accommodation Resource Center to organize data to determine trends, fulfill the DLMS recordkeeping requirements, maintain a centralized repository of information, track when future action is needed (such as purchasing software upgrades), and allows for quick reference on the status and resolution of a request.",
             "identifier": "OASAM CRC-25-012:044-227",
             "keyword": [
+                "CRC",
                 "OASAM",
                 "WECO"
             ],
@@ -3091,7 +3095,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-06T13:54:00.142Z",
+            "modified": "2025-03-17T14:24:54.715Z",
             "programCode": [
                 "015:001"
             ],
@@ -3131,7 +3135,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T12:49:31.750Z",
+            "modified": "2025-03-17T13:07:07.148Z",
             "programCode": [
                 "015:001"
             ],
@@ -3194,7 +3198,7 @@
                 "fn": "Sheila DeMartiNo",
                 "hasEmail": "mailto:demartiNo.sheila@dol.gov"
             },
-            "description": "LERMS provides all the Office of Employee Labor Management Relations (DELMR) the ability to standardize processes and centralize its data to significantly improve the collection, management and reporting capabilities of the organization.  LERMS gives OELMR the ability to collect pertinent data related to cases and subsequently produce reports for DOL management to fulfill their annual reporting requirements.",
+            "description": "LERMS provides the Division of Employee Labor Management Relations (DELMR) the ability to standardize processes and centralize its data to significantly improve the collection, management and reporting capabilities of the organization.  LERMS gives DELMR the ability to collect pertinent data related to cases and subsequently produce reports for DOL management to fulfill their annual reporting requirements.",
             "identifier": "OASAM OCIO-25-012:044-244",
             "keyword": [
                 "LERMS",
@@ -3207,7 +3211,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:47:29.141Z",
+            "modified": "2025-03-17T14:18:40.872Z",
             "programCode": [
                 "015:001"
             ],
@@ -3363,8 +3367,8 @@
             ],
             "contactPoint": {
                 "@type": "vcard:Contact",
-                "fn": "Jolyn Underwood",
-                "hasEmail": "mailto:underwood.donna@dol.gov"
+                "fn": "Anne Leitch",
+                "hasEmail": "mailto:leitch.anne.e@dol.gov"
             },
             "description": "e.LORS was created under the requirements of the Labor-Management Reporting and Disclosure Act to provide for electronic filing, storage, and disclosure of data filed with the Department by labor unions, employers, and others.  It also contains a module for investigative case management.",
             "identifier": "OLMS-23-012:026-308",
@@ -3379,7 +3383,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/publicdomain/label/1.0/",
-            "modified": "2024-03-22T21:17:04.973Z",
+            "modified": "2025-02-24T19:56:59.633Z",
             "programCode": [
                 "015:001"
             ],
@@ -3597,12 +3601,12 @@
             "keyword": [
                 "OSHA"
             ],
-            "landingPage": "https://www.osha.gov/pls/imis/establishment.search?",
+            "landingPage": "https://ois.dol.gov/imageserver/ui/home",
             "language": [
                 "en-US"
             ],
             "license": "https://www.usa.gov/publicdomain/label/1.0/",
-            "modified": "2024-12-16T17:52:09.413Z",
+            "modified": "2025-03-05T19:50:01.289Z",
             "programCode": [
                 "015:001"
             ],
@@ -3819,7 +3823,7 @@
                 "en-US"
             ],
             "license": "https://opendatacommons.org/licenses/by/1.0/",
-            "modified": "2024-09-23T12:53:00.578Z",
+            "modified": "2025-03-17T13:21:34.237Z",
             "programCode": [
                 "015:001"
             ],
@@ -3899,7 +3903,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T12:59:10.873Z",
+            "modified": "2025-03-17T13:25:53.363Z",
             "programCode": [
                 "015:001"
             ],
@@ -3924,8 +3928,8 @@
             ],
             "contactPoint": {
                 "@type": "vcard:Contact",
-                "fn": "Leo Miller",
-                "hasEmail": "mailto:miller.leo@dol.gov"
+                "fn": "Mark Kunz",
+                "hasEmail": "mailto:kunz.mark.l@dol.gov"
             },
             "description": "OCIO\u2019s internal business operations tracking system",
             "identifier": "OASAM OCIO-25-012:044-274",
@@ -3936,7 +3940,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-06T16:25:07.723Z",
+            "modified": "2025-03-17T14:40:29.505Z",
             "programCode": [
                 "015:001"
             ],
@@ -3973,7 +3977,7 @@
                 "en-US"
             ],
             "license": "https://opendatacommons.org/licenses/pddl/1.0/",
-            "modified": "2024-09-23T13:01:10.255Z",
+            "modified": "2025-03-17T13:27:35.125Z",
             "programCode": [
                 "015:001"
             ],
@@ -4002,7 +4006,7 @@
             },
             "describedBy": "https://www.dol.gov/sites/dolgov/files/VETS/files/HVRP-Quarterly-Performance-Report-Desk-Guide-Revised-2024-with-Formulas.pdf",
             "describedByType": "application/pdf",
-            "description": "\"Quarterly Technical Performance Report (TPR) from HVRP grantees. This includes demographic and employment characteristics of HVRP participants aggregated at the grantee-level.\nThe TPR is an Excel-based data collection and reporting tool for grant recipients to enter participant and project information. The workbook allows VETS\u2019 Grant Officer\u2019s Technical Representatives (GOTR) to monitor performance and enables the aggregation and analysis of \ngrant recipient data to assess the effectiveness of grant programs and submit reports to Congress. Grant recipients must submit the TPR and its accompanying TPN for a specific grant award for all twelve quarters in the grant Period of Performance (PoP).\nThe TPR Excel workbook is comprised of six worksheets:\n1. Planned Goals \u2013 Recipient input required\n2. Tech Perf Report \u2013 Report / minimal recipient input required\n3. New Enrollment Entry \u2013 Recipient input optional\n4. Participant Info \u2013 Recipient input required \n5. Demographics Summary \u2013 Report / no input required\n6. Goals v. Actual \u2013 Report / no input required\"",
+            "description": "Quarterly Technical Performance Report (TPR) from HVRP grant recipients. This includes demographic and employment characteristics of HVRP participants aggregated at the grant recipient-level.\n\nThe TPR is an Excel-based data collection and reporting tool for grant recipients to enter participant and project information. The workbook allows VETS\u2019 Grant Officer\u2019s Technical Representatives (GOTR) to monitor performance and enables the aggregation and analysis of grant recipient data to assess the effectiveness of grant programs and submit reports to Congress. Grant recipients must submit the TPR and its accompanying TPN for a specific grant award for all twelve quarters in the grant Period of Performance (PoP).\n\nThe TPR Excel workbook is comprised of six worksheets:\n1. Planned Goals \u2013 Recipient input required\n2. Tech Perf Report \u2013 Report / minimal recipient input required\n3. New Enrollment Entry \u2013 Recipient input optional\n4. Participant Info \u2013 Recipient input required\n5. Demographics Summary \u2013 Report / No input required\n6. Goals v. Actual \u2013 Report / No input required",
             "identifier": "VETS-29-012:042-356",
             "keyword": [
                 "701",
@@ -4013,18 +4017,20 @@
                 "TPR",
                 "VETS",
                 "at-risk homeless veterans",
-                "competitive grants",
+                "competitive grant",
                 "employment",
                 "homeless",
                 "homeless female veterans",
                 "homeless veterans with children",
+                "homeless women veterans",
                 "incarcerated veterans",
-                "veterans"
+                "veterans",
+                "veterans at-risk of homelessness"
             ],
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-17T12:55:57.574Z",
+            "modified": "2025-04-03T14:55:54.527Z",
             "programCode": [
                 "015:001"
             ],
@@ -4064,7 +4070,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:05:05.981Z",
+            "modified": "2025-03-17T13:33:45.010Z",
             "programCode": [
                 "015:001"
             ],
@@ -4091,7 +4097,7 @@
                 "fn": "Myung Moon",
                 "hasEmail": "mailto:moon.myung@dol.gov"
             },
-            "description": "The official benefits website of the U.S. government.  Benefits.gov provides an innovative, technology-based solution to connect U.S. citizens to federal, and some state benefits.\n\nBenefits.gov is a cross-governmental collaboration between multiple Federal agencies. Our Partner agencies share in the governance and strategic guidance of the Program, approve the features and enhancements to the site, provide the benefit program content, and contribute funding. The U.S. Department of Labor serves as the Managing Partner for Benefits.gov.",
+            "description": "The official benefits website of the U.S. government.  Benefits.gov provides an inNovative, techNology-based solution to connect U.S. citizens to federal, and some state benefits.\n\nBenefits.gov is a cross-governmental collaboration between multiple Federal agencies. Our Partner agencies share in the governance and strategic guidance of the Program, approve the features and enhancements to the site, provide the benefit program content, and contribute funding. The U.S. Department of Labor serves as the Managing Partner for Benefits.gov.",
             "identifier": "OASAM OCIO-25-012:044-273",
             "keyword": [
                 "OASAM",
@@ -4101,7 +4107,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-06T13:56:38.460Z",
+            "modified": "2025-03-17T13:41:14.129Z",
             "programCode": [
                 "015:001"
             ],
@@ -4138,6 +4144,7 @@
             "keyword": [
                 "DD2648",
                 "Department of Defense",
+                "Office of National Programs",
                 "TAP",
                 "TAP workshops",
                 "VDEI",
@@ -4153,7 +4160,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-17T14:02:30.934Z",
+            "modified": "2025-04-03T15:21:51.035Z",
             "programCode": [
                 "015:001"
             ],
@@ -4187,7 +4194,7 @@
             },
             "describedBy": "https://www.hirevets.gov/resources#program",
             "describedByType": "text/html",
-            "description": "\"The Honoring Investments in Recruiting and Employing American Military Veterans Act of 2017 (HIRE Vets Act or the Act), requires the Secretary of Labor to establish a program, by rule, that recognizes employer efforts to recruit, employ, and retain veterans. Employer-applicants meeting criteria established in the rule will receive a \u201cHIRE Vets Medallion Award.\u201d As described in the Act, there are different awards for large employers (500-plus employees), medium employers (51-499 employees), and small employers (50 or fewer employees). Additionally, there are two award tiers: platinum and gold. For each award, the employer must satisfy a set of criteria.\nThis dataset contains information from the application form completed by employers who applied to the HIRE Veterans Medallion Program.  Information collected includes: company identifier, personal identifier, hiring/retention statistics and program information in application process from businesses who wish to be recognized for outstanding veteran hiring/retention. Under the Act, VETS will:  1. Solicit applications no later than January 31;  and  2.  Stop accepting applications on April 30.\"",
+            "description": "\"The Honoring Investments in Recruiting and Employing American Military Veterans Act of 2017 (HIRE Vets Act or the Act), requires the Secretary of Labor to establish a program, by rule, that recognizes employer efforts to recruit, employ, and retain veterans. Employer-applicants meeting criteria established in the rule will receive a \u201cHIRE Vets Medallion Award.\u201d As described in the Act, there are different awards for large employers (500-plus employees), medium employers (51-499 employees), and small employers (50 or fewer employees). Additionally, there are two award tiers: platinum and gold. For each award, the employer must satisfy a set of criteria.\nThis dataset contains information from the application form completed by employers who applied to the HIRE Veterans Medallion Program.  Information collected includes: company identifier, personal identifier, hiring/retention statistics and program information in application process from businesses who wish to be recognized for outstanding veteran hiring/retention. Under the Act, VETS will:  1. Solicit applications No later than January 31; and 2.  Stop accepting applications on April 30.\"",
             "identifier": "VETS-29-012:043-359",
             "keyword": [
                 "HIRE Vets",
@@ -4199,7 +4206,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-17T12:58:23.884Z",
+            "modified": "2025-04-03T13:36:12.838Z",
             "programCode": [
                 "015:001"
             ],
@@ -4220,7 +4227,7 @@
         },
         {
             "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
+            "accessLevel": "restricted public",
             "accrualPeriodicity": "R/P3M",
             "bureauCode": [
                 "015:11"
@@ -4231,7 +4238,7 @@
                 "hasEmail": "mailto:vetscompliance@dol.gov"
             },
             "describedBy": "https://www.dol.gov/sites/dolgov/files/VETS/files/VETS-USERRA-VEOA-VP-Investigations-Manual-2022-01-Redacted-UPDATE.pdf",
-            "description": "\"This dataset contains information on claims of potential violations of the Uniformed Services Employment Reemployment Rights Act (USERRA) and Veterans  Preference (VP). The VETS\u2019 Case Management System (VCMS) allows USERRA claimants to submit claims to VETS involving potential USERRA and Veterans Preference violations.  Claimants may also monitor the status of their claim, request withdrawal and referral actions, and upload evidence and other documents directly to their assigned investigator through the VCMS.  VETS\u2019 investigators use the VCMS as the case file of record to conduct investigations based on the claims submitted by claimants.  The VCMS maintains secure copies of all investigative files, and case elements, and produces data regarding investigations for formal reporting requirements. This system contains 100 relational tables.\n\nDOL-VETS produce annual and quarterly Reports to Congress on USERRA. The source data for those reports are run using SQL, and we keep the data pulls in a secure SharePoint site for audit purposes.  Those \"\"official\"\" data pulls are done quarterly on the 1st of the month after the end of the quarter.\"\n\nThe VCMS was put into production on April 1, 2020 and fully replaced all paper and other electronic USERRA case management systems and processes for newly filed claims. The VCMS is entirely electronic, and incorporates all aspects of the investigative and referral processes, making case investigations more efficient and fungible. The VCMS will continue to be updated and improved to create greater efficiency and effectiveness during the upcoming five years (starting in FY 2020).",
+            "description": "This dataset contains information on claims of potential violations of the Uniformed Services Employment Reemployment Rights Act (USERRA) and Veterans Preference (VP). The VETS\u2019 Case Management System (VCMS) allows USERRA claimants to submit claims to VETS involving potential USERRA and Veterans Preference violations.  Claimants may also monitor the status of their claim, request withdrawal and referral actions, and upload evidence and other documents directly to their assigned investigator through the VCMS.  VETS\u2019 investigators use the VCMS as the case file of record to conduct investigations based on the claims submitted by claimants.  The VCMS maintains secure copies of all investigative files, and case elements, and produces data regarding investigations for formal reporting requirements. This system contains 100 relational tables.\n\nDOL-VETS produce annual and quarterly Reports to Congress on USERRA. The source data for those reports are run using SQL, and we keep the data pulls in a secure SharePoint site for audit purposes.  Those \"\"official\"\" data pulls are done quarterly on the 1st of the month after the end of the quarter.",
             "identifier": "VETS-29-012:043-360",
             "keyword": [
                 "Case File",
@@ -4246,7 +4253,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-17T12:59:56.474Z",
+            "modified": "2025-04-03T14:09:02.384Z",
             "programCode": [
                 "015:001"
             ],
@@ -4279,7 +4286,7 @@
             },
             "describedBy": "https://www.dol.gov/sites/dolgov/files/VETS/files/VETS-4212-rev-2023.pdf",
             "describedByType": "application/pdf",
-            "description": "This dataset contains required veteran employment data by federal contractors/subcontractors, who are required to report annually the number of employees in their workforces who are veterans covered under VEVRAA.\n\nThe U.S. Department of Labor's Veterans' Employment and Training Service (VETS) and Office of Federal Contractor Compliance Programs (OFCCP) have supported affirmative actions to employ and advance in employment of covered veterans since 2008. As legislatively mandated under 38 U.S. Code Section 4212, codified at 41 CFR 61-300, contractors and subcontractors who enter into, or modify a contract or subcontract with the federal government, and whose contract meets the criteria set forth in the above legislation / regulations, are required to report annually on their affirmative action efforts in employing veterans. Data reported through form VETS-4212 is used by OFCCP in compliance evaluations.",
+            "description": "This dataset contains required veteran employment data by federal contractors/subcontractors, who are required to report annually the number of employees in their workforces who are veterans covered under VEVRAA.\n\nThe U.S. Department of Labor's Veterans' Employment and Training Service (VETS) and Office of Federal Contractor Compliance Programs (OFCCP) have supported actions to employ and advance the employment of covered veterans since 2008. As legislatively mandated under 38 U.S. Code Section 4212, codified at 41 CFR 61-300, contractors and subcontractors who enter into, or modify a contract or subcontract with the federal government, and whose contract meets the criteria set forth in the above legislation / regulations, are required to report annually on their affirmative action efforts in employing veterans. Data reported through form VETS-4212 is used by OFCCP in compliance evaluations.\n\nData are updated weekly (every Friday at 11PM ET).",
             "identifier": "VETS-29-012:043-361",
             "keyword": [
                 "4212",
@@ -4297,7 +4304,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-17T13:02:33.595Z",
+            "modified": "2025-04-03T15:04:35.145Z",
             "programCode": [
                 "015:001"
             ],
@@ -4306,7 +4313,7 @@
                 "name": "Office of the Chief Information Officer",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
-                    "name": "Department of Labor"
+                    "name": "Office of the Chief Information Officer"
                 }
             },
             "references": [
@@ -4885,7 +4892,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:24:59.585Z",
+            "modified": "2025-04-02T12:06:57.670Z",
             "programCode": [
                 "015:001"
             ],
@@ -4900,99 +4907,6 @@
             "rights": "true",
             "systemOfRecords": "https://www.msha.gov/mine-data-retrieval-system",
             "title": "Historical Mine Safety and Health At A Glance: Calendar Year"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/PT1S",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Michael Webb",
-                "hasEmail": "mailto:webb.michael.l@dol.gov"
-            },
-            "dataQuality": true,
-            "describedBy": "https://enforcedata.dol.gov/views/data_summary.php",
-            "describedByType": "text/csv",
-            "description": "The dataset consists of closed complaint investigations, conducted by the OFCCP, for the last five fiscal years. This data provides information on the OFCCP's efforts to enforce the EEO-mandated laws and regulations within the Federal Contractor Community (those companies which have been provided government contracts).",
-            "identifier": "OFCCP-22-012:028-306",
-            "issued": "2024-11-19",
-            "keyword": [
-                "Investigation",
-                "OFCCP",
-                "complaint",
-                "enforcement",
-                "evaluation"
-            ],
-            "landingPage": "https://enforcedata.dol.gov/views/data_summary.php",
-            "language": [
-                "en-US"
-            ],
-            "modified": "2024-11-21T15:13:14.122Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Office of Federal Contract Compliance Programs",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Office of Federal Contract Compliance Programs"
-                }
-            },
-            "rights": "true",
-            "theme": [
-                "geospatial"
-            ],
-            "title": "Federal Contractor Complaint Investigations"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/PT1S",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Michael Webb",
-                "hasEmail": "mailto:webb.michael.l@dol.gov"
-            },
-            "describedBy": "https://enforcedata.dol.gov/views/data_summary.php",
-            "describedByType": "text/csv",
-            "description": "The dataset consists of closed compliance evaluations, conducted by the OFCCP, for the last five fiscal years. This data provides information on the OFCCP's efforts to enforce the EEO-mandated laws and regulations within the Federal Contractor Community (those companies which have been provided government contracts).",
-            "identifier": "OFCCP-22-012:028-307",
-            "issued": "2024-11-19",
-            "keyword": [
-                "Investigation",
-                "OFCCP",
-                "compliance",
-                "enforcement",
-                "evaluation"
-            ],
-            "landingPage": "https://enforcedata.dol.gov/views/data_summary.php",
-            "language": [
-                "en-US"
-            ],
-            "modified": "2024-11-21T15:12:17.952Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Office of Federal Contract Compliance Programs",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Office of Federal Contract Compliance Programs"
-                }
-            },
-            "rights": "true",
-            "theme": [
-                "geospatial"
-            ],
-            "title": "Federal Contractor Compliance Evaluations"
         },
         {
             "@type": "dcat:Dataset",
@@ -5218,7 +5132,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:21:48.632Z",
+            "modified": "2025-04-02T12:10:36.285Z",
             "programCode": [
                 "015:001"
             ],
@@ -5231,7 +5145,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "1983-01-01/2024-09-30",
+            "temporal": "1983-01-01/2025-03-31",
             "theme": [
                 "geospatial"
             ],
@@ -5800,7 +5714,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:38:34.998Z",
+            "modified": "2025-04-02T11:38:23.221Z",
             "programCode": [
                 "015:001"
             ],
@@ -5852,7 +5766,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:37:39.738Z",
+            "modified": "2025-04-02T11:42:14.450Z",
             "programCode": [
                 "015:001"
             ],
@@ -6021,7 +5935,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:12:40.101Z",
+            "modified": "2025-04-02T12:12:48.846Z",
             "programCode": [
                 "015:001"
             ],
@@ -6077,7 +5991,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:11:55.715Z",
+            "modified": "2025-04-02T15:42:40.686Z",
             "programCode": [
                 "015:001"
             ],
@@ -6093,7 +6007,7 @@
                 "https://www.ecfr.gov/cgi-bin/text-idx?SID=95170f94d7c0fa8bcc1bdc4ad18eaed8&node=pt30.1.50&rgn=div5"
             ],
             "rights": "true",
-            "temporal": "1993-01-01/2024-06-30",
+            "temporal": "1993-01-01/2025-03-31",
             "title": "Mine Injury and Worktime Quarterly Reports"
         },
         {
@@ -6243,7 +6157,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:22:54.393Z",
+            "modified": "2025-04-02T12:08:56.527Z",
             "programCode": [
                 "015:001"
             ],
@@ -6293,7 +6207,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:35:44.435Z",
+            "modified": "2025-04-02T11:54:26.368Z",
             "programCode": [
                 "015:001"
             ],
@@ -6309,7 +6223,7 @@
                 "http://arlweb.msha.gov/stats/centurystats/mnmstats.asp"
             ],
             "rights": "true",
-            "temporal": "1900-01-01/2023-12-31",
+            "temporal": "1900-01-01/2024-12-31",
             "title": "MSHA Coal Employment & Fatality Statistics"
         },
         {
@@ -6422,7 +6336,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:19:08.477Z",
+            "modified": "2025-04-02T12:10:59.872Z",
             "programCode": [
                 "015:001"
             ],
@@ -6464,7 +6378,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:22:27.954Z",
+            "modified": "2025-04-02T12:09:45.071Z",
             "programCode": [
                 "015:001"
             ],
@@ -6514,7 +6428,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:27:10.249Z",
+            "modified": "2025-04-02T12:05:03.662Z",
             "programCode": [
                 "015:001"
             ],
@@ -6530,7 +6444,7 @@
                 "http://arlweb.msha.gov/stats/centurystats/coalstats.asp"
             ],
             "rights": "true",
-            "temporal": "1900-01-01/2023-12-31",
+            "temporal": "1900-01-01/2024-12-31",
             "title": "MSHA Metal NonMetal Employment & Fatality Statistics"
         },
         {
@@ -6575,7 +6489,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:35:17.164Z",
+            "modified": "2025-04-02T11:55:05.198Z",
             "programCode": [
                 "015:001"
             ],
@@ -6588,7 +6502,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "2000-01-01/2024-09-30",
+            "temporal": "2000-01-01/2025-03-31",
             "theme": [
                 "geospatial"
             ],
@@ -6628,7 +6542,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:42:13.078Z",
+            "modified": "2025-04-02T11:16:49.476Z",
             "programCode": [
                 "015:001"
             ],
@@ -6641,7 +6555,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "2000-01-01/2024-09-30",
+            "temporal": "2000-01-01/2025-03-31",
             "title": "MSHA Conferences"
         },
         {
@@ -6836,7 +6750,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:36:34.399Z",
+            "modified": "2025-04-02T11:51:50.564Z",
             "programCode": [
                 "015:001"
             ],
@@ -6849,7 +6763,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "2000-01-01/2024-09-30",
+            "temporal": "2000-01-01/2025-03-31",
             "title": "MSHA Coal Dust Samples"
         },
         {
@@ -6890,7 +6804,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:31:46.821Z",
+            "modified": "2025-04-02T12:03:02.274Z",
             "programCode": [
                 "015:001"
             ],
@@ -6903,7 +6817,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "2000-01-01/2024-09-30",
+            "temporal": "2000-01-01/2025-03-31",
             "title": "MSHA Civil Penalty Dockets and Decisions"
         },
         {
@@ -6944,7 +6858,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:39:49.957Z",
+            "modified": "2025-04-02T11:30:38.404Z",
             "programCode": [
                 "015:001"
             ],
@@ -6957,7 +6871,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "2000-01-01/2024-09-30",
+            "temporal": "2000-01-01/2025-03-31",
             "title": "MSHA Area Samples"
         },
         {
@@ -6996,7 +6910,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:16:12.704Z",
+            "modified": "2025-04-02T12:11:33.451Z",
             "programCode": [
                 "015:001"
             ],
@@ -7009,7 +6923,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "1983-01-01/2024-09-30",
+            "temporal": "1983-01-01/2025-03-31",
             "title": "Contractor Employment and Production - Quarterly"
         },
         {
@@ -7045,7 +6959,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:34:11.316Z",
+            "modified": "2025-04-02T11:56:09.485Z",
             "programCode": [
                 "015:001"
             ],
@@ -7058,7 +6972,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "1983-01-01/2024-09-30",
+            "temporal": "1983-01-01/2025-03-31",
             "title": "MSHA Controller and Operator History"
         },
         {
@@ -7097,7 +7011,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:15:37.898Z",
+            "modified": "2025-04-02T12:12:06.329Z",
             "programCode": [
                 "015:001"
             ],
@@ -7110,263 +7024,8 @@
                 }
             },
             "rights": "true",
-            "temporal": "1983-01-01/2024-09-30",
+            "temporal": "1983-01-01/2025-03-31",
             "title": "Contractor Employment and Production - Yearly"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "Database contains EBSA\u2019s civil cases, criminal cases, and Voluntary Fiduciary Correction (VFCP) data.",
-            "identifier": "EBSA-11-012:019-114",
-            "keyword": [
-                "EBSA"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "modified": "2021-04-01T16:40:56.633Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Department of Labor"
-                }
-            },
-            "rights": "Restricted dataset",
-            "title": "Enforcement Management System (EMS) Database"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "accrualPeriodicity": "R/PT1S",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "Database contains DVFC program participant data.",
-            "identifier": "EBSA-11-012:019-110",
-            "keyword": [
-                "Delinquent Filer",
-                "EBSA",
-                "pension",
-                "welfare"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "modified": "2021-04-01T15:56:25.411Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Department of Labor"
-                }
-            },
-            "rights": "Restricted dataset",
-            "title": "DFVCS Database"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "Database contains EBSA personnel account management information i.e., account establishment, revocations, access modifications, etc.",
-            "identifier": "EBSA-11-012:019-112",
-            "keyword": [
-                "EBSA"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "modified": "2021-04-01T16:12:15.153Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Department of Labor"
-                }
-            },
-            "rights": "Restricted dataset",
-            "title": "EBSA Account Management Application (EAMA) Database"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "Database contains ERISA regulated entities, plan filing facsimiles, OE targeting and plan filing images.",
-            "identifier": "EBSA-11-012:019-113",
-            "keyword": [
-                "EBSA",
-                "Form 5500",
-                "Form M-1",
-                "Top Hat"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "modified": "2021-04-01T16:16:58.970Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Department of Labor"
-                }
-            },
-            "rights": "Restricted dataset",
-            "title": "ERISA Data System (EDS) Database"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "Database contains publicly disclosable ERISA regulated entities, plan filing facsimiles, and plan filing images.",
-            "identifier": "EBSA-11-012:019-544",
-            "keyword": [
-                "EBSA",
-                "Form 5500",
-                "Form M-1"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "modified": "2021-04-01T16:33:55.343Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Department of Labor"
-                }
-            },
-            "rights": "Restricted dataset",
-            "title": "ERISA Public Data System (EPDS) Database"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "This enforcement database contains cases of non-filers, stop-filers and deficient filers of Forms 5500.",
-            "identifier": "EBSA-11-012:019-117",
-            "keyword": [
-                "5500",
-                "EBSA",
-                "IQPA",
-                "IQPA report",
-                "pension",
-                "welfare"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "modified": "2021-04-01T16:43:31.257Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Department of Labor"
-                }
-            },
-            "rights": "Restricted dataset",
-            "title": "Office of the Chief Accountant Case Tracking System (OCA CTS) Database"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "This database contains OE litigation documents.",
-            "identifier": "EBSA-11-012:019-119",
-            "keyword": [
-                "Benefit Plans",
-                "EBSA",
-                "enforcement",
-                "litigation"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "modified": "2021-04-01T18:00:46.029Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Department of Labor"
-                }
-            },
-            "rights": "Restricted dataset",
-            "title": "OE Litigation Reference Library Database"
         },
         {
             "@type": "dcat:Dataset",
@@ -7383,7 +7042,7 @@
             "dataQuality": true,
             "describedBy": "https://arlweb.msha.gov/OpenGovernmentData/DataSets/Inspections_Definition_File.txt",
             "describedByType": "text/plain",
-            "description": "Lists every mine inspection conducted by MSHA. Includes the name of the mine inspected, MSHA's internal inspection number (event number), the type of inspection and the start and end dates of the inspection. Event Number is the unique key for this dataset. It also includes the Mine ID associated with the inspections which can be used to relate it to the Mines Data Set.",
+            "description": "Lists every mine inspection conducted by MSHA. Includes the name of the mine inspected, MSHA's internal inspection number (event number), the type of inspection and the start and end dates of the inspection. Event Number is the unique key for this dataset. It also includes the Mine ID associated with the inspections which can be used to relate it to the Mines Data Set.  The mine inspections data set does not include Compliance Assistance Visits (CAVs).",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -7405,7 +7064,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:41:49.686Z",
+            "modified": "2025-04-02T11:25:16.565Z",
             "programCode": [
                 "015:001"
             ],
@@ -7418,7 +7077,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "2000-01-01/2024-09-30",
+            "temporal": "2000-01-01/2025-03-31",
             "title": "MSHA Inspections Dataset"
         },
         {
@@ -7459,7 +7118,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:26:04.618Z",
+            "modified": "2025-04-02T12:06:23.895Z",
             "programCode": [
                 "015:001"
             ],
@@ -7472,7 +7131,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "1983-01-01/2024-09-30",
+            "temporal": "1983-01-01/2025-03-31",
             "theme": [
                 "geospatial"
             ],
@@ -7518,7 +7177,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:24:13.916Z",
+            "modified": "2025-04-02T12:07:43.349Z",
             "programCode": [
                 "015:001"
             ],
@@ -7531,7 +7190,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "2000-01-01/2024-09-30",
+            "temporal": "2000-01-01/2025-03-31",
             "theme": [
                 "geospatial"
             ],
@@ -7552,7 +7211,7 @@
             "dataQuality": true,
             "describedBy": "https://arlweb.msha.gov/OpenGovernmentData/DataSets/AddressofRecord_Definition_File.txt",
             "describedByType": "text/plain",
-            "description": "Contains mine addresses for all mines in the database except for Abandoned mines prior to 1998 from MSHA's legacy system. The address is the one entered by the mine operator at the time a Legal ID form is completed for a requested mine identification number. It is updated by MSHA district offices as required. The mine id is the unique key for this data.",
+            "description": "Contains mine addresses for all mines in the database except for Abandoned mines prior to 1998 from MSHA's legacy system. The address is the one entered by the mine operator at the time a Legal ID form is completed for a requested mine identification number. It is updated by MSHA district offices as required. The mine id is the unique key for this data. (This includes Abandoned Mines and Abandoned and Sealed Mines, and does not represent the actual mine location.)",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -7572,7 +7231,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:36:08.878Z",
+            "modified": "2025-04-02T11:52:57.445Z",
             "programCode": [
                 "015:001"
             ],
@@ -7629,7 +7288,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:37:22.013Z",
+            "modified": "2025-04-02T11:45:58.755Z",
             "programCode": [
                 "015:001"
             ],
@@ -7642,7 +7301,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "2000-01-01/2024-09-30",
+            "temporal": "2000-01-01/2025-03-31",
             "title": "MSHA Personal Health Samples"
         },
         {
@@ -7682,7 +7341,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:38:08.129Z",
+            "modified": "2025-04-02T11:39:00.227Z",
             "programCode": [
                 "015:001"
             ],
@@ -7695,7 +7354,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "2000-01-01/2024-09-30",
+            "temporal": "2000-01-01/2025-03-31",
             "title": "MSHA Quartz Samples"
         },
         {
@@ -7713,7 +7372,7 @@
             "dataQuality": true,
             "describedBy": "https://arlweb.msha.gov/OpenGovernmentData/DataSets/violations_Definition_File.txt",
             "describedByType": "text/plain",
-            "description": "Violations issued as a result of MSHA inspections conducted. Each inspection results in a unique Event Number that can be associated with many violations and is a direct link to the Inspections Data Set. The violator name at the time of the violation, the actual date the violation occurred and the date the violation was issued are in this file. Contains details about the specific citation/order/safeguard issued, such as Section of the Act, relevant dates and the conditions or practices which caused and constituted a violation or an imminent danger. The data is captured from (MSHA form 7000-3).",
+            "description": "Violations issued as a result of MSHA inspections conducted. Each inspection results in a unique Event Number that can be associated with many violations and is a direct link to the Inspections Data Set. The violator name at the time of the violation, the actual date the violation occurred and the date the violation was issued are in this file. Contains details about the specific citation/order/safeguard issued, such as Section of the Act, relevant dates and the conditions or practices which caused and constituted a violation or an imminent danger. The data is captured from (MSHA form 7000-3). (Does not include Vacated Violations) (includes Type_Action1)",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -7746,7 +7405,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:40:45.022Z",
+            "modified": "2025-04-02T11:28:45.580Z",
             "programCode": [
                 "015:001"
             ],
@@ -7759,7 +7418,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "2000-01-01/2024-09-30",
+            "temporal": "2000-01-01/2025-03-31",
             "title": "MSHA Violations Dataset"
         },
         {
@@ -7777,7 +7436,7 @@
             "dataQuality": true,
             "describedBy": "https://arlweb.msha.gov/OpenGovernmentData/DataSets/Mines_Definition_File.txt",
             "describedByType": "text/plain",
-            "description": "Lists all Coal and Metal/Non-Metal mines under MSHA's jurisdiction. Including current status of each mine (Active, Abandoned, Nonproducing, etc.), the current owner and operating company, commodity codes and physical attributes of the mine. Mine ID is the unique key for this data.",
+            "description": "Lists all Coal and Metal/Non-Metal mines under MSHA's jurisdiction. Including current status of each mine (Active, Abandoned, Nonproducing, etc.), the current owner and operating company, commodity codes and physical attributes of the mine. Mine ID is the unique key for this data. (Includes Abandoned or Abandoned and Sealed Mines)",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -7818,7 +7477,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:40:16.222Z",
+            "modified": "2025-04-02T11:29:47.006Z",
             "programCode": [
                 "015:001"
             ],
@@ -7831,7 +7490,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "1978-01-01/2024-09-30",
+            "temporal": "1978-01-01/2025-03-31",
             "theme": [
                 "geospatial"
             ],
@@ -7881,7 +7540,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:42:40.577Z",
+            "modified": "2025-04-02T11:13:38.985Z",
             "programCode": [
                 "015:001"
             ],
@@ -7894,7 +7553,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "2000-01-01/2024-09-30",
+            "temporal": "2000-01-01/2025-03-31",
             "title": "MSHA Noise Samples"
         },
         {
@@ -7934,7 +7593,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:38:58.919Z",
+            "modified": "2025-04-02T11:34:43.723Z",
             "programCode": [
                 "015:001"
             ],
@@ -7947,42 +7606,8 @@
                 }
             },
             "rights": "true",
-            "temporal": "2000-01-01/2024-09-30",
+            "temporal": "2000-01-01/2025-03-31",
             "title": "MSHA Contested Violations"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "This database contains advisory opinions, interpretive bulletins, Congressional inquiries and correspondence.",
-            "identifier": "EBSA-11-012:019-126",
-            "keyword": [
-                "EBSA"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "modified": "2021-04-02T15:45:59.603Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Department of Labor"
-                }
-            },
-            "rights": "Restricted dataset",
-            "title": "Office Of Regulations And Interpretations Reference Library System (ORI RLS) Database"
         },
         {
             "@type": "dcat:Dataset",
@@ -8101,7 +7726,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:41:22.834Z",
+            "modified": "2025-04-02T11:27:12.429Z",
             "programCode": [
                 "015:001"
             ],
@@ -8114,86 +7739,8 @@
                 }
             },
             "rights": "true",
-            "temporal": "2000-01-01/2024-09-30",
+            "temporal": "2000-01-01/2025-03-31",
             "title": "MSHA - Assessed Violations"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "This database contains case tracking records for production of advisory opinions, interpretive bulletins and responses to Congressional inquiries",
-            "identifier": "EBSA-11-012:019-125",
-            "keyword": [
-                "Advisory Opinions",
-                "EBSA",
-                "Employee benefits",
-                "Tracking"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "modified": "2021-04-02T15:47:50.418Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Employee Benefits Security Administration"
-                }
-            },
-            "rights": "Restricted dataset",
-            "title": "Office Of Regulations And Interpretations Case Tracking System (ORI CTS) Database"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "This database contains data related to agency procurement, spending and debt management (monies owed).",
-            "identifier": "EBSA-11-012:019-129",
-            "keyword": [
-                "Debt Status",
-                "Demand Letter",
-                "EBSA",
-                "Payments",
-                "Refunds",
-                "civil penalty",
-                "collections",
-                "debt management"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "modified": "2021-04-02T16:28:15.862Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Department of Labor"
-                }
-            },
-            "rights": "Internal dataset",
-            "title": "OPPEM Debt Management System (DMS) Database"
         },
         {
             "@type": "dcat:Dataset",
@@ -8273,7 +7820,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:30:56.367Z",
+            "modified": "2025-04-02T12:03:32.188Z",
             "programCode": [
                 "015:001"
             ],
@@ -8289,7 +7836,7 @@
                 "https://www.msha.gov/sites/default/files/Support_Resources/Forms/rptonpart50.pdf"
             ],
             "rights": "true",
-            "temporal": "1983-01-01/2024-09-30",
+            "temporal": "1983-01-01/2025-03-31",
             "theme": [
                 "geospatial"
             ],
@@ -8331,7 +7878,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:34:39.868Z",
+            "modified": "2025-04-02T11:55:38.296Z",
             "programCode": [
                 "015:001"
             ],
@@ -8348,43 +7895,8 @@
         },
         {
             "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "This database contains collections of documents from plans acquired via subpoena during investigation and litigation.",
-            "identifier": "EBSA-11-012:019-132",
-            "keyword": [
-                "EBSA",
-                "Employee benefits",
-                "investigations"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "modified": "2021-04-02T17:35:19.813Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Department of Labor"
-                }
-            },
-            "rights": "Internal dataset",
-            "title": "Concordance Database"
-        },
-        {
-            "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/PT1S",
             "bureauCode": [
                 "015:11"
             ],
@@ -8393,16 +7905,19 @@
                 "fn": "Elaine Zimmerman",
                 "hasEmail": "mailto:zimmerman.elaine@dol.gov"
             },
+            "describedBy": "https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-compliance/apprenticeship-plans",
+            "describedByType": "text/html",
             "description": "Database consists of notices filed by welfare plans that provide apprenticeship and/or training  benefits (ATP).",
             "identifier": "EBSA-11-012:019-106",
             "keyword": [
                 "EBSA",
                 "apprenticeship"
             ],
+            "landingPage": "https://www-askebsa-dol.gov/efile/home/atp",
             "language": [
                 "en-US"
             ],
-            "modified": "2021-04-02T17:48:28.088Z",
+            "modified": "2025-04-08T13:47:39.487Z",
             "programCode": [
                 "015:001"
             ],
@@ -8411,48 +7926,16 @@
                 "name": "Employee Benefits Security Administration",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
-                    "name": "Department of Labor"
+                    "name": "Employee Benefits Security Administration"
                 }
             },
             "rights": "true",
+            "spatial": "Address",
+            "temporal": "2000-01-01/2025-03-28",
+            "theme": [
+                "geospatial"
+            ],
             "title": "Apprenticeship and Training Plan Notices (ATP) Database"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "This database contains cases of submissions for requests for exemptions to Title I of ERISA (individual and class), along with applicable determinations, general correspondence, inquiries, and requests for clarification.",
-            "identifier": "EBSA-11-012:019-123",
-            "keyword": [
-                "Benefit Plans",
-                "EBSA",
-                "Exemptions",
-                "regulatory"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "modified": "2021-04-02T15:37:51.447Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Department of Labor"
-                }
-            },
-            "rights": "Restricted dataset",
-            "title": "Office of Exemption Determinations Case Tracking System (OED CTS) Database"
         },
         {
             "@type": "dcat:Dataset",
@@ -8641,7 +8124,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:26:43.120Z",
+            "modified": "2025-04-02T12:05:38.383Z",
             "programCode": [
                 "015:001"
             ],
@@ -8654,7 +8137,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "1983-01-01/2024-09-30",
+            "temporal": "1983-01-01/2025-03-31",
             "title": "MSHA - Top 20 Most Frequently Cited Standards"
         },
         {
@@ -8691,7 +8174,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:29:47.902Z",
+            "modified": "2025-04-02T12:03:56.414Z",
             "programCode": [
                 "015:001"
             ],
@@ -8742,7 +8225,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:28:58.753Z",
+            "modified": "2025-04-02T12:04:27.977Z",
             "programCode": [
                 "015:001"
             ],
@@ -8755,44 +8238,8 @@
                 }
             },
             "rights": "true",
-            "temporal": "2000-01-01/2024-09-30",
+            "temporal": "2000-01-01/2025-03-31",
             "title": "MSHA - High Dollar Citations and Orders Report"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "This database contains collections of documents from plans acquired via subpoena during investigation and litigation.",
-            "identifier": "EBSA-11-012:019-131",
-            "keyword": [
-                "EBSA",
-                "Employee benefits",
-                "investigations"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "modified": "2021-04-02T17:33:51.726Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Department of Labor"
-                }
-            },
-            "rights": "Internal dataset",
-            "title": "SharePoint Case Portal Databases"
         },
         {
             "@type": "dcat:Dataset",
@@ -8829,7 +8276,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:32:22.888Z",
+            "modified": "2025-04-02T12:02:03.561Z",
             "programCode": [
                 "015:001"
             ],
@@ -8882,7 +8329,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:39:23.369Z",
+            "modified": "2025-04-02T11:33:50.323Z",
             "programCode": [
                 "015:001"
             ],
@@ -8895,12 +8342,13 @@
                 }
             },
             "rights": "true",
-            "temporal": "2007-04-23/2024-09-30",
+            "temporal": "2007-04-23/2025-03-31",
             "title": "MSHA - VPID Calculator"
         },
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/PT1S",
             "bureauCode": [
                 "015:11"
             ],
@@ -8909,16 +8357,20 @@
                 "fn": "Elaine Zimmerman",
                 "hasEmail": "mailto:zimmerman.elaine@dol.gov"
             },
+            "describedBy": "https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-compliance/reporting-and-filing/e-file/top-hat-plan-search-instructions",
+            "describedByType": "text/html",
             "description": "Database consists of filing data for Top Hat plan notices for management and HCE's, who defer income until termination of employment, and are therefore exempt from ERISA.",
             "identifier": "EBSA-11-012:019-105",
+            "issued": "2025-03-28",
             "keyword": [
                 "EBSA",
                 "Top Hat"
             ],
+            "landingPage": "https://www.askebsa.dol.gov/tophatplansearch",
             "language": [
                 "en-US"
             ],
-            "modified": "2021-04-02T17:45:30.064Z",
+            "modified": "2025-04-08T13:45:35.021Z",
             "programCode": [
                 "015:001"
             ],
@@ -8927,15 +8379,21 @@
                 "name": "Employee Benefits Security Administration",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
-                    "name": "Department of Labor"
+                    "name": "Employee Benefits Security Administration"
                 }
             },
             "rights": "true",
+            "spatial": "Address",
+            "temporal": "2000-01-01/2025-03-28",
+            "theme": [
+                "geospatial"
+            ],
             "title": "Top Hat Database"
         },
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
             "bureauCode": [
                 "015:11"
             ],
@@ -8944,6 +8402,8 @@
                 "fn": "Elaine Zimmerman",
                 "hasEmail": "mailto:zimmerman.elaine@dol.gov"
             },
+            "describedBy": "https://www.dol.gov/agencies/ebsa/researchers/data/health-and-welfare",
+            "describedByType": "text/html",
             "description": "Imputed employer-sponsored health insurance coverage data which when linked to the March Annual Social and Economic Supplement to the Current Population Survey (March CPS), generates estimates of the number of individuals with different types of insurance coverage.",
             "identifier": "EBSA-11-012:019-549",
             "keyword": [
@@ -8953,10 +8413,11 @@
                 "health insurance",
                 "individuals"
             ],
+            "landingPage": "https://www-dol.gov/agencies/ebsa/researchers/data/auxiliary-data",
             "language": [
                 "en-US"
             ],
-            "modified": "2021-04-02T18:03:27.457Z",
+            "modified": "2025-04-08T13:55:25.373Z",
             "programCode": [
                 "015:001"
             ],
@@ -8965,15 +8426,18 @@
                 "name": "Employee Benefits Security Administration",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
-                    "name": "Department of Labor"
+                    "name": "Employee Benefits Security Administration"
                 }
             },
             "rights": "true",
+            "spatial": "Address",
+            "temporal": "2000-01-01/2025-03-28",
             "title": "Auxiliary Health Insurance Data"
         },
         {
             "@type": "dcat:Dataset",
             "accessLevel": "non-public",
+            "accrualPeriodicity": "R/P1D",
             "bureauCode": [
                 "015:11"
             ],
@@ -8982,6 +8446,7 @@
                 "fn": "Elaine Zimmerman",
                 "hasEmail": "mailto:zimmerman.elaine@dol.gov"
             },
+            "describedByType": "text/html",
             "description": "Database contains notification of a service provider's failure to disclose fee information required by the Department's 408(b)(2) regulation.",
             "identifier": "EBSA-11-012:019-109",
             "keyword": [
@@ -8990,7 +8455,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2021-04-02T18:08:07.590Z",
+            "modified": "2025-04-08T13:50:30.098Z",
             "programCode": [
                 "015:001"
             ],
@@ -8999,10 +8464,14 @@
                 "name": "Employee Benefits Security Administration",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
-                    "name": "Department of Labor"
+                    "name": "Employee Benefits Security Administration"
                 }
             },
             "rights": "Internal dataset",
+            "spatial": "Address",
+            "theme": [
+                "geospatial"
+            ],
             "title": "Fee Disclosure Failure Notice Internal Database"
         },
         {
@@ -9273,40 +8742,6 @@
         },
         {
             "@type": "dcat:Dataset",
-            "accessLevel": "non-public",
-            "bureauCode": [
-                "015:11"
-            ],
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Elaine Zimmerman",
-                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
-            },
-            "description": "This database contains ERISA abandoned plan terminations.",
-            "identifier": "EBSA-11-012:019-130",
-            "keyword": [
-                "EBSA"
-            ],
-            "language": [
-                "en-US"
-            ],
-            "modified": "2021-04-02T16:38:44.993Z",
-            "programCode": [
-                "015:001"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Employee Benefits Security Administration",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "Department of Labor"
-                }
-            },
-            "rights": "Internal dataset",
-            "title": "Qualified Termination Administrator Management System (QTAMS) Database"
-        },
-        {
-            "@type": "dcat:Dataset",
             "accessLevel": "public",
             "bureauCode": [
                 "015:11"
@@ -9380,7 +8815,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:33:34.785Z",
+            "modified": "2025-04-02T12:00:50.079Z",
             "programCode": [
                 "015:001"
             ],
@@ -9393,7 +8828,7 @@
                 }
             },
             "rights": "true",
-            "temporal": "2010-07-01/2024-09-30",
+            "temporal": "2010-07-01/2025-03-31",
             "title": "MSHA 107(a) Orders Issued"
         },
         {
@@ -9431,7 +8866,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:32:44.752Z",
+            "modified": "2025-04-02T12:01:34.667Z",
             "programCode": [
                 "015:001"
             ],
@@ -10296,7 +9731,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:52:47.045Z",
+            "modified": "2025-03-17T14:35:17.828Z",
             "programCode": [
                 "015:001"
             ],
@@ -10334,7 +9769,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-06-27T14:01:04.878Z",
+            "modified": "2025-03-17T12:31:07.381Z",
             "programCode": [
                 "015:001"
             ],
@@ -10381,7 +9816,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T12:47:08.157Z",
+            "modified": "2025-03-17T13:04:43.217Z",
             "programCode": [
                 "015:001"
             ],
@@ -10393,6 +9828,9 @@
                     "name": "Office of the Assistant Secretary for Administration and Management"
                 }
             },
+            "references": [
+                "https://labornet.dol.gov/workplaceresources/financialproperty/procurement/debs/"
+            ],
             "rights": "restricted",
             "title": "Formulation Execution Performance and Planning"
         },
@@ -10414,11 +9852,11 @@
                 "BOC",
                 "OASAM"
             ],
-            "landingPage": "https://www.energystar.gov/buildings/facility-owners-and-managers/existing-buildings/use-portfolio-manager",
+            "landingPage": "https://community.connect.gov/index.action",
             "language": [
                 "en-US"
             ],
-            "modified": "2024-06-27T17:08:08.980Z",
+            "modified": "2025-03-17T12:46:19.664Z",
             "programCode": [
                 "015:001"
             ],
@@ -10431,7 +9869,7 @@
                 }
             },
             "references": [
-                "https://www.energystar.gov/buildings/facility-owners-and-managers/existing-buildings/use-portfolio-manager"
+                "https://community.connect.gov/index.action"
             ],
             "rights": "private",
             "title": "Sustainability Plan OMB Sustainability Scorecard"
@@ -10439,7 +9877,7 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "restricted public",
-            "accrualPeriodicity": "R/P1D",
+            "accrualPeriodicity": "R/P1M",
             "bureauCode": [
                 "015:11"
             ],
@@ -10459,7 +9897,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-06-27T14:02:31.958Z",
+            "modified": "2025-03-17T12:33:26.187Z",
             "programCode": [
                 "015:001"
             ],
@@ -10556,7 +9994,7 @@
                 }
             ],
             "identifier": "WHD-16-012:027-368",
-            "issued": "2024-11-01",
+            "issued": "2025-01-04",
             "keyword": [
                 "WHD"
             ],
@@ -10564,7 +10002,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-16T15:03:54.935Z",
+            "modified": "2025-03-17T15:02:29.077Z",
             "programCode": [
                 "015:001"
             ],
@@ -10640,7 +10078,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-09T18:26:20.008Z",
+            "modified": "2025-03-17T12:35:07.933Z",
             "programCode": [
                 "015:001"
             ],
@@ -10732,7 +10170,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-11T21:23:26.580Z",
+            "modified": "2025-04-02T12:08:22.733Z",
             "programCode": [
                 "015:001"
             ],
@@ -10913,7 +10351,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-09T18:20:14.298Z",
+            "modified": "2025-03-17T12:50:26.314Z",
             "programCode": [
                 "015:001"
             ],
@@ -10949,7 +10387,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T12:57:29.190Z",
+            "modified": "2025-03-17T13:23:08.511Z",
             "programCode": [
                 "015:001"
             ],
@@ -10986,7 +10424,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T12:54:28.643Z",
+            "modified": "2025-03-17T13:36:07.527Z",
             "programCode": [
                 "015:001"
             ],
@@ -11133,14 +10571,13 @@
             "keyword": [
                 "Contracting",
                 "OASAM",
-                "OCIO",
                 "acquisition",
                 "contract"
             ],
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:48:35.193Z",
+            "modified": "2025-03-17T14:26:13.825Z",
             "programCode": [
                 "015:001"
             ],
@@ -11180,7 +10617,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-06-27T18:09:16.378Z",
+            "modified": "2025-03-17T12:48:59.533Z",
             "programCode": [
                 "015:001"
             ],
@@ -17844,7 +17281,7 @@
             },
             "describedBy": "https://www.dol.gov/sites/dolgov/files/ETA/Performance/pdfs/ETA-9173-Program-Performance-Report-Templates-and-Specification-1.18.18s.pdf",
             "describedByType": "application/pdf",
-            "description": "The Veterans' Employment and Training Service (VETS) tracks three participant outcome measures for the JVSG program. Programmatic performance outcomes are collected from JVSG recipients through the Department of Labor\u2019s Workforce Integrated Performance System. VETS shares JVSG outcomes with the public. These data show the national and state-level targets and outcomes for each of the three WIOA outcome measures by Program Year (PY), including breakouts by eligibility characteristics, gender, ethnicity, race, age, and significant barrier to employment category. The three outcome measures are:\nEmployment Rate - 2nd Quarter After Exit - the percentage of participants who are in unsubsidized employment during the second quarter after exit from the program.\nEmployment Rate - 4th Quarter After Exit - the percentage of participants who are in unsubsidized employment during the fourth quarter after exit from the program.\nMedian Earnings - 2nd Quarter After Exit - the median earnings of participants who are in unsubsidized employment during the second quarter after exit from the program.",
+            "description": "The Veterans' Employment and Training Service (VETS) tracks three participant outcome measures for the JVSG program. Programmatic performance outcomes are collected from JVSG recipients through the Department of Labor\u2019s Workforce Integrated Performance System (WIPS). VETS shares JVSG outcomes with the public. These data show the national and state-level targets and outcomes for each of the three WIOA outcome measures by Program Year (PY). National level outcomes also include breakouts by eligibility, sex, ethnicity, race, age, and qualifying employment barrier. The three outcome measures are:\n\nEmployment Rate - 2nd Quarter After Exit - the percentage of participants who are in unsubsidized employment during the second quarter after exit from the program.\n\nEmployment Rate - 4th Quarter After Exit - the percentage of participants who are in unsubsidized employment during the fourth quarter after exit from the program.\n\nMedian Earnings - 2nd Quarter After Exit - the median earnings of participants who are in unsubsidized employment during the second quarter after exit from the program.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -17862,18 +17299,19 @@
                 "LVER",
                 "Median Earnings",
                 "PIRL",
-                "Significant Barriers to Employment",
-                "Vets",
                 "WIPS",
+                "ajc",
                 "disabled veterans",
+                "qualifying employment barriers",
                 "veterans",
-                "veterans served"
+                "veterans served",
+                "vets"
             ],
             "landingPage": "https://www.dol.gov/agencies/vets/vetoutcomes",
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-17T13:24:53.278Z",
+            "modified": "2025-04-03T15:06:17.750Z",
             "programCode": [
                 "015:001"
             ],
@@ -17886,7 +17324,7 @@
                 }
             },
             "rights": "true",
-            "title": "Jobs for Veterans State Grants (JVSG) Performance Outcomes"
+            "title": "Jobs for Veterans State Grants (JVSG) Targets and Outcomes"
         },
         {
             "@type": "dcat:Dataset",
@@ -17902,7 +17340,7 @@
             },
             "describedBy": "https://wdr.doleta.gov/directives/attach/tegl/tegl2-13acc.pdf",
             "describedByType": "application/pdf",
-            "description": "The Uniform National Threshold Entered Employment Rate (UNTEER) is a national threshold Veterans\u2019 Entered Employment Rate (VEER) for veterans and other eligible persons served by the Jobs for Veterans State Grants (JVSG) program and the Wagner-Peyser funded Employment Service. This data table shows the percentage of exiters who were unemployed or received notice of termination/layoff at program entry and were then employed in the first quarter after exit for each state, ranked from highest to lowest VEER.",
+            "description": "The Uniform National Threshold Entered Employment Rate (UNTEER) is a national threshold Veterans\u2019 Entered Employment Rate (VEER) for veterans and other eligible persons served by the Jobs for Veterans State Grants (JVSG) program and the Wagner-Peyser funded Employment Service. This data table shows the percentage of veteran and eligible persons who were not employed at program entry who were then employed in the first quarter after exit by Program Year (PY) for each state, ranked from highest to lowest VEER.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -17911,21 +17349,33 @@
             ],
             "identifier": "VETS-29-012:040-689",
             "keyword": [
+                "American Job Centers",
+                "DVOP",
+                "ETA-9173",
                 "JVSG",
                 "Jobs for Veterans State Grants",
+                "LVER",
+                "PIRL",
+                "TEGL 02-13",
                 "UNTEER",
                 "Uniform National Threshold Entered Employment Rate",
+                "VEER",
+                "VPL 03-15",
+                "ajc",
+                "disabled veterans",
                 "dol",
                 "veteran employment",
                 "veteran employment rates",
                 "veterans",
-                "vets"
+                "veterans served",
+                "vets",
+                "wagner-peyser"
             ],
             "landingPage": "https://www.dol.gov/agencies/vets/programs/grants/state/jvsg/unteer",
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-17T13:26:44.188Z",
+            "modified": "2025-04-03T14:17:42.464Z",
             "programCode": [
                 "015:001"
             ],
@@ -17938,7 +17388,7 @@
                 }
             },
             "rights": "true",
-            "title": "Jobs for Veterans State Grants (JVSG) Uniform National Threshold Entered Employment Rate (UNTEER)"
+            "title": "Uniform National Threshold Entered Employment Rates (UNTEER) by State"
         },
         {
             "@type": "dcat:Dataset",
@@ -17954,7 +17404,7 @@
             },
             "describedBy": "https://www.dol.gov/sites/dolgov/files/ETA/Performance/pdfs/ETA-9173-Program-Performance-Report-Templates-and-Specification-1.18.18s.pdf",
             "describedByType": "application/pdf",
-            "description": "The Veterans' Employment and Training Service (VETS) tracks three participant outcome measures for the JVSG program. Programmatic performance outcomes are collected from JVSG recipients through the Department of Labor\u2019s Workforce Integrated Performance System. VETS shares JVSG outcomes with the public. These data show the historical state-level targets and outcomes for each of the three WIOA outcome measures by Program Year (PY). The three outcome measures are:\nEmployment Rate - 2nd Quarter After Exit - the percentage of participants who are in unsubsidized employment during the second quarter after exit from the program.\nEmployment Rate - 4th Quarter After Exit - the percentage of participants who are in unsubsidized employment during the fourth quarter after exit from the program.\nMedian Earnings - 2nd Quarter After Exit - the median earnings of participants who are in unsubsidized employment during the second quarter after exit from the program.\nFind performance outcomes for each state over the last several years.",
+            "description": "The Veterans' Employment and Training Service (VETS) tracks three participant outcome measures for the JVSG program. Programmatic performance outcomes are collected from JVSG recipients through the Department of Labor\u2019s Workforce Integrated Performance System (WIPS). VETS shares JVSG outcomes with the public. These data show the historical state-level outcomes for each of the three WIOA outcome measures by Program Year (PY). The three outcome measures are:\n\nEmployment Rate - 2nd Quarter After Exit - the percentage of participants who are in unsubsidized employment during the second quarter after exit from the program.\n\nEmployment Rate - 4th Quarter After Exit - the percentage of participants who are in unsubsidized employment during the fourth quarter after exit from the program.\n\nMedian Earnings - 2nd Quarter After Exit - the median earnings of participants who are in unsubsidized employment during the second quarter after exit from the program.\n\nFind performance outcomes for each state over the last several years.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -17964,22 +17414,39 @@
             ],
             "identifier": "VETS-29-012:040-690",
             "keyword": [
+                "American Job Centers",
+                "DVOP",
+                "ETA-9173",
+                "Employment Rate",
+                "Individualized Career Services",
                 "JVSG",
                 "Jobs for Veterans State Grants",
+                "LVER",
+                "Median Earnings",
+                "PIRL",
                 "State Level",
+                "WIPS",
+                "ajc",
+                "disabled veterans",
                 "dol",
+                "grant recipient",
                 "grantee",
                 "performance measures",
+                "qualifying barriers to employment",
+                "state goals",
+                "state plan",
+                "state targets",
                 "veteran employment",
                 "veteran employment rates",
                 "veterans",
+                "veterans served",
                 "vets"
             ],
             "landingPage": "https://www.dol.gov/agencies/vets/programs/grants/state/jvsg/performance",
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-17T13:28:44.298Z",
+            "modified": "2025-04-03T15:12:21.283Z",
             "programCode": [
                 "015:001"
             ],
@@ -18007,24 +17474,30 @@
                 "hasEmail": "mailto:HVRP@dol.gov"
             },
             "describedBy": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.dol.gov%2Fsites%2Fdolgov%2Ffiles%2FVETS%2Ffiles%2FHVRP-Glossary-of-Terms-revAug2023.docx&wdOrigin=BROWSELINK",
-            "description": "The Veterans' Employment and Training Service (VETS) tracks participant outcome measures for the HVRP program. Programmatic performance outcomes are collected from grant recipients through the Technical Performance Report (TPR) form. VETS shares HVRP outcomes with the public. These data show the national level targets and outcomes for eleven (11) measures by Program Year (PY), including breakouts by subpopulation, gender, ethnicity, race, and age. The 11 measures are:\n1. Number of Participants Served\n2. Percentage of Total Participants Served\n3. Number of Exiters\n4. Percentage of Total Number of Exiters\n5. Number of Participants Co-Enrolled at American Job Centers (AJCs)\n6. Average Hourly Wage at Placement\n7. Placement Rate (exit-based)\n8. Placement Rate \u2013 Episodically Homeless (exit-based)\n9. Employment Rate 2nd Quarter After Exit\n10. Employment Rate 4th Quarter After Exit\n11. Median Earnings 2nd Quarter After Exit",
+            "description": "The Veterans' Employment and Training Service (VETS) tracks HVRP participant outcomes using data collected from grant recipients. VETS shares HVRP outcomes with the public. These data show the national level targets and outcomes for eleven (11) measures by Program Year (PY), including breakouts by sex, ethnicity, race,  age, and grant population. The 11 measures are:\n\n1. Number of Participants Served\n2. Percentage of Total Participants Served\n3. Number of Exiters\n4. Percentage of Total Number of Exiters\n5. Number of Participants Co-Enrolled at American Job Centers (AJCs)\n6. Average Hourly Wage at Placement\n7. Placement Rate (exit-based)\n8. Placement Rate \u2013 Episodically Homeless (exit-based)\n9. Employment Rate 2nd Quarter After Exit\n10. Employment Rate 4th Quarter After Exit\n11. Median Earnings 2nd Quarter After Exit\"",
             "identifier": "VETS-29-012:042-691",
             "keyword": [
                 "701",
                 "HVRP",
                 "Homeless Veterans",
                 "TPR",
+                "competitive grant",
+                "employment",
                 "homeless",
+                "homeless female veterans",
                 "homeless veteran reintegration program",
+                "homeless veterans with children",
+                "homeless women veterans",
                 "outcome measures",
                 "veterans",
+                "veterans at-risk of homelessness",
                 "vets"
             ],
             "landingPage": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.dol.gov%2Fsites%2Fdolgov%2Ffiles%2FVETS%2Flegacy%2Ffiles%2FHVRP_PY21_Targets_and_Outcomes.xlsx&wdOrigin=BROWSELINK",
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-17T13:33:16.196Z",
+            "modified": "2025-04-03T15:15:07.632Z",
             "programCode": [
                 "015:001"
             ],
@@ -18037,7 +17510,7 @@
                 }
             },
             "rights": "true",
-            "title": "Homeless Veteran Reintegration Program (HVRP) Outcomes"
+            "title": "Homeless Veteran Reintegration Program (HVRP) Targets and Outcomes"
         },
         {
             "@type": "dcat:Dataset",
@@ -18365,12 +17838,13 @@
             },
             "describedBy": "https://www.dol.gov/sites/dolgov/files/VETS/files/VETS-401-Instructions-rev2022.06.docx",
             "describedByType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-            "description": "States initially use the Jobs for Veterans State Grants (JVSG) Budget Information Summary form when applying for the formula level of funds available for the Disabled Veterans\u2019 Outreach Program (DVOP) specialist positions, Local Veterans\u2019 Employment Representative (LVER) staff positions, Consolidated (DVOP/LVER) positions, Incentive Award Funds, and Management and Administrative Costs.\n\nState funding requests must summarize how the formula allocated funding and any additional funding will be budgeted by cost category and by quarter. States must update the form and include it with any modification request that affects either the planned budget or staffing levels.",
+            "description": "States initially use the Jobs for Veterans State Grants (JVSG) Budget Information Summary form when applying for the formula level of funds available for the Disabled Veterans\u2019 Outreach Program (DVOP) specialist positions, Local Veterans\u2019 Employment Representative (LVER) staff positions, Consolidated DVOP/LVER (CODL) positions, Incentive Award Funds, and Management and Administrative Costs.\n\nState funding requests must summarize how the formula allocated funding and any additional funding will be budgeted by cost category and by quarter. States must submit this form annually. Additionally, states are required to submit an amended form for any modification request that affects either the planned budget or staffing levels.",
             "identifier": "VETS-29-012:040-698",
             "keyword": [
                 "401",
                 "Budget Information Summary",
-                "Consolidated Plan",
+                "CODL",
+                "Consolidated",
                 "DOL",
                 "DVOP",
                 "JVSG",
@@ -18383,7 +17857,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-17T13:36:09.883Z",
+            "modified": "2025-04-03T15:17:16.998Z",
             "programCode": [
                 "015:001"
             ],
@@ -18411,11 +17885,12 @@
                 "fn": "DOL-VETS-JVSG",
                 "hasEmail": "mailto:JVSGE-TPARSupport@dol.gov"
             },
-            "description": "\"Use the Jobs for Veterans State Grants (JVSG) EDR to report obligation, expenditure, and staffing information for each grant award. The U.S. Department of Labor, Veterans\u2019 Employment and Training Service (VETS) uses the required, detailed information to monitor administrative costs, staff utilization, and planned spending compared to actual spending for the staffing grant.\n\nThe VETS-402 expiring June 30, 2025, must be used for all JVSG quarterly financial reports relating to Fiscal Year (FY) 2023 and beyond until OMB approves a new version.\n\nFY monies must be segregated and separately tracked. Therefore, states must complete one JVSG EDR per grant award, and update each quarter until all available funding has been expended.\"",
+            "description": "States use the Jobs for Veterans State Grants (JVSG) EDR to report obligation, expenditure, and staffing information for each grant award. The Veterans\u2019 Employment and Training Service (VETS) uses this information to monitor administrative costs, staff utilization, and planned spending compared to actual spending for the staffing grant.\n\nFY monies must be segregated and separately tracked. Therefore, states must complete one JVSG EDR per grant award, and update each quarter until all available funding has been expended.",
             "identifier": "VETS-29-012:040-699",
             "keyword": [
                 "402",
-                "Consolidated Plan",
+                "CODL",
+                "Consolidated",
                 "DOL",
                 "DVOP",
                 "EDR",
@@ -18423,14 +17898,12 @@
                 "JVSG",
                 "LVER",
                 "OMB Control Number 1293-0009",
-                "veteran employment",
-                "veterans",
                 "vets"
             ],
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-27T17:37:34.122Z",
+            "modified": "2025-04-03T15:19:37.217Z",
             "programCode": [
                 "015:001"
             ],
@@ -18444,7 +17917,7 @@
             },
             "rights": "Sensitive Financial information",
             "spatial": "State",
-            "title": "VETS-402 - Jobs for Veterans State Grants Expenditure Detail Report (EDR)"
+            "title": "VETS-402 - Jobs for Veterans State Grants (JVSG) Expenditure Detail Report (EDR)"
         },
         {
             "@type": "dcat:Dataset",
@@ -18467,7 +17940,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:24:07.989Z",
+            "modified": "2025-03-17T13:44:02.106Z",
             "programCode": [
                 "015:001"
             ],
@@ -18492,9 +17965,9 @@
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Heath Rehkop",
-                "hasEmail": "mailto:ehkop.christopher.h@dol.gov"
+                "hasEmail": "mailto:rehkop.christopher.h@dol.gov"
             },
-            "description": "OASIS is a complete, concise statement of the specific financial terms and conditions by which a Customer occupies GSA-controlled space, whether it is government-owned or leased by GSA on the Customer\u2019s behalf. When a project is initiated, a draft OA is created. Designed to provide the greatest amount of flexibility and choice, the OA documents the Customer\u2019s requirements as they evolve. It provides important information to guide decision making with regard to budget and other issues. It also records and finalizes all the agreed-upon terms and conditions of tenant occupancy, so that the Customer and GSA enter the agreement with the same understanding and expectations. The OA lets the Customer see what its costs will be and how various decisions will affect its rent bill.\n\nOASIS is a Customer-facing application where real-time Occupancy Agreement information and documentation is available to enhance the Customer experience and support decision making.\nOASIS is a Customer-facing application where real-time Occupancy Agreement information and documentation is available to enhance the Customer experience and support decision making.",
+            "description": "ROW supports GSA's strategic goal of eliminating paper while supplying timely critical billing information to client agencies. ROW allows client agencies to view their Monthly bills online using web browsers. Deployed software infrastructure is minimal for client agencies and GSA. Each agency can only see their agencies current bills or historical bills that are always available. ROW currently is the only electronic means in which external agencies can view their rent bills online.\nOASIS is a Customer-facing application where real-time Occupancy Agreement information and documentation is available to enhance the Customer experience and support decision making.",
             "identifier": "OASAM BOC-25-012:044-213",
             "keyword": [
                 "BOC",
@@ -18503,10 +17976,11 @@
                 "OASAM",
                 "eOA"
             ],
+            "landingPage": "https://www.gsa.gov/tools-overview/buildings-real-estate-etools/electronic-occupancy-agreement-eoa",
             "language": [
                 "en-US"
             ],
-            "modified": "2024-06-27T13:55:10.547Z",
+            "modified": "2025-03-17T11:01:45.397Z",
             "programCode": [
                 "015:001"
             ],
@@ -18523,6 +17997,9 @@
             ],
             "rights": "restricted",
             "spatial": "location characteristics, address",
+            "theme": [
+                "geospatial"
+            ],
             "title": "OASIS"
         },
         {
@@ -18545,10 +18022,11 @@
                 "GSAFleet.gov",
                 "OASAM"
             ],
+            "landingPage": "https://GSAfleet.gov",
             "language": [
                 "en-US"
             ],
-            "modified": "2024-06-27T14:05:08.301Z",
+            "modified": "2025-03-17T12:53:58.177Z",
             "programCode": [
                 "015:001"
             ],
@@ -18592,7 +18070,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:41:34.383Z",
+            "modified": "2025-03-17T14:22:15.560Z",
             "programCode": [
                 "015:001"
             ],
@@ -18634,7 +18112,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:42:56.360Z",
+            "modified": "2025-03-17T14:23:19.998Z",
             "programCode": [
                 "015:001"
             ],
@@ -18675,7 +18153,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:40:05.683Z",
+            "modified": "2025-03-17T14:00:54.273Z",
             "programCode": [
                 "015:001"
             ],
@@ -18713,7 +18191,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:34:31.016Z",
+            "modified": "2025-03-17T13:49:32.650Z",
             "programCode": [
                 "015:001"
             ],
@@ -18746,11 +18224,11 @@
                 "OASAM",
                 "OCIO"
             ],
-            "landingPage": "https://usdol.sharepoint.com/sites/OASAM-OCIO-ICAM/SitePages/Single%20Sign%20On%20Application%20List%20for%20DOL,%20OIG,%20and%20BLS.aspx?xsdata=MDV8MDF8fGI1N2RmNWM5ZmRjMjRjNWEwZTA5MDhkYmNiMzBmY2I3fDc1YTYzMDU0NzIwNDRlMGM5MTI2YWRhYjk3MWQ0YWNhfDB8MHw2MzgzMjcxODM0NjE3ODEwMDF8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPakZpTmpabFpEVmlMVFZtWm1JdE5HRXdZaTA1T0RCa0xUZ3pOamhpTVdKbFptUmxNbDlpTmpOaFkyVXlaUzB4TkRCakxUUTFPVGN0WVdVMlpTMDJNRFkyTURFeE9XTm1OMkpBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVFk1TnpFeU1UVTBOVGd3TVE9PXw3NTczN2M2ZmVjOWU0ODdjMGUwOTA4ZGJjYjMwZmNiN3w5YzNkOGE4MTc3NTE0NjgyOGE1ZjcxNTFlMDM5ZGM4OQ%3d%3d&sdata=UnVDd1owQVpWNDQ3OTUzdXFmakFzYUlabUVna3I4UVM3NlFCNml4dC85VT0%3d&ovuser=75a63054-7204-4e0c-9126-adab971d4aca%2cHelmy.Amer.S%40dol.gov&SafelinksUrl=https%3a%2f%2fusdol.sharepoint.com%2fsites%2fOASAM-OCIO-ICAM%2fSitePages%2fSingle%2520Sign%2520On%2520Application%2520List%2520for%2520DOL%2c%2520OIG%2c%2520and%2520BLS.aspx&OR=Teams-HL&CT=1697121626662&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjI3OCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D",
+            "landingPage": "https://usdol.sharepoint.com/sites/OASAM-OCIO-ICAM/SitePages/Single%20Sign%20On%20Application%20List%20for%20DOL,%20OIG,%20and%20BLS.aspx?",
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T12:50:42.741Z",
+            "modified": "2025-03-17T13:38:34.490Z",
             "programCode": [
                 "015:001"
             ],
@@ -18790,7 +18268,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-09-23T13:02:36.270Z",
+            "modified": "2025-03-17T13:29:27.877Z",
             "programCode": [
                 "015:001"
             ],
@@ -18832,7 +18310,7 @@
                 "en-US"
             ],
             "license": "https://opensource.org/licenses/MIT-0",
-            "modified": "2024-09-23T13:46:10.146Z",
+            "modified": "2025-03-17T14:20:47.735Z",
             "programCode": [
                 "015:001"
             ],
@@ -18844,6 +18322,9 @@
                     "name": "Office of the Assistant Secretary for Administration and Management"
                 }
             },
+            "references": [
+                "https://labornet.dol.gov/me/hr/HRIS/USA-Staffing/"
+            ],
             "rights": "private",
             "title": "Department of Labor USA Staffing"
         },
@@ -18918,7 +18399,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2025-01-06T12:49:51.711Z",
+            "modified": "2025-03-17T13:01:09.497Z",
             "programCode": [
                 "015:001"
             ],
@@ -18959,7 +18440,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2025-01-06T12:49:24.236Z",
+            "modified": "2025-03-17T12:59:09.142Z",
             "programCode": [
                 "015:001"
             ],
@@ -18971,6 +18452,9 @@
                     "name": "Office of the Assistant Secretary for Administration and Management"
                 }
             },
+            "references": [
+                "https://cmp.dol.gov/suite/sites/ctrs-tl6"
+            ],
             "rights": "private",
             "spatial": "location characteristics, addresses",
             "theme": [
@@ -19165,12 +18649,13 @@
                 "fn": "DOL-VETS-ENPP",
                 "hasEmail": "mailto:TAPPartnerships@dol.gov"
             },
-            "description": "This dataset is a list of locations for the Employment Navigators and Partnership Program (ENPP) administered by the US Department of Labor Veterans' Employment and Training Service (VETS) for fiscal year (FY) 2024.",
+            "description": "This dataset is a list of locations for the Employment Navigator and Partnership Program (ENPP) administered by the US Department of Labor Veterans' Employment and Training Service (VETS) for fiscal year (FY) 2024.",
             "identifier": "VETS-29-012:041-700",
             "keyword": [
                 "ENPP",
                 "Employment Navigators",
                 "Military Spouse",
+                "Office of National Programs",
                 "Partnerships",
                 "TAP",
                 "transition assistance program",
@@ -19181,7 +18666,7 @@
             "language": [
                 "en-US"
             ],
-            "modified": "2024-12-17T14:12:16.376Z",
+            "modified": "2025-04-03T15:25:06.491Z",
             "programCode": [
                 "015:001"
             ],
@@ -19190,14 +18675,14 @@
                 "name": "Veterans\u2019 Employment and Training Service",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
-                    "name": "Department of Labor"
+                    "name": "Veterans\u2019 Employment and Training Service"
                 }
             },
             "references": [
                 "https://www.dol.gov/sites/dolgov/files/VETS/files/tap/InstallationToolkit20211015.pdf"
             ],
             "rights": "true",
-            "title": "Employment Navigators and Partnership Program (ENPP) Locations List"
+            "title": "Employment Navigator and Partnership Program (ENPP) Locations List"
         },
         {
             "@type": "dcat:Dataset",
@@ -19379,6 +18864,229 @@
             },
             "rights": "NA",
             "title": "Workforce Programs Quarterly Performance Report (QPR) Data"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "bureauCode": [
+                "015:11"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Sarah Calle",
+                "hasEmail": "mailto:Calle.Sarah@dol.gov"
+            },
+            "dataQuality": true,
+            "describedBy": "https://dataportal.dol.gov/datasets/10267",
+            "describedByType": "text/html",
+            "description": "These datasets match information on child labor and forced labor worldwide from ILAB\u2019s three flagship reports (Findings on the Worst Forms of Child Labor; List of Goods Produced by Child Labor or Forced Labor; and List of Products Produced by Forced or Indentured Child Labor) with U.S. import trade data, including Harmonized Tariff Schedule Codes, to empower users to advance efforts in supply chain transparency as well as strategic sourcing priorities. There are 3 tables combining data from ILAB\u2019s essential reporting with U.S. import trade data.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://dataportal.dol.gov/datasets/10267",
+                    "description": "These datasets match information on child labor and forced labor worldwide from ILAB\u2019s three flagship reports (Findings on the Worst Forms of Child Labor; List of Goods Produced by Child Labor or Forced Labor; and List of Products Produced by Forced or Indentured Child Labor) with U.S. import trade data, including Harmonized Tariff Schedule Codes, to empower users to advance efforts in supply chain transparency as well as strategic sourcing priorities. There are 3 tables combining data from ILAB\u2019s essential reporting with U.S. import trade data.",
+                    "title": "Better Trade Tool API"
+                }
+            ],
+            "identifier": "ILAB-12-012:037-707",
+            "keyword": [
+                "Child Labor",
+                "Forced Labor",
+                "Trade in Goods and Services",
+                "international trade"
+            ],
+            "landingPage": "https://dataportal.dol.gov/datasets/10267",
+            "language": [
+                "en-US"
+            ],
+            "modified": "2025-02-04T15:27:58.005Z",
+            "programCode": [
+                "015:001"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Bureau of International Labor Affairs",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "Bureau of International Labor Affairs"
+                }
+            },
+            "rights": "true",
+            "title": "Better Trade Tool API"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "irregular",
+            "bureauCode": [
+                "015:11"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Jeff Hayes",
+                "hasEmail": "mailto:hayes.jeffrey.a@dol.gov"
+            },
+            "description": "There is currently no federal law guaranteeing access to paid sick leave, although many states and localities have passed paid sick leave laws.",
+            "identifier": "WB-12-012:038-711",
+            "issued": "2025-02-19",
+            "keyword": [
+                "WB",
+                "paid leave",
+                "state laws"
+            ],
+            "landingPage": "https://www.dol.gov/agencies/wb/featured-paid-leave",
+            "language": [
+                "en-US"
+            ],
+            "modified": "2025-04-08T14:02:15.023Z",
+            "programCode": [
+                "015:001"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Women's Bureau",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "Women's Bureau"
+                }
+            },
+            "rights": "true",
+            "title": "Map: State Paid Sick Leave Laws"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/PT1S",
+            "bureauCode": [
+                "015:11"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Elaine Zimmerman",
+                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
+            },
+            "describedBy": "https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-compliance/reporting-and-filing/form-pr",
+            "describedByType": "text/html",
+            "description": "Registration system and data for pooled plan providers under the Employee Retirement Income Security Act (ERISA) and Internal Revenue Code. The Form PR includes information about the pooled plan provider, any affiliated service providers, and any criminal or civil proceedings related to the provider or its employees. The form must be filed electronically with the Department of Labor before the provider can begin operating pooled employer plans.",
+            "identifier": "EBSA-11-012:019-713",
+            "issued": "2025-03-26",
+            "keyword": [
+                "EBSA",
+                "Form PR",
+                "Participants",
+                "Pooled Plan"
+            ],
+            "landingPage": "https://www.efast.dol.gov/portal/app/disseminatePPP?execution=e1s1",
+            "language": [
+                "en-US"
+            ],
+            "modified": "2025-04-04T20:23:52.413Z",
+            "programCode": [
+                "015:001"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Employee Benefits Security Administration",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "Department of Labor"
+                }
+            },
+            "rights": "true",
+            "spatial": "Address",
+            "temporal": "2000-01-01/2025-03-26",
+            "theme": [
+                "geospatial"
+            ],
+            "title": "Form PR Registration Filings Search Database"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "bureauCode": [
+                "015:11"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Elaine Zimmerman",
+                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
+            },
+            "describedByType": "text/csv",
+            "description": "Contains cleaned Form 5500 private pension plan, group health plan and Direct Filing Entities data which are used to produce annual Bulletins. Direct Filing Entities data includes \"spread\" files which allow research to map DFE holds to underlying assets.",
+            "identifier": "EBSA-11-012:019-714",
+            "issued": "2024-08-24",
+            "keyword": [
+                "DFE",
+                "EBSA",
+                "Form 5500",
+                "Group Health Plans"
+            ],
+            "language": [
+                "en-US"
+            ],
+            "modified": "2025-04-04T20:48:59.463Z",
+            "programCode": [
+                "015:001"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Employee Benefits Security Administration",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "Department of Labor"
+                }
+            },
+            "rights": "true",
+            "spatial": "Address",
+            "temporal": "2000-01-01/2024-08-15",
+            "theme": [
+                "geospatial"
+            ],
+            "title": "Form 5500 Research Datafiles"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "restricted public",
+            "accrualPeriodicity": "R/PT1S",
+            "bureauCode": [
+                "015:11"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Elaine Zimmerman",
+                "hasEmail": "mailto:zimmerman.elaine@dol.gov"
+            },
+            "description": "Database contains EBSA\u2019s ERISA Voluntary Fiduciary Correction (VFCP) self correction data.",
+            "identifier": "EBSA-11-012:019-712",
+            "keyword": [
+                "EBSA",
+                "Self Correction",
+                "VFCP"
+            ],
+            "language": [
+                "en-US"
+            ],
+            "modified": "2025-04-04T20:55:24.563Z",
+            "programCode": [
+                "015:001"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Employee Benefits Security Administration",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "Department of Labor"
+                }
+            },
+            "rights": "Restricted",
+            "spatial": "Address",
+            "temporal": "2000-01-01/2025-03-28",
+            "theme": [
+                "geospatial"
+            ],
+            "title": "ERISA Voluntary Fiduciary Correction (VFCP) self correction data."
         }
     ],
     "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
