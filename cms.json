@@ -15156,10 +15156,46 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/4b50bbe6-a496-4eda-b03b-5f835937f81b/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-03-31",
+                    "modified": "2025-04-08",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/4b50bbe6-a496-4eda-b03b-5f835937f81b",
-                    "temporal": "2024-07-01/2024-09-30",
-                    "title": "Minimum Data Set Frequency : 2024-07-02"
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Minimum Data Set Frequency : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/38d0ba25-08e4-4f1a-bd6e-3fd682911524/MDS_Frequency_Q1_2025.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-04-08",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/5fdf5704-bef3-417b-a416-7a5e2c38eac5",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Minimum Data Set Frequency : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/5fdf5704-bef3-417b-a416-7a5e2c38eac5/data",
+                    "format": "API",
+                    "modified": "2025-04-08",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/5fdf5704-bef3-417b-a416-7a5e2c38eac5",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Minimum Data Set Frequency : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-03/ec21a36a-5e43-4a1b-b223-a39117d3552f/MDS_Frequency_Q4_2024.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-04-08",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/18a36ba8-3781-40b9-8c65-d64ec6a6dee4",
+                    "temporal": "2024-10-01/2024-12-31",
+                    "title": "Minimum Data Set Frequency : 2024-12-02"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/18a36ba8-3781-40b9-8c65-d64ec6a6dee4/data",
+                    "format": "API",
+                    "modified": "2025-04-08",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/18a36ba8-3781-40b9-8c65-d64ec6a6dee4",
+                    "temporal": "2024-10-01/2024-12-31",
+                    "title": "Minimum Data Set Frequency : 2024-12-02"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -15514,7 +15550,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-03-31",
+            "modified": "2025-04-08",
             "programCode": [
                 "009:000"
             ],
@@ -15525,7 +15561,7 @@
             "references": [
                 "https://data.cms.gov/resources/minimum-data-set-frequency-methodology"
             ],
-            "temporal": "2020-01-01/2024-09-30",
+            "temporal": "2020-01-01/2025-03-31",
             "theme": [
                 "Medicare",
                 "Medicaid"
