@@ -14002,10 +14002,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/2457ea29-fc82-48b0-86ec-3b0755de7515/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-03-18",
+                    "modified": "2025-04-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/2457ea29-fc82-48b0-86ec-3b0755de7515",
-                    "temporal": "2024-10-01/2024-12-31",
-                    "title": "Medicare Fee-For-Service Public Provider Enrollment : 2024-12-02"
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Medicare Fee-For-Service Public Provider Enrollment : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/5d10bc83-29bd-498e-a1ff-3e6e2065a7e3/PPEF_Enrollment_Extract_2025.04.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-04-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/74edb053-bd01-40a0-91a0-4961c1fe6281",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Medicare Fee-For-Service Public Provider Enrollment : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/74edb053-bd01-40a0-91a0-4961c1fe6281/data",
+                    "format": "API",
+                    "modified": "2025-04-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/74edb053-bd01-40a0-91a0-4961c1fe6281",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Medicare Fee-For-Service Public Provider Enrollment : 2025-01-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -14163,7 +14181,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-03-18",
+            "modified": "2025-04-15",
             "programCode": [
                 "009:000"
             ],
@@ -14174,7 +14192,7 @@
             "references": [
                 "https://data.cms.gov/resources/fee-for-service-public-provider-enrollment-methodology"
             ],
-            "temporal": "2023-01-01/2024-12-31",
+            "temporal": "2023-01-01/2025-03-31",
             "theme": [
                 "Medicare"
             ],
@@ -30076,10 +30094,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/086e48c4-87a6-4be1-8823-29e8da8f225b/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-01-16",
+                    "modified": "2025-04-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/086e48c4-87a6-4be1-8823-29e8da8f225b",
-                    "temporal": "2024-10-01/2024-12-31",
-                    "title": "Provider of Services File - Internet Quality Improvement and Evaluation System - Home Health Agency, Ambulatory Surgical Center, and Hospice Providers : 2024-12-02"
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Provider of Services File - Internet Quality Improvement and Evaluation System - Home Health Agency, Ambulatory Surgical Center, and Hospice Providers : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/6aeb9473-03a7-4db9-9b71-057d60cbcada/iQIES%20HHA_HOSPICE_ASC_DATA.MAR25.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-04-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/da41710f-baf7-4882-9640-4bcc1f5602bb",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Provider of Services File - Internet Quality Improvement and Evaluation System - Home Health Agency, Ambulatory Surgical Center, and Hospice Providers : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/da41710f-baf7-4882-9640-4bcc1f5602bb/data",
+                    "format": "API",
+                    "modified": "2025-04-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/da41710f-baf7-4882-9640-4bcc1f5602bb",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Provider of Services File - Internet Quality Improvement and Evaluation System - Home Health Agency, Ambulatory Surgical Center, and Hospice Providers : 2025-01-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -30187,7 +30223,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-01-16",
+            "modified": "2025-04-15",
             "programCode": [
                 "009:000"
             ],
@@ -30198,7 +30234,7 @@
             "references": [
                 "https://data.cms.gov/resources/pos-file-iqies-for-hha-asc-and-hospice-providers-methodology"
             ],
-            "temporal": "2023-10-01/2024-12-31",
+            "temporal": "2023-10-01/2025-03-31",
             "theme": [
                 "Medicare"
             ],
@@ -41498,10 +41534,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/d3eb38ac-d8e9-40d3-b7b7-6205d3d1dc16/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-01-16",
+                    "modified": "2025-04-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/d3eb38ac-d8e9-40d3-b7b7-6205d3d1dc16",
-                    "temporal": "2024-10-01/2024-12-31",
-                    "title": "Provider of Services File - Clinical Laboratories : 2024-12-01"
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Provider of Services File - Clinical Laboratories : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/d0fc9f7a-b8d2-4988-a6e9-eb4cff2d45c3/PQWB.POSQ.CLIA.DATA.MAR25.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-04-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/204886a4-5757-4e4f-81a0-6f32727b0f81",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Provider of Services File - Clinical Laboratories : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/204886a4-5757-4e4f-81a0-6f32727b0f81/data",
+                    "format": "API",
+                    "modified": "2025-04-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/204886a4-5757-4e4f-81a0-6f32727b0f81",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Provider of Services File - Clinical Laboratories : 2025-01-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -42095,7 +42149,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-01-16",
+            "modified": "2025-04-15",
             "programCode": [
                 "009:000"
             ],
@@ -42106,7 +42160,7 @@
             "references": [
                 "https://data.cms.gov/resources/provider-of-services-file-methodology"
             ],
-            "temporal": "2011-10-01/2024-12-31",
+            "temporal": "2011-10-01/2025-03-31",
             "theme": [
                 "Medicare"
             ],
@@ -42134,10 +42188,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/8ba0f9b4-9493-4aa0-9f82-44ea9468d1b5/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-01-31",
+                    "modified": "2025-04-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/8ba0f9b4-9493-4aa0-9f82-44ea9468d1b5",
-                    "temporal": "2024-10-01/2024-12-31",
-                    "title": "Provider of Services File - Hospital & Non-Hospital Facilities : 2024-12-02"
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Provider of Services File - Hospital & Non-Hospital Facilities : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/55ef3d12-8278-4f7e-b0aa-2a68ebdd76fa/PQWB.POSQ.OTHER.DATA.MAR25.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-04-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/c0c613fc-3454-4c59-8e0a-2f149bb7950c",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Provider of Services File - Hospital & Non-Hospital Facilities : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/c0c613fc-3454-4c59-8e0a-2f149bb7950c/data",
+                    "format": "API",
+                    "modified": "2025-04-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/c0c613fc-3454-4c59-8e0a-2f149bb7950c",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Provider of Services File - Hospital & Non-Hospital Facilities : 2025-01-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -42731,7 +42803,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-01-31",
+            "modified": "2025-04-15",
             "programCode": [
                 "009:000"
             ],
@@ -42742,7 +42814,7 @@
             "references": [
                 "https://data.cms.gov/resources/provider-of-services-file-methodology"
             ],
-            "temporal": "2011-10-01/2024-12-31",
+            "temporal": "2011-10-01/2025-03-31",
             "theme": [
                 "Medicare"
             ],
