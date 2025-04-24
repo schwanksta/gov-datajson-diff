@@ -35338,10 +35338,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/9887a515-7552-4693-bf58-735c77af46d7/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-03-24",
+                    "modified": "2025-04-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/9887a515-7552-4693-bf58-735c77af46d7",
-                    "temporal": "2025-02-01/2025-02-28",
-                    "title": "Opt Out Affidavits : 2025-02-01"
+                    "temporal": "2025-03-01/2025-03-31",
+                    "title": "Opt Out Affidavits : 2025-03-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/fcfeb052-e800-4934-844d-0bd2e0b48937/Opt_Out_List_March.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f9bf8080-34b3-4f13-9118-7b369dea5e3e",
+                    "temporal": "2025-03-01/2025-03-31",
+                    "title": "Opt Out Affidavits : 2025-03-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/f9bf8080-34b3-4f13-9118-7b369dea5e3e/data",
+                    "format": "API",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f9bf8080-34b3-4f13-9118-7b369dea5e3e",
+                    "temporal": "2025-03-01/2025-03-31",
+                    "title": "Opt Out Affidavits : 2025-03-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -35770,7 +35788,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-03-24",
+            "modified": "2025-04-24",
             "programCode": [
                 "009:000"
             ],
@@ -35781,7 +35799,7 @@
             "references": [
                 "https://data.cms.gov/resources/opt-out-affidavits-methodology"
             ],
-            "temporal": "2023-04-01/2025-02-28",
+            "temporal": "2023-04-01/2025-03-31",
             "theme": [
                 "Medicare"
             ],
@@ -37959,7 +37977,7 @@
                 "hasEmail": "mailto:PDAG_Data_Products@cms.hhs.gov"
             },
             "dataQuality": true,
-            "describedBy": "https://data.cms.gov/sites/default/files/2024-05/3f6841ec-571e-4e03-8766-5ef355c76857/2014-2022%20Medicare%20Geographic%20Variation%20by%20National%20State%20%20County%20Data%20Dictionary_508.pdf",
+            "describedBy": "https://data.cms.gov/sites/default/files/2025-03/2014-2023%20Medicare%20FFS%20Geographic%20Variation%20by%20National_State_County%20Data%20Dictionary_0.pdf",
             "describedByType": "application/pdf",
             "description": "The Medicare Geographic Variation by National, State & County dataset provides information on the geographic differences in the use and quality of health care services for the Original Medicare\u00a0population. This dataset contains demographic, spending, use, and quality indicators at the state level (including the District of Columbia, Puerto Rico, and the Virgin Islands) and the county level.\n\nSpending is standardized to remove geographic differences in payment rates for individual services as a source of variation. In general, total standardized per capita costs are less than actual per capita costs because the extra payments Medicare made to hospitals were removed, such as payments for medical education (both direct and indirect) and payments to hospitals that serve a disproportionate share of low-income patients. Standardization does not adjust for differences in beneficiaries\u2019 health status.",
             "distribution": [
@@ -37968,10 +37986,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/6219697b-8f6c-4164-bed4-cd9317c58ebc/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2024-07-31",
+                    "modified": "2025-04-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/6219697b-8f6c-4164-bed4-cd9317c58ebc",
-                    "temporal": "2022-01-01/2022-12-31",
-                    "title": "Medicare Geographic Variation - by National, State & County : 2022-01-15"
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Geographic Variation - by National, State & County : 2023-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-03/a40ac71d-9f80-4d99-92d2-fd149433d7d8/2014-2023%20Medicare%20Fee-for-Service%20Geographic%20Variation%20Public%20Use%20File.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/5bff7540-8041-43ed-b672-c655daf47cff",
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Geographic Variation - by National, State & County : 2023-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/5bff7540-8041-43ed-b672-c655daf47cff/data",
+                    "format": "API",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/5bff7540-8041-43ed-b672-c655daf47cff",
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Geographic Variation - by National, State & County : 2023-01-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -38007,7 +38043,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-07-31",
+            "modified": "2025-04-24",
             "programCode": [
                 "009:000"
             ],
@@ -38016,9 +38052,9 @@
                 "name": "Centers for Medicare & Medicaid Services"
             },
             "references": [
-                "https://data.cms.gov/sites/default/files/2024-05/a0e72c13-805a-4546-bb18-4e75e84a282f/Geographic%20Variation%20Public%20Use%20File%20Methods%20Paper.pdf"
+                "https://data.cms.gov/sites/default/files/2025-03/Geographic%20Variation%20Public%20Use%20File%20Methods%20Paper.pdf"
             ],
-            "temporal": "2022-01-01/2022-12-31",
+            "temporal": "2022-01-01/2023-12-31",
             "theme": [
                 "Medicare"
             ],
@@ -38488,10 +38524,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/92396110-2aed-4d63-a6a2-5d6207d46a29/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-03-26",
+                    "modified": "2025-04-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/92396110-2aed-4d63-a6a2-5d6207d46a29",
-                    "temporal": "2022-01-01/2022-12-31",
-                    "title": "Medicare Physician & Other Practitioners - by Provider and Service : 2022-12-02"
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Physician & Other Practitioners - by Provider and Service : 2023-12-31"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/e3f823f8-db5b-4cc7-ba04-e7ae92b99757/MUP_PHY_R25_P05_V20_D23_Prov_Svc.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/0e9f2f2b-7bf9-451a-912c-e02e654dd725",
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Physician & Other Practitioners - by Provider and Service : 2023-12-31"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/0e9f2f2b-7bf9-451a-912c-e02e654dd725/data",
+                    "format": "API",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/0e9f2f2b-7bf9-451a-912c-e02e654dd725",
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Physician & Other Practitioners - by Provider and Service : 2023-12-31"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -38687,7 +38741,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-03-26",
+            "modified": "2025-04-24",
             "programCode": [
                 "009:000"
             ],
@@ -38698,7 +38752,7 @@
             "references": [
                 "https://data.cms.gov/resources/medicare-physician-other-practitioners-methodology"
             ],
-            "temporal": "2013-01-01/2022-12-31",
+            "temporal": "2013-01-01/2023-12-31",
             "theme": [
                 "Medicare"
             ],
@@ -38725,10 +38779,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/8889d81e-2ee7-448f-8713-f071038289b5/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-03-26",
+                    "modified": "2025-04-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/8889d81e-2ee7-448f-8713-f071038289b5",
-                    "temporal": "2022-01-01/2022-12-31",
-                    "title": "Medicare Physician & Other Practitioners - by Provider : 2022-12-02"
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Physician & Other Practitioners - by Provider : 2023-12-31"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/22edfd1e-d17a-4478-ad6b-92cac2a5a3c4/MUP_PHY_R25_P05_V20_D23_Prov.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/8ba584c6-a43a-4b0b-a35a-eb9a59e3a571",
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Physician & Other Practitioners - by Provider : 2023-12-31"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/8ba584c6-a43a-4b0b-a35a-eb9a59e3a571/data",
+                    "format": "API",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/8ba584c6-a43a-4b0b-a35a-eb9a59e3a571",
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Physician & Other Practitioners - by Provider : 2023-12-31"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -38924,7 +38996,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-03-26",
+            "modified": "2025-04-24",
             "programCode": [
                 "009:000"
             ],
@@ -38935,7 +39007,7 @@
             "references": [
                 "https://data.cms.gov/resources/medicare-physician-other-practitioners-methodology"
             ],
-            "temporal": "2013-01-01/2022-12-31",
+            "temporal": "2013-01-01/2023-12-31",
             "theme": [
                 "Medicare"
             ],
@@ -38962,10 +39034,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/6fea9d79-0129-4e4c-b1b8-23cd86a4f435/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2024-06-04",
+                    "modified": "2025-04-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/6fea9d79-0129-4e4c-b1b8-23cd86a4f435",
-                    "temporal": "2022-01-01/2022-12-31",
-                    "title": "Medicare Physician & Other Practitioners - by Geography and Service : 2022-12-01"
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Physician & Other Practitioners - by Geography and Service : 2023-12-31"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/c4ae7ffd-7568-44a7-a6c9-99cedd8ea3fc/MUP_PHY_R24_P05_V10_D22_Geo.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/ddee9e22-7889-4bef-975a-7853e4cd0fbb",
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Physician & Other Practitioners - by Geography and Service : 2023-12-31"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/ddee9e22-7889-4bef-975a-7853e4cd0fbb/data",
+                    "format": "API",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/ddee9e22-7889-4bef-975a-7853e4cd0fbb",
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Physician & Other Practitioners - by Geography and Service : 2023-12-31"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -39163,7 +39253,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-06-04",
+            "modified": "2025-04-24",
             "programCode": [
                 "009:000"
             ],
@@ -39174,7 +39264,7 @@
             "references": [
                 "https://data.cms.gov/resources/medicare-physician-other-practitioners-methodology"
             ],
-            "temporal": "2013-01-01/2022-12-31",
+            "temporal": "2013-01-01/2023-12-31",
             "theme": [
                 "Medicare"
             ],
@@ -40746,10 +40836,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/9552739e-3d05-4c1b-8eff-ecabf391e2e5/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2024-06-04",
+                    "modified": "2025-04-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/9552739e-3d05-4c1b-8eff-ecabf391e2e5",
-                    "temporal": "2022-01-01/2022-12-31",
-                    "title": "Medicare Part D Prescribers - by Provider and Drug : 2022-12-30"
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Part D Prescribers - by Provider and Drug : 2023-12-31"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/0d5915ce-002c-4d87-bde8-24ffb08bb6cc/MUP_DPR_RY25_P04_V10_DY23_NPIBN.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e54db557-cd82-4e91-a0fe-61aad5865d69",
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Part D Prescribers - by Provider and Drug : 2023-12-31"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/e54db557-cd82-4e91-a0fe-61aad5865d69/data",
+                    "format": "API",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e54db557-cd82-4e91-a0fe-61aad5865d69",
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Part D Prescribers - by Provider and Drug : 2023-12-31"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -40945,7 +41053,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-06-04",
+            "modified": "2025-04-24",
             "programCode": [
                 "009:000"
             ],
@@ -40956,7 +41064,7 @@
             "references": [
                 "https://data.cms.gov/resources/medicare-part-d-prescribers-methodology"
             ],
-            "temporal": "2013-01-01/2022-12-31",
+            "temporal": "2013-01-01/2023-12-31",
             "theme": [
                 "Medicare"
             ],
@@ -41220,10 +41328,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/c8ea3f8e-3a09-4fea-86f2-8902fb4b0920/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2024-06-04",
+                    "modified": "2025-04-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/c8ea3f8e-3a09-4fea-86f2-8902fb4b0920",
-                    "temporal": "2022-01-01/2022-12-31",
-                    "title": "Medicare Part D Prescribers - by Geography and Drug : 2022-12-30"
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Part D Prescribers - by Geography and Drug : 2023-12-31"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/9fe6b8a6-0cb9-4b7c-9760-87800da010a8/MUP_DPR_RY25_P04_V10_DY23_Geo.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/3463648b-1971-478d-84ca-80cadc758153",
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Part D Prescribers - by Geography and Drug : 2023-12-31"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/3463648b-1971-478d-84ca-80cadc758153/data",
+                    "format": "API",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/3463648b-1971-478d-84ca-80cadc758153",
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Part D Prescribers - by Geography and Drug : 2023-12-31"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -41421,7 +41547,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-06-04",
+            "modified": "2025-04-24",
             "programCode": [
                 "009:000"
             ],
@@ -41432,7 +41558,7 @@
             "references": [
                 "https://data.cms.gov/resources/medicare-part-d-prescribers-methodology"
             ],
-            "temporal": "2013-01-01/2022-12-31",
+            "temporal": "2013-01-01/2023-12-31",
             "theme": [
                 "Medicare"
             ],
