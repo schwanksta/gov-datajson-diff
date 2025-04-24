@@ -41091,10 +41091,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/14d8e8a9-7e9b-4370-a044-bf97c46b4b44/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-03-27",
+                    "modified": "2025-04-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/14d8e8a9-7e9b-4370-a044-bf97c46b4b44",
-                    "temporal": "2022-01-01/2022-12-31",
-                    "title": "Medicare Part D Prescribers - by Provider : 2022-12-02"
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Part D Prescribers - by Provider : 2023-12-31"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/750769a3-bb0f-4f05-81dc-7dcb6e105cb0/MUP_DPR_RY25_P04_V10_DY23_NPI.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/6428fad7-4fb1-454c-93a4-772934d73922",
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Part D Prescribers - by Provider : 2023-12-31"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/6428fad7-4fb1-454c-93a4-772934d73922/data",
+                    "format": "API",
+                    "modified": "2025-04-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/6428fad7-4fb1-454c-93a4-772934d73922",
+                    "temporal": "2023-01-01/2023-12-31",
+                    "title": "Medicare Part D Prescribers - by Provider : 2023-12-31"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -41290,7 +41308,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-03-27",
+            "modified": "2025-04-24",
             "programCode": [
                 "009:000"
             ],
@@ -41301,7 +41319,7 @@
             "references": [
                 "https://data.cms.gov/resources/medicare-part-d-prescribers-methodology"
             ],
-            "temporal": "2013-01-01/2022-12-31",
+            "temporal": "2013-01-01/2023-12-31",
             "theme": [
                 "Medicare"
             ],
