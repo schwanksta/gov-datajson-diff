@@ -4028,14 +4028,14 @@
             },
             "dataQuality": true,
             "describedBy": "https://data.cms.gov/resources/cpc-initiative-participating-primary-care-practices-data-dictionary",
-            "description": "The CPC Initiative - Participating Primary Care Practices dataset provides a list of practices involved in a multi-payer initiative which fosters collaboration between public and private health care payers to strengthen primary care.\u00a0",
+            "description": "The Comprehensive Primary Care (CPC) Initiative - Participating Primary Care Practices dataset provides a list of practices involved in a multi-payer initiative which fosters collaboration between public and private health care payers to strengthen primary care.\u00a0",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/24da2642-7269-4c75-9a62-0dc3a195b205/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2020-12-11",
+                    "modified": "2025-04-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/24da2642-7269-4c75-9a62-0dc3a195b205",
                     "temporal": "2017-01-01/2017-12-31",
                     "title": "CPC Initiative - Participating Primary Care Practices : 2017-09-25"
@@ -4044,7 +4044,7 @@
                     "@type": "dcat:Distribution",
                     "downloadURL": "https://data.cms.gov/sites/default/files/2020-07/CPC_Initiative__Participating_Primary_Care_Practices.csv",
                     "mediaType": "text/csv",
-                    "modified": "2020-12-11",
+                    "modified": "2025-04-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/8a099a4e-3bac-4ce2-bb17-b99b488d4440",
                     "temporal": "2017-01-01/2017-12-31",
                     "title": "CPC Initiative - Participating Primary Care Practices : 2017-09-25"
@@ -4053,7 +4053,7 @@
                     "@type": "dcat:Distribution",
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/8a099a4e-3bac-4ce2-bb17-b99b488d4440/data",
                     "format": "API",
-                    "modified": "2020-12-11",
+                    "modified": "2025-04-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/8a099a4e-3bac-4ce2-bb17-b99b488d4440",
                     "temporal": "2017-01-01/2017-12-31",
                     "title": "CPC Initiative - Participating Primary Care Practices : 2017-09-25"
@@ -4071,7 +4071,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2020-12-11",
+            "modified": "2025-04-24",
             "programCode": [
                 "009:000"
             ],
@@ -38008,24 +38008,6 @@
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/5bff7540-8041-43ed-b672-c655daf47cff",
                     "temporal": "2023-01-01/2023-12-31",
                     "title": "Medicare Geographic Variation - by National, State & County : 2023-01-01"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-05/b1675c91-4643-47d0-b377-9b029edb9ff4/2014-2022%20Medicare%20FFS%20Geographic%20Variation%20Public%20Use%20File.csv",
-                    "mediaType": "text/csv",
-                    "modified": "2024-07-31",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/567a0e69-320d-429c-a31f-c59b7099f22d",
-                    "temporal": "2022-01-01/2022-12-31",
-                    "title": "Medicare Geographic Variation - by National, State & County : 2022-01-15"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/567a0e69-320d-429c-a31f-c59b7099f22d/data",
-                    "format": "API",
-                    "modified": "2024-07-31",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/567a0e69-320d-429c-a31f-c59b7099f22d",
-                    "temporal": "2022-01-01/2022-12-31",
-                    "title": "Medicare Geographic Variation - by National, State & County : 2022-01-15"
                 }
             ],
             "identifier": "https://data.cms.gov/data-api/v1/dataset/6219697b-8f6c-4164-bed4-cd9317c58ebc/data-viewer",
@@ -38054,7 +38036,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2025-03/Geographic%20Variation%20Public%20Use%20File%20Methods%20Paper.pdf"
             ],
-            "temporal": "2022-01-01/2023-12-31",
+            "temporal": "2023-01-01/2023-12-31",
             "theme": [
                 "Medicare"
             ],
