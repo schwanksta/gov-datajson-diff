@@ -1530,269 +1530,197 @@
             },
             "dataQuality": true,
             "describedBy": "https://data.cms.gov/resources/county-level-aggregate-expenditure-and-risk-score-data-on-assignable-beneficiaries-data-dictionary-0",
-            "description": "The Shared Savings Program County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries Public Use File (PUF) for the Medicare Shared Savings Program (Shared Savings Program) provides aggregate data consisting of per capita Parts A and B FFS expenditures, average CMS-HCC prospective risk scores,\u00a0average demographic risk scores and total person-years for Shared Savings Program assignable beneficiaries by Medicare enrollment type (End Stage Renal Disease (ESRD), disabled, aged/dual eligible, aged/non-dual eligible).\n\n\u00a0\n\nDISCLAIMER: This information is current as of the last update. Changes to Shared Savings Program Accountable Care Organization (ACO) information occur periodically. Each Shared Savings Program ACO has the most up-to-date information about their organization. Consider contacting the Shared Savings Program ACO for the latest information. Contact information is available in the ACO PUF and the ACO Participants PUF.",
+            "description": "The Shared Savings Program County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries Public Use File (PUF) for the Medicare Shared Savings Program (Shared Savings Program) provides aggregate data consisting of per capita Parts A and B FFS expenditures, average CMS-HCC prospective risk scores and total person-years for Shared Savings Program assignable beneficiaries by Medicare enrollment type (End Stage Renal Disease (ESRD), disabled, aged/dual eligible, aged/non-dual eligible).\n\n\u00a0\n\nDISCLAIMER: This information is current as of the last update. Changes to Shared Savings Program Accountable Care Organization (ACO) information occur periodically. Each Shared Savings Program ACO has the most up-to-date information about their organization. Consider contacting the Shared Savings Program ACO for the latest information. Contact information is available in the ACO PUF and the ACO Participants PUF.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/5f9f1216-6fd9-455d-bfbc-0efade687a4e/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2024-12-16",
+                    "modified": "2025-05-06",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/5f9f1216-6fd9-455d-bfbc-0efade687a4e",
                     "temporal": "2023-01-01/2023-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2023-12-03oc2"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2023-12-05oc2"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-12/61bd2a0f-62a0-4ef4-9580-56b5e3cb8ad0/County_Level_FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2023_Offest_Assignable_2024_Starters.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/a92251be-d800-4b57-b7b0-a37c3107421b/County_Level_FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2023_2024_2025_Starters_oc2.csv",
                     "mediaType": "text/csv",
-                    "modified": "2024-12-16",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/0b335816-649d-4a10-8c43-2ab47bf08852",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/0e71afe3-c510-4ff7-936c-37b7757f64b3",
                     "temporal": "2023-01-01/2023-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2023-12-03oc2"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2023-12-05oc2"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/0b335816-649d-4a10-8c43-2ab47bf08852/data",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/0e71afe3-c510-4ff7-936c-37b7757f64b3/data",
                     "format": "API",
-                    "modified": "2024-12-16",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/0b335816-649d-4a10-8c43-2ab47bf08852",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/0e71afe3-c510-4ff7-936c-37b7757f64b3",
                     "temporal": "2023-01-01/2023-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2023-12-03oc2"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2023-12-05oc2"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-12/f2839854-b69f-4df5-b58b-217fd276ad8c/County_level_FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2023_Cal_Year_Assignable_2024_Starters.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/58042ab8-e80e-40d7-8ccb-fce766c409f1/County_Level_FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2023_2024_2025_Starters_oc1.csv",
                     "mediaType": "text/csv",
-                    "modified": "2024-12-16",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/4edf4a26-a014-409d-bd48-dab830f7f7bf",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/06f3eea1-d4e1-4847-b33b-a7a24757ae4c",
                     "temporal": "2023-01-01/2023-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2023-12-02oc1"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2023-12-04oc1"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/4edf4a26-a014-409d-bd48-dab830f7f7bf/data",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/06f3eea1-d4e1-4847-b33b-a7a24757ae4c/data",
                     "format": "API",
-                    "modified": "2024-12-16",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/4edf4a26-a014-409d-bd48-dab830f7f7bf",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/06f3eea1-d4e1-4847-b33b-a7a24757ae4c",
                     "temporal": "2023-01-01/2023-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2023-12-02oc1"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2023-12-04oc1"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-11/a038f841-da53-4b89-b3f8-2876a2d50bee/County_Level%20FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2023_01_01_%20Cal_Year_Assignable_2019_2023_Starters.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/27b1178a-f1d5-4946-80df-a73570b1cda9/County_Level_FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2022_2024_2025_Starters_oc2.csv",
                     "mediaType": "text/csv",
-                    "modified": "2024-11-27",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/eeb048d0-aad6-42b9-988c-487c8da947e0",
-                    "temporal": "2023-01-01/2023-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2023-12-01"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/eeb048d0-aad6-42b9-988c-487c8da947e0/data",
-                    "format": "API",
-                    "modified": "2024-11-27",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/eeb048d0-aad6-42b9-988c-487c8da947e0",
-                    "temporal": "2023-01-01/2023-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2023-12-01"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-12/6a6ecadc-477b-4117-8368-7b4cd4a0ee45/County_Level_FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2022_Offest_Assignable_2024_starters.csv",
-                    "mediaType": "text/csv",
-                    "modified": "2024-12-16",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/3cbafed5-9147-43b3-bc2e-ee7795fce4a4",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/61935d82-3df0-4798-869c-54bb918ec500",
                     "temporal": "2022-01-01/2022-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2022-12-19oc2"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2022-12-22oc2"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/3cbafed5-9147-43b3-bc2e-ee7795fce4a4/data",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/61935d82-3df0-4798-869c-54bb918ec500/data",
                     "format": "API",
-                    "modified": "2024-12-16",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/3cbafed5-9147-43b3-bc2e-ee7795fce4a4",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/61935d82-3df0-4798-869c-54bb918ec500",
                     "temporal": "2022-01-01/2022-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2022-12-19oc2"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2022-12-22oc2"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-12/9e8e9072-3195-4a6e-99fa-389adcf5457d/County_Level_FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2022_Cal_Year_Assignable_2024_Starters.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/ad1465d1-f20b-4095-b876-249a25269692/County_Level_FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2022_2024_2025_Starters_oc1.csv",
                     "mediaType": "text/csv",
-                    "modified": "2024-12-16",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/21b7288e-02a3-4d5b-b1a0-5a2cfebb5c2f",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/1f829fa5-5c29-4b2b-b84e-60090fbee6ef",
                     "temporal": "2022-01-01/2022-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2022-12-18oc1"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2022-12-21oc1"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/21b7288e-02a3-4d5b-b1a0-5a2cfebb5c2f/data",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/1f829fa5-5c29-4b2b-b84e-60090fbee6ef/data",
                     "format": "API",
-                    "modified": "2024-12-16",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/21b7288e-02a3-4d5b-b1a0-5a2cfebb5c2f",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/1f829fa5-5c29-4b2b-b84e-60090fbee6ef",
                     "temporal": "2022-01-01/2022-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2022-12-18oc1"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2022-12-21oc1"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-05/325ab21c-3fd5-4dc0-82d8-6fff5f32852f/County_Level%20FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2022_01_01.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/2bc9b8d0-ed48-421d-958a-390fea9c047b/County_Level_FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2022_2022_2023_Starters.csv",
                     "mediaType": "text/csv",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/ba11da80-56be-457d-af54-889733d0b413",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/ecf419a2-c297-4b3f-84f9-4eecaa5a5cf4",
                     "temporal": "2022-01-01/2022-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2022-12-15"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2022-12-20"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/ba11da80-56be-457d-af54-889733d0b413/data",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/ecf419a2-c297-4b3f-84f9-4eecaa5a5cf4/data",
                     "format": "API",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/ba11da80-56be-457d-af54-889733d0b413",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/ecf419a2-c297-4b3f-84f9-4eecaa5a5cf4",
                     "temporal": "2022-01-01/2022-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2022-12-15"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2022-12-20"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-04/05b6760f-73ec-46e1-9747-7db5d0352dc3/County_Level%20FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2021_01_01_Offset_Assignable_2024_Starters.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/289d37ad-8493-4bf6-90c9-cbed4c98d562/County_Level_FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2021_2024_2025_Starters_oc2.csv",
                     "mediaType": "text/csv",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/000ea270-0d91-4b2f-919a-7c0d78bcfc7e",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f5d02b15-b8dc-4114-b3c9-990f55a1c84f",
                     "temporal": "2021-01-01/2021-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2021-12-17oc2"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2021-12-20oc2"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/000ea270-0d91-4b2f-919a-7c0d78bcfc7e/data",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/f5d02b15-b8dc-4114-b3c9-990f55a1c84f/data",
                     "format": "API",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/000ea270-0d91-4b2f-919a-7c0d78bcfc7e",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f5d02b15-b8dc-4114-b3c9-990f55a1c84f",
                     "temporal": "2021-01-01/2021-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2021-12-17oc2"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2021-12-20oc2"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-04/86755826-2ecd-4aac-a19c-2e4bcdcc4977/County_Level%20FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2021_01_01_Cal_Year_Assignable_2024_Starters.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/be086731-28c2-4a47-9104-7912845312f1/County_Level_FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2021_2024_2025_Starters_oc1.csv",
                     "mediaType": "text/csv",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/54acabe4-aa6a-44f1-bd8c-55536bf6ea77",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/93624871-3110-45a0-8621-450fb52ac43e",
                     "temporal": "2021-01-01/2021-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2021-12-16oc1"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2021-12-19oc1"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/54acabe4-aa6a-44f1-bd8c-55536bf6ea77/data",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/93624871-3110-45a0-8621-450fb52ac43e/data",
                     "format": "API",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/54acabe4-aa6a-44f1-bd8c-55536bf6ea77",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/93624871-3110-45a0-8621-450fb52ac43e",
                     "temporal": "2021-01-01/2021-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2021-12-16oc1"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2021-12-19oc1"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-05/baf72a50-a6ab-431b-be00-c57785ad1d74/County_Level%20FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2021_01_01.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/900bc5a9-c57c-4fd3-a928-df496822150c/County_Level_FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2021_2022_2023_Starters.csv",
                     "mediaType": "text/csv",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/a4154831-7934-4d7e-9b23-3441fee564d7",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/19ba312f-3662-4c3c-9123-0bc97554cfd7",
                     "temporal": "2021-01-01/2021-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2021-12-15"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2021-12-18"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/a4154831-7934-4d7e-9b23-3441fee564d7/data",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/19ba312f-3662-4c3c-9123-0bc97554cfd7/data",
                     "format": "API",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/a4154831-7934-4d7e-9b23-3441fee564d7",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/19ba312f-3662-4c3c-9123-0bc97554cfd7",
                     "temporal": "2021-01-01/2021-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2021-12-15"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2021-12-18"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-05/b281a264-b4fe-4067-9b9e-9257abab4aca/County_Level%20FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2020_01_01.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/13cb2ca2-b5fc-4e23-893d-a34ab65a4945/County_Level_FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2020_2022_2023_Starters.csv",
                     "mediaType": "text/csv",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/7b181182-828c-4fa4-91bd-641759f6eddd",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/484a437d-d9f0-4a21-9ae5-c6e15faafacf",
                     "temporal": "2020-01-01/2020-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2020-12-15"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2020-12-16"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/7b181182-828c-4fa4-91bd-641759f6eddd/data",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/484a437d-d9f0-4a21-9ae5-c6e15faafacf/data",
                     "format": "API",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/7b181182-828c-4fa4-91bd-641759f6eddd",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/484a437d-d9f0-4a21-9ae5-c6e15faafacf",
                     "temporal": "2020-01-01/2020-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2020-12-15"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2020-12-16"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-05/0023dd41-f80a-416c-8063-ff562e329611/County_Level%20FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2019_01_01.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/e6ae28db-4e18-465e-9bdc-ffc3786975bf/County_Level_FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2019_2022_2023_Starters.csv",
                     "mediaType": "text/csv",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/28b6537c-c658-42bc-93b1-f2c32e8c00ae",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/1f3964d3-5f27-4b16-9e8f-808cf665452d",
                     "temporal": "2019-01-01/2019-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2019-01-15"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2019-12-16"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/28b6537c-c658-42bc-93b1-f2c32e8c00ae/data",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/1f3964d3-5f27-4b16-9e8f-808cf665452d/data",
                     "format": "API",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/28b6537c-c658-42bc-93b1-f2c32e8c00ae",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/1f3964d3-5f27-4b16-9e8f-808cf665452d",
                     "temporal": "2019-01-01/2019-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2019-01-15"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-05/dcb4a81d-9dcd-46ce-81c2-fcaa2fd09c89/County_Level%20FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2018_01_01.csv",
-                    "mediaType": "text/csv",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/c78d06dc-816d-46e4-821c-25a022c1096f",
-                    "temporal": "2018-01-01/2018-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2018-01-15"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/c78d06dc-816d-46e4-821c-25a022c1096f/data",
-                    "format": "API",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/c78d06dc-816d-46e4-821c-25a022c1096f",
-                    "temporal": "2018-01-01/2018-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2018-01-15"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-05/8700eb99-4430-4fae-9eb3-1649f96d99e1/County_Level%20FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2017_01_01.csv",
-                    "mediaType": "text/csv",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e60ff4ba-e1f3-4645-891e-bc5badf5e580",
-                    "temporal": "2017-01-01/2017-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2017-01-15"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/e60ff4ba-e1f3-4645-891e-bc5badf5e580/data",
-                    "format": "API",
-                    "modified": "2024-12-06",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e60ff4ba-e1f3-4645-891e-bc5badf5e580",
-                    "temporal": "2017-01-01/2017-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2017-01-15"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-05/eb5b1694-a3d2-4d8e-85b7-9925d5ff7f40/County_Level%20FFS_Data_for_Shared_Savings_Program_Benchmark_PUF_2016_01_01.csv",
-                    "mediaType": "text/csv",
-                    "modified": "2024-04-10",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/fe7b9822-f528-44b6-9ee7-5f65b86e1027",
-                    "temporal": "2016-01-01/2016-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2016-01-15"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/fe7b9822-f528-44b6-9ee7-5f65b86e1027/data",
-                    "format": "API",
-                    "modified": "2024-04-10",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/fe7b9822-f528-44b6-9ee7-5f65b86e1027",
-                    "temporal": "2016-01-01/2016-12-31",
-                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2016-01-15"
+                    "title": "County-level Aggregate Expenditure and Risk Score Data on Assignable Beneficiaries : 2019-12-16"
                 }
             ],
             "identifier": "https://data.cms.gov/data-api/v1/dataset/5f9f1216-6fd9-455d-bfbc-0efade687a4e/data-viewer",
@@ -1811,7 +1739,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-12-16",
+            "modified": "2025-05-06",
             "programCode": [
                 "009:000"
             ],
@@ -1822,7 +1750,7 @@
             "references": [
                 "https://data.cms.gov/resources/county-level-aggregate-expenditure-and-risk-score-data-on-assignable-beneficiaries-methodology"
             ],
-            "temporal": "2016-01-01/2023-12-31",
+            "temporal": "2019-01-01/2023-12-31",
             "theme": [
                 "Medicare"
             ],
@@ -9092,10 +9020,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/31f25ab6-2fe3-4bad-ac5a-90635ed79935/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-04-28",
+                    "modified": "2025-05-06",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/31f25ab6-2fe3-4bad-ac5a-90635ed79935",
-                    "temporal": "2025-04-06/2025-04-19",
-                    "title": "Home Infusion Therapy Providers : 2025-04-22"
+                    "temporal": "2025-04-20/2025-05-03",
+                    "title": "Home Infusion Therapy Providers : 2025-05-06"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-05/7cabd654-b6fb-4ba0-ac68-2e8a3db62524/Home%20Infusion%20Therapy%205.5.2025.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/a163df26-5d05-4964-9697-a91efb4bad71",
+                    "temporal": "2025-04-20/2025-05-03",
+                    "title": "Home Infusion Therapy Providers : 2025-05-06"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/a163df26-5d05-4964-9697-a91efb4bad71/data",
+                    "format": "API",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/a163df26-5d05-4964-9697-a91efb4bad71",
+                    "temporal": "2025-04-20/2025-05-03",
+                    "title": "Home Infusion Therapy Providers : 2025-05-06"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -9997,7 +9943,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-04-28",
+            "modified": "2025-05-06",
             "programCode": [
                 "009:000"
             ],
@@ -10008,7 +9954,7 @@
             "references": [
                 "https://data.cms.gov/resources/home-infusion-therapy-providers-methodology"
             ],
-            "temporal": "2023-05-07/2025-04-19",
+            "temporal": "2023-05-07/2025-05-03",
             "theme": [
                 "Medicare"
             ],
@@ -13920,12 +13866,31 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-05/e7df9718-1f77-409d-a739-e8a398e2a068/MDPP_Supplier_Mapping_05.05.25.csv",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/a15c198e-4cf3-46ab-a30e-15c69bd13edd/data",
+                    "description": "latest",
+                    "format": "API",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/a15c198e-4cf3-46ab-a30e-15c69bd13edd",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Medicare Diabetes Prevention Program : 2025-05-06"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-05/46785e2e-00a6-4591-b5bf-3f9890dd67c3/MDPP_Supplier_Mapping_05.05.25.csv",
                     "mediaType": "text/csv",
-                    "modified": "2025-04-15",
+                    "modified": "2025-05-06",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/84f9514b-815e-4bda-9323-e65cff0ed5c3",
                     "temporal": "2025-04-01/2025-06-30",
-                    "title": "Medicare Diabetes Prevention Program : 2025-04-15"
+                    "title": "Medicare Diabetes Prevention Program : 2025-05-06"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/84f9514b-815e-4bda-9323-e65cff0ed5c3/data",
+                    "format": "API",
+                    "modified": "2025-05-06",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/84f9514b-815e-4bda-9323-e65cff0ed5c3",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Medicare Diabetes Prevention Program : 2025-05-06"
                 }
             ],
             "identifier": "https://data.cms.gov/data-api/v1/dataset/a15c198e-4cf3-46ab-a30e-15c69bd13edd/data-viewer",
@@ -13941,7 +13906,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-04-15",
+            "modified": "2025-05-06",
             "programCode": [
                 "009:000"
             ],
