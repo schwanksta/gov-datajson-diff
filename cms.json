@@ -4406,10 +4406,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/d086edc0-4953-4fb9-a663-b35526371add/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-04-02",
+                    "modified": "2025-05-07",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/d086edc0-4953-4fb9-a663-b35526371add",
-                    "temporal": "2024-10-01/2024-12-31",
-                    "title": "Facility-Level Minimum Data Set Frequency : 2024-12-02"
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Facility-Level Minimum Data Set Frequency : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/344cb55a-1edb-4a6b-9fe7-0d28122f8aeb/MDS_Facility_Level_2025_Q1.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-05-07",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/5c07bdd3-b1b2-4c2e-89e8-9452bdd05287",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Facility-Level Minimum Data Set Frequency : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/5c07bdd3-b1b2-4c2e-89e8-9452bdd05287/data",
+                    "format": "API",
+                    "modified": "2025-05-07",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/5c07bdd3-b1b2-4c2e-89e8-9452bdd05287",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Facility-Level Minimum Data Set Frequency : 2025-01-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -4513,7 +4531,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-04-02",
+            "modified": "2025-05-07",
             "programCode": [
                 "009:000"
             ],
@@ -4524,7 +4542,7 @@
             "references": [
                 "https://data.cms.gov/resources/facility-level-minimum-data-set-frequency-methodology"
             ],
-            "temporal": "2023-10-01/2024-12-31",
+            "temporal": "2023-10-01/2025-03-31",
             "theme": [
                 "Medicare"
             ],
@@ -12885,10 +12903,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/129a6503-c0f1-4132-b186-4c0232c2d894/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-04-02",
+                    "modified": "2025-05-07",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/129a6503-c0f1-4132-b186-4c0232c2d894",
-                    "temporal": "2024-10-01/2024-12-31",
-                    "title": "Long-Term Care Facility Characteristics : 2024-10-01"
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Long-Term Care Facility Characteristics : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/dd156198-7c81-4ab2-9166-2802592a4178/Form_671_Q1_2025_Complete.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-05-07",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/74afdefb-3215-4416-b52b-9cc186b8c2a6",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Long-Term Care Facility Characteristics : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/74afdefb-3215-4416-b52b-9cc186b8c2a6/data",
+                    "format": "API",
+                    "modified": "2025-05-07",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/74afdefb-3215-4416-b52b-9cc186b8c2a6",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Long-Term Care Facility Characteristics : 2025-01-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -12994,7 +13030,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-04-02",
+            "modified": "2025-05-07",
             "programCode": [
                 "009:000"
             ],
@@ -13005,7 +13041,7 @@
             "references": [
                 "https://data.cms.gov/resources/long-term-care-facility-characteristics-methodology"
             ],
-            "temporal": "2023-10-01/2024-12-31",
+            "temporal": "2023-10-01/2025-03-31",
             "theme": [
                 "Medicare"
             ],
