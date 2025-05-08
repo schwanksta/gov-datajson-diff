@@ -56941,20 +56941,36 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "bureauCode": [
+                "029:15"
+            ],
             "contactPoint": {
                 "@type": "vcard:Contact",
-                "fn": "Rebecca Matteo",
-                "hasEmail": "mailto:no-reply@ptsd-va.data.socrata.com"
+                "fn": "National Center for PTSD",
+                "hasEmail": "mailto:ncptsd@va.gov"
             },
             "description": "The resources on this page support learning about PTSD and effective treatments, providing treatment, and doing research using PTSD Repository data.",
             "identifier": "https://www.data.va.gov/api/views/m3dj-txsh",
             "issued": "2024-03-27",
+            "keyword": [
+                "ptsd",
+                "ptsd-repository",
+                "resources"
+            ],
             "landingPage": "https://www.data.va.gov/d/m3dj-txsh",
-            "modified": "2024-12-18",
+            "modified": "2025-05-08",
+            "programCode": [
+                "029:000"
+            ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "www.data.va.gov"
+                "name": "National Center for PTSD"
             },
+            "rights": "All data is within the public domain and is currently available for download.",
+            "theme": [
+                "PTSD-Repository"
+            ],
             "title": "Other Resources"
         },
         {
