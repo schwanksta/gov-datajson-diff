@@ -12113,10 +12113,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/6a3aa708-3c9d-411a-a1a4-e046d3ade7ef/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-02-06",
+                    "modified": "2025-05-12",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/6a3aa708-3c9d-411a-a1a4-e046d3ade7ef",
-                    "temporal": "2024-10-01/2024-12-31",
-                    "title": "Hospital Price Transparency Enforcement Activities and Outcomes : 2024-12-01"
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Hospital Price Transparency Enforcement Activities and Outcomes : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/2960c8fd-984f-48a3-9bf2-f156f8e90f80/Hospital%20Price%20Transparency_All%20Enforcement%20Actions_Q1_2025.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-05-12",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/cc1d750a-5988-436c-aa49-6dcd68dbc062",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Hospital Price Transparency Enforcement Activities and Outcomes : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/cc1d750a-5988-436c-aa49-6dcd68dbc062/data",
+                    "format": "API",
+                    "modified": "2025-05-12",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/cc1d750a-5988-436c-aa49-6dcd68dbc062",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Hospital Price Transparency Enforcement Activities and Outcomes : 2025-01-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -12202,7 +12220,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-02-06",
+            "modified": "2025-05-12",
             "programCode": [
                 "009:000"
             ],
@@ -12213,7 +12231,7 @@
             "references": [
                 "https://data.cms.gov/resources/hospital-price-transparency-enforcement-activities-and-outcomes-methodology"
             ],
-            "temporal": "2023-10-01/2024-12-31",
+            "temporal": "2023-10-01/2025-03-31",
             "theme": [
                 "Medicare"
             ],
