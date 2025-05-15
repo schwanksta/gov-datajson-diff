@@ -87590,7 +87590,7 @@
                 "vetpop"
             ],
             "landingPage": "https://www.data.va.gov/d/xayc-j8g6",
-            "modified": "2025-04-24",
+            "modified": "2025-05-14",
             "programCode": [
                 "Office of Enterprise Integration"
             ],
@@ -88957,6 +88957,65 @@
                 "name": "Department of Veterans Affairs"
             },
             "title": "NCVAS State Summary Louisiana FY2023"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "bureauCode": [
+                "029:00"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "National Center for Veterans Analysis and Statistics",
+                "hasEmail": "mailto:VACONCVAS@VA.GOV"
+            },
+            "description": "The Department of Veterans Affairs provides official estimates and projections of the Veteran population using the Veteran Population Projection Model (VetPop). Based on the available information through September 30, 2023, the latest model VetPop2023 estimated the Veteran population for the period from 2000 to 2023. The \u201cNumber of Estimated Veterans by Sex and 15 Age Groups, 9/30/2000 to 9/30/2023\u201d data table shows the number of living Veterans at the end of each fiscal year from 2000 to 2023.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://www.data.va.gov/api/views/y4w4-egzx/rows.csv?accessType=DOWNLOAD",
+                    "mediaType": "text/csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/y4w4-egzx/columns.rdf",
+                    "describedByType": "application/rdf+xml",
+                    "downloadURL": "https://www.data.va.gov/api/views/y4w4-egzx/rows.rdf?accessType=DOWNLOAD",
+                    "mediaType": "application/rdf+xml"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/y4w4-egzx/columns.json",
+                    "describedByType": "application/json",
+                    "downloadURL": "https://www.data.va.gov/api/views/y4w4-egzx/rows.json?accessType=DOWNLOAD",
+                    "mediaType": "application/json"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/y4w4-egzx/columns.xml",
+                    "describedByType": "application/xml",
+                    "downloadURL": "https://www.data.va.gov/api/views/y4w4-egzx/rows.xml?accessType=DOWNLOAD",
+                    "mediaType": "application/xml"
+                }
+            ],
+            "identifier": "https://www.data.va.gov/api/views/y4w4-egzx",
+            "issued": "2025-05-14",
+            "keyword": [
+                "veteran population",
+                "vetpop",
+                "vetpop2023"
+            ],
+            "landingPage": "https://www.data.va.gov/d/y4w4-egzx",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "modified": "2025-05-14",
+            "programCode": [
+                "029:086"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Department of Veterans Affairs"
+            },
+            "title": "VetPop2023 National Estimates by Sex and Age Groups 2000 to 2023"
         },
         {
             "@type": "dcat:Dataset",
