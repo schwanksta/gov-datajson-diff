@@ -11166,10 +11166,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/c04031db-54ce-461c-85d1-d2613d71f167/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-01-15",
+                    "modified": "2025-05-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/c04031db-54ce-461c-85d1-d2613d71f167",
-                    "temporal": "2024-10-01/2024-12-31",
-                    "title": "Hospital Change of Ownership : 2024-12-01"
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Hospital Change of Ownership : 2025-03-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-05/211e6b65-6a6d-4e08-8ef2-1735ab22ffd6/Hospital_CHOW_2025.04.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-05-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/1e14cc57-1490-4640-8eba-547e042858b3",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Hospital Change of Ownership : 2025-03-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/1e14cc57-1490-4640-8eba-547e042858b3/data",
+                    "format": "API",
+                    "modified": "2025-05-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/1e14cc57-1490-4640-8eba-547e042858b3",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Hospital Change of Ownership : 2025-03-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -11401,7 +11419,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-01-15",
+            "modified": "2025-05-15",
             "programCode": [
                 "009:000"
             ],
@@ -11412,7 +11430,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-10/Hospital_CHOW_Data_Guidance.pdf"
             ],
-            "temporal": "2022-01-01/2024-12-31",
+            "temporal": "2022-01-01/2025-03-31",
             "theme": [
                 "Medicare"
             ],
@@ -11440,10 +11458,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/60625dc8-b621-45f0-9423-077fd133b13e/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-01-15",
+                    "modified": "2025-05-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/60625dc8-b621-45f0-9423-077fd133b13e",
-                    "temporal": "2024-10-01/2024-12-31",
-                    "title": "Hospital Change of Ownership - Owner Information : 2024-12-01"
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Hospital Change of Ownership - Owner Information : 2025-03-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-05/5af7a510-ed7c-48ab-a61e-7bcd0c88550e/Hospital_CHOW_Owners_2025.04.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-05-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/4170c64a-8b5a-4eba-933a-5d59e63b2ff1",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Hospital Change of Ownership - Owner Information : 2025-03-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/4170c64a-8b5a-4eba-933a-5d59e63b2ff1/data",
+                    "format": "API",
+                    "modified": "2025-05-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/4170c64a-8b5a-4eba-933a-5d59e63b2ff1",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Hospital Change of Ownership - Owner Information : 2025-03-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -11675,7 +11711,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-01-15",
+            "modified": "2025-05-15",
             "programCode": [
                 "009:000"
             ],
@@ -11686,7 +11722,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-10/Hospital_CHOW_Data_Guidance.pdf"
             ],
-            "temporal": "2022-01-01/2024-12-31",
+            "temporal": "2022-01-01/2025-03-31",
             "theme": [
                 "Medicare"
             ],
