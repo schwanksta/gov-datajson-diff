@@ -78753,6 +78753,51 @@
             "accessLevel": "public",
             "accrualPeriodicity": "R/P1Y",
             "bureauCode": [
+                "029:15"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "National Center for PTSD",
+                "hasEmail": "mailto:ncptsd@va.gov"
+            },
+            "description": "The U.S. Department of Veterans Affairs (VA) has established a long-term partnership to commission AHRQ to utilize its Evidence-based Practice Centers to develop update reviews to inform the VA\u2019s PTSD Repository \u2013 a publicly accessible clinical trials database maintained by the National Center for PTSD (NCPTSD).\n\nThe 2024 Report, Executive Summary, Evidence Tables (Appendix E), and Disposition of Comments are included in the downloadable .zip file. For more information, visit AHRQ's page: https://effectivehealthcare.ahrq.gov/products/ptsd-pharm-non-pharm-treatment-update/research",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://www.data.va.gov/download/uq7h-775z/application/x-zip-compressed",
+                    "mediaType": "application/x-zip-compressed"
+                }
+            ],
+            "identifier": "https://www.data.va.gov/api/views/uq7h-775z",
+            "issued": "2025-05-16",
+            "keyword": [
+                "ahrq report",
+                "ahrq"
+            ],
+            "landingPage": "https://www.ptsd.va.gov/repository",
+            "language": [
+                "en-US"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-05-16",
+            "programCode": [
+                "029:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "National Center for PTSD"
+            },
+            "rights": "All data is within the public domain and is currently available for download.",
+            "theme": [
+                "PTSD-Repository"
+            ],
+            "title": "AHRQ Report and Data Files (2024): Pharmacologic and Nonpharmacologic Treatments for Posttraumatic Stress Disorder (Update)"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "bureauCode": [
                 "029:00"
             ],
             "contactPoint": {
@@ -85628,20 +85673,43 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "bureauCode": [
+                "029:15"
+            ],
             "contactPoint": {
                 "@type": "vcard:Contact",
-                "fn": "Rebecca Matteo",
-                "hasEmail": "mailto:no-reply@ptsd-va.data.socrata.com"
+                "fn": "National Center for PTSD",
+                "hasEmail": "mailto:ncptsd@va.gov"
             },
             "description": "Access an article reviewing the development of the PTSD Repository as well as meta-analyses and journal articles that use PTSD Repository data.",
             "identifier": "https://www.data.va.gov/api/views/wjcc-nyd8",
             "issued": "2024-03-27",
-            "landingPage": "https://www.data.va.gov/d/wjcc-nyd8",
-            "modified": "2025-01-31",
+            "keyword": [
+                "publication",
+                "manuscript",
+                "ptsd",
+                "systematic review",
+                "meta-analysis",
+                "ptsd repository",
+                "ptsd-repository"
+            ],
+            "landingPage": "https://www.ptsd.va.gov/repository",
+            "language": [
+                "en-US"
+            ],
+            "modified": "2025-05-16",
+            "programCode": [
+                "029:000"
+            ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "www.data.va.gov"
+                "name": "National Center for PTSD"
             },
+            "rights": "All data is within the public domain and is currently available for download.",
+            "theme": [
+                "PTSD-Repository"
+            ],
             "title": "Publications"
         },
         {
