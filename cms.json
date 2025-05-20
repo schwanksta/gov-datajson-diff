@@ -9182,10 +9182,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/31f25ab6-2fe3-4bad-ac5a-90635ed79935/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-06",
+                    "modified": "2025-05-20",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/31f25ab6-2fe3-4bad-ac5a-90635ed79935",
-                    "temporal": "2025-04-20/2025-05-03",
-                    "title": "Home Infusion Therapy Providers : 2025-05-06"
+                    "temporal": "2025-05-04/2025-05-17",
+                    "title": "Home Infusion Therapy Providers : 2025-05-20"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-05/b8c3feb4-4b4c-49a9-a911-e9c660625103/Home%20Infusion%20Therapy%205.19.2025.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-05-20",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/96e7af0f-c3aa-448b-ab09-0f6ef79095c4",
+                    "temporal": "2025-05-04/2025-05-17",
+                    "title": "Home Infusion Therapy Providers : 2025-05-20"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/96e7af0f-c3aa-448b-ab09-0f6ef79095c4/data",
+                    "format": "API",
+                    "modified": "2025-05-20",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/96e7af0f-c3aa-448b-ab09-0f6ef79095c4",
+                    "temporal": "2025-05-04/2025-05-17",
+                    "title": "Home Infusion Therapy Providers : 2025-05-20"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -10105,7 +10123,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-06",
+            "modified": "2025-05-20",
             "programCode": [
                 "009:000"
             ],
@@ -10116,7 +10134,7 @@
             "references": [
                 "https://data.cms.gov/resources/home-infusion-therapy-providers-methodology"
             ],
-            "temporal": "2023-05-07/2025-05-03",
+            "temporal": "2023-05-07/2025-05-17",
             "theme": [
                 "Medicare"
             ],
@@ -24562,10 +24580,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/261b83b6-b89f-43ad-ae7b-0d419a3bc24b/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-16",
+                    "modified": "2025-05-20",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/261b83b6-b89f-43ad-ae7b-0d419a3bc24b",
-                    "temporal": "2025-05-04/2025-05-10",
-                    "title": "Pending Initial Logging and Tracking Non Physicians : 2025-05-16"
+                    "temporal": "2025-05-11/2025-05-17",
+                    "title": "Pending Initial Logging and Tracking Non Physicians : 2025-05-20"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-05/034964ee-4d82-4436-a244-ee967693c50c/PendingInitialLandTsNonPhysicians_20250519.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-05-20",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/b2cff495-8b04-4583-a842-56d514400863",
+                    "temporal": "2025-05-11/2025-05-17",
+                    "title": "Pending Initial Logging and Tracking Non Physicians : 2025-05-20"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/b2cff495-8b04-4583-a842-56d514400863/data",
+                    "format": "API",
+                    "modified": "2025-05-20",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/b2cff495-8b04-4583-a842-56d514400863",
+                    "temporal": "2025-05-11/2025-05-17",
+                    "title": "Pending Initial Logging and Tracking Non Physicians : 2025-05-20"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -28234,7 +28270,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-16",
+            "modified": "2025-05-20",
             "programCode": [
                 "009:000"
             ],
@@ -28245,7 +28281,7 @@
             "references": [
                 "https://data.cms.gov/resources/pending-initial-logging-and-tracking-physician-and-non-physicians-methodology"
             ],
-            "temporal": "2023-05-21/2025-05-10",
+            "temporal": "2023-05-21/2025-05-17",
             "theme": [
                 "Medicare"
             ],
@@ -28272,10 +28308,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/6bd6b1dd-208c-4f9c-88b8-b15fec6db548/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-16",
+                    "modified": "2025-05-20",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/6bd6b1dd-208c-4f9c-88b8-b15fec6db548",
-                    "temporal": "2025-05-04/2025-05-10",
-                    "title": "Pending Initial Logging and Tracking Physicians : 2025-05-16"
+                    "temporal": "2025-05-11/2025-05-17",
+                    "title": "Pending Initial Logging and Tracking Physicians : 2025-05-20"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-05/186ed2e8-89c8-45ab-b6e5-078c42376349/PendingInitialLandTsPhysicians_20250519.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-05-20",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/d1d4c4b6-0e69-49ed-b8f0-a0194ff46d1c",
+                    "temporal": "2025-05-11/2025-05-17",
+                    "title": "Pending Initial Logging and Tracking Physicians : 2025-05-20"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/d1d4c4b6-0e69-49ed-b8f0-a0194ff46d1c/data",
+                    "format": "API",
+                    "modified": "2025-05-20",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/d1d4c4b6-0e69-49ed-b8f0-a0194ff46d1c",
+                    "temporal": "2025-05-11/2025-05-17",
+                    "title": "Pending Initial Logging and Tracking Physicians : 2025-05-20"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -31944,7 +31998,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-16",
+            "modified": "2025-05-20",
             "programCode": [
                 "009:000"
             ],
@@ -31955,7 +32009,7 @@
             "references": [
                 "https://data.cms.gov/resources/pending-initial-logging-and-tracking-physician-and-non-physicians-methodology"
             ],
-            "temporal": "2023-05-21/2025-05-10",
+            "temporal": "2023-05-21/2025-05-17",
             "theme": [
                 "Medicare"
             ],
