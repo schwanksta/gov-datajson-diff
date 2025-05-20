@@ -12088,6 +12088,33 @@
             "accessLevel": "public",
             "accrualPeriodicity": "R/P1Y",
             "bureauCode": [
+                "029:15"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "National Center for PTSD",
+                "hasEmail": "mailto:ncptsd@va.gov"
+            },
+            "description": "Explore Treatments for PTSD",
+            "identifier": "https://www.data.va.gov/api/views/5nxg-wbsi",
+            "issued": "2025-03-26",
+            "landingPage": "https://www.data.va.gov/d/5nxg-wbsi",
+            "modified": "2025-05-16",
+            "programCode": [
+                "029:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "National Center for PTSD"
+            },
+            "rights": "All data is within the public domain and is currently available for download.",
+            "title": "PTSD Treatment Briefs Tool"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "bureauCode": [
                 "029:00"
             ],
             "contactPoint": {
