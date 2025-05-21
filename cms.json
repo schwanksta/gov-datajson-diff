@@ -13822,10 +13822,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/a93f5362-2fe6-4b4d-8260-118be0d618e0/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2024-12-13",
+                    "modified": "2025-05-21",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/a93f5362-2fe6-4b4d-8260-118be0d618e0",
-                    "temporal": "2023-10-01/2023-12-31",
-                    "title": "Medicaid Managed Care : 2023-12-01"
+                    "temporal": "2024-10-01/2024-12-31",
+                    "title": "Medicaid Managed Care : 2024-10-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-05/74829b2b-661d-4451-82b7-0e7718afc624/Final%20Dashboard%20Data%20March%202025.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-05-21",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/2acbc1b2-58dc-40c8-932f-0a55da48a6dd",
+                    "temporal": "2024-10-01/2024-12-31",
+                    "title": "Medicaid Managed Care : 2024-10-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/2acbc1b2-58dc-40c8-932f-0a55da48a6dd/data",
+                    "format": "API",
+                    "modified": "2025-05-21",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/2acbc1b2-58dc-40c8-932f-0a55da48a6dd",
+                    "temporal": "2024-10-01/2024-12-31",
+                    "title": "Medicaid Managed Care : 2024-10-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -13859,7 +13877,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-12-13",
+            "modified": "2025-05-21",
             "programCode": [
                 "009:000"
             ],
@@ -13870,7 +13888,7 @@
             "references": [
                 "https://data.cms.gov/resources/medicaid-managed-care-methodology"
             ],
-            "temporal": "2023-10-01/2023-12-31",
+            "temporal": "2023-10-01/2024-12-31",
             "theme": [
                 "Medicaid"
             ],
