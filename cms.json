@@ -13661,36 +13661,36 @@
                 "hasEmail": "mailto:MarketSaturation@cms.hhs.gov"
             },
             "dataQuality": true,
-            "describedBy": "https://data.cms.gov/resources/market-saturation-utilization-core-based-statistical-area-data-dictionary",
-            "description": "The Market Saturation and Utilization Core-Based Statistical Areas (CBSA) dataset provides monitoring of market saturation as a means to help prevent potential fraud, waste, and abuse (FWA). CBSAs are geographical delineations that are Census Bureau-defined urban clusters of at least 10,000 people. Market saturation, in the present context, refers to the density of providers of a particular service within a defined geographic area relative to the number of beneficiaries receiving that service in the area. The data can be used to reveal the degree to which use of a service is related to the number of providers servicing a geographic region. There are also a number of secondary research uses for these data, but one objective of making these data public is to assist health care providers in making informed decisions about their service locations and the beneficiary population they serve.\n\nThe interactive dataset can be filtered and analyzed on the site or downloaded in Excel format.",
+            "describedBy": "https://data.cms.gov/resources/market-saturation-utilization-core-based-statistical-areas-data-dictionary",
+            "description": "The Market Saturation and Utilization Core-Based Statistical Areas (CBSA) dataset provides monitoring of market saturation. CBSAs are geographical delineations that are Census Bureau-defined urban clusters of at least 10,000 people. Market saturation, in the present context, refers to the density of providers of a particular service within a defined geographic area relative to the number of beneficiaries receiving that service in the area. The data can be used to reveal the degree to which use of a service is related to the number of providers servicing a geographic region. There are also a number of secondary research uses for these data, but one objective of making these data public is to assist health care providers in making informed decisions about their service locations and the beneficiary population they serve.\n\nThe interactive dataset can be filtered and analyzed on the site or downloaded in Excel format.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/9b0e7798-d945-48fc-9861-d38bb5083a74/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2024-10-31",
+                    "modified": "2025-05-21",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/9b0e7798-d945-48fc-9861-d38bb5083a74",
-                    "temporal": "2023-01-01/2023-12-31",
-                    "title": "Market Saturation & Utilization Core-Based Statistical Areas : 2023-12-04"
+                    "temporal": "2024-01-01/2024-12-31",
+                    "title": "Market Saturation & Utilization Core-Based Statistical Areas : 2024-12-01"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-10/c7a402bc-2391-41cf-89f6-1e04f739ce86/Market_Saturation_and_Utilization_CBSA_Dataset_Release_19_20241025.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-03/890205f0-2c13-47cc-b77a-e7e4b09b60f2/Market_Saturation_and_Utilization_CBSA_Dataset_Release_20_20250122.csv",
                     "mediaType": "text/csv",
-                    "modified": "2024-10-31",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/ec13a93f-3d70-409f-8bc1-9e5df5bb95bc",
-                    "temporal": "2023-01-01/2023-12-31",
-                    "title": "Market Saturation & Utilization Core-Based Statistical Areas : 2023-12-04"
+                    "modified": "2025-05-21",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/47737710-bd4b-4b2d-87cc-f588bc010bfb",
+                    "temporal": "2024-01-01/2024-12-31",
+                    "title": "Market Saturation & Utilization Core-Based Statistical Areas : 2024-12-01"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/ec13a93f-3d70-409f-8bc1-9e5df5bb95bc/data",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/47737710-bd4b-4b2d-87cc-f588bc010bfb/data",
                     "format": "API",
-                    "modified": "2024-10-31",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/ec13a93f-3d70-409f-8bc1-9e5df5bb95bc",
-                    "temporal": "2023-01-01/2023-12-31",
-                    "title": "Market Saturation & Utilization Core-Based Statistical Areas : 2023-12-04"
+                    "modified": "2025-05-21",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/47737710-bd4b-4b2d-87cc-f588bc010bfb",
+                    "temporal": "2024-01-01/2024-12-31",
+                    "title": "Market Saturation & Utilization Core-Based Statistical Areas : 2024-12-01"
                 }
             ],
             "identifier": "https://data.cms.gov/data-api/v1/dataset/9b0e7798-d945-48fc-9861-d38bb5083a74/data-viewer",
@@ -13707,7 +13707,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-10-31",
+            "modified": "2025-05-21",
             "programCode": [
                 "009:000"
             ],
@@ -13718,7 +13718,7 @@
             "references": [
                 "https://data.cms.gov/resources/market-saturation-utilization-core-based-statistical-areas-methodology"
             ],
-            "temporal": "2023-01-01/2023-12-31",
+            "temporal": "2024-01-01/2024-12-31",
             "theme": [
                 "Medicare"
             ],
@@ -13738,35 +13738,35 @@
             },
             "dataQuality": true,
             "describedBy": "https://data.cms.gov/resources/market-saturation-utilization-state-county-data-dictionary",
-            "description": "The Market Saturation and Utilization State-County dataset provides monitoring of market saturation as a means to help prevent potential fraud, waste, and abuse (FWA). Market saturation, in the present context, refers to the density of providers of a particular service within a defined geographic area relative to the number of beneficiaries receiving that service in the area. The data can be used to reveal the degree to which use of a service is related to the number of providers servicing a geographic region. There are also a number of secondary research uses for these data, but one objective of making these data public is to assist health care providers in making informed decisions about their service locations and the beneficiary population they serve.\n\nThe interactive dataset can be filtered and analyzed on the site or downloaded in Excel format.",
+            "description": "The Market Saturation and Utilization State-County dataset provides monitoring of market saturation. Market saturation, in the present context, refers to the density of providers of a particular service within a defined geographic area relative to the number of beneficiaries receiving that service in the area. The data can be used to reveal the degree to which use of a service is related to the number of providers servicing a geographic region. There are also a number of secondary research uses for these data, but one objective of making these data public is to assist health care providers in making informed decisions about their service locations and the beneficiary population they serve.\n\nThe interactive dataset can be filtered and analyzed on the site or downloaded in Excel format.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/8900b9c5-50b7-43de-9bdd-0d7113a8355e/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2024-10-31",
+                    "modified": "2025-05-21",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/8900b9c5-50b7-43de-9bdd-0d7113a8355e",
-                    "temporal": "2023-01-01/2023-12-31",
-                    "title": "Market Saturation & Utilization State-County : 2023-12-04"
+                    "temporal": "2024-01-01/2024-12-31",
+                    "title": "Market Saturation & Utilization State-County : 2024-12-01"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2024-10/2d36512e-1caa-45e3-b277-ea1aeed22a9a/Market_Saturation_and_Utilization_State_County_Dataset_Release_19_20241025.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-03/65d88dc5-606d-4631-800c-f90e7ca2fbe9/Market_Saturation_and_Utilization_State_County_Dataset_Release_20_20250122.csv",
                     "mediaType": "text/csv",
-                    "modified": "2024-10-31",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f040c43c-4b7f-43df-ba0d-9596aaf691fa",
-                    "temporal": "2023-01-01/2023-12-31",
-                    "title": "Market Saturation & Utilization State-County : 2023-12-04"
+                    "modified": "2025-05-21",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/d176f42c-9cda-434e-b5b4-a7248ba8cd86",
+                    "temporal": "2024-01-01/2024-12-31",
+                    "title": "Market Saturation & Utilization State-County : 2024-12-01"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/f040c43c-4b7f-43df-ba0d-9596aaf691fa/data",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/d176f42c-9cda-434e-b5b4-a7248ba8cd86/data",
                     "format": "API",
-                    "modified": "2024-10-31",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f040c43c-4b7f-43df-ba0d-9596aaf691fa",
-                    "temporal": "2023-01-01/2023-12-31",
-                    "title": "Market Saturation & Utilization State-County : 2023-12-04"
+                    "modified": "2025-05-21",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/d176f42c-9cda-434e-b5b4-a7248ba8cd86",
+                    "temporal": "2024-01-01/2024-12-31",
+                    "title": "Market Saturation & Utilization State-County : 2024-12-01"
                 }
             ],
             "identifier": "https://data.cms.gov/data-api/v1/dataset/8900b9c5-50b7-43de-9bdd-0d7113a8355e/data-viewer",
@@ -13784,7 +13784,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-10-31",
+            "modified": "2025-05-21",
             "programCode": [
                 "009:000"
             ],
@@ -13795,7 +13795,7 @@
             "references": [
                 "https://data.cms.gov/resources/market-saturation-utilization-state-county-methodology"
             ],
-            "temporal": "2023-01-01/2023-12-31",
+            "temporal": "2024-01-01/2024-12-31",
             "theme": [
                 "Medicare"
             ],
