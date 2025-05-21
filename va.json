@@ -72216,6 +72216,63 @@
         },
         {
             "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "bureauCode": [
+                "029:25"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "PA&I Tom Elwell",
+                "hasEmail": "mailto:pai.vbaco@va.gov"
+            },
+            "description": "This data set provides a count of Veterans in receipt of pension benefits on the rolls at the end of FY 2024 by Period of Service (POS) and residence (state or foreign country)",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://www.data.va.gov/api/views/sdqc-bme7/rows.csv?accessType=DOWNLOAD",
+                    "mediaType": "text/csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/sdqc-bme7/columns.rdf",
+                    "describedByType": "application/rdf+xml",
+                    "downloadURL": "https://www.data.va.gov/api/views/sdqc-bme7/rows.rdf?accessType=DOWNLOAD",
+                    "mediaType": "application/rdf+xml"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/sdqc-bme7/columns.json",
+                    "describedByType": "application/json",
+                    "downloadURL": "https://www.data.va.gov/api/views/sdqc-bme7/rows.json?accessType=DOWNLOAD",
+                    "mediaType": "application/json"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "describedBy": "https://www.data.va.gov/api/views/sdqc-bme7/columns.xml",
+                    "describedByType": "application/xml",
+                    "downloadURL": "https://www.data.va.gov/api/views/sdqc-bme7/rows.xml?accessType=DOWNLOAD",
+                    "mediaType": "application/xml"
+                }
+            ],
+            "identifier": "https://www.data.va.gov/api/views/sdqc-bme7",
+            "issued": "2025-05-21",
+            "landingPage": "https://www.data.va.gov/d/sdqc-bme7",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "modified": "2025-05-21",
+            "programCode": [
+                "029:003"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Department of Veterans Affairs"
+            },
+            "theme": [
+                "M-23-22"
+            ],
+            "title": "VBA Pension Recipients by POS and Residence 2024"
+        },
+        {
+            "@type": "dcat:Dataset",
             "accessLevel": "non-public",
             "bureauCode": [
                 "029:40"
