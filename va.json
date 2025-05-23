@@ -74662,20 +74662,42 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "bureauCode": [
+                "029:15"
+            ],
             "contactPoint": {
                 "@type": "vcard:Contact",
-                "fn": "Rebecca Matteo",
-                "hasEmail": "mailto:no-reply@ptsd-va.data.socrata.com"
+                "fn": "National Center for PTSD",
+                "hasEmail": "mailto:ncptsd@va.gov"
             },
-            "description": "The PTSD Repository is a useful tool for staying up-to-date with PTSD clinical trials research, to inform your work and to support patient education.",
+            "dataQuality": true,
+            "description": "The PTSD Repository is a useful platform for staying up-to-date with PTSD clinical trials research, to inform your work, and to support patient education.",
             "identifier": "https://www.data.va.gov/api/views/t65f-tiwq",
             "issued": "2023-12-13",
-            "landingPage": "https://www.data.va.gov/d/t65f-tiwq",
-            "modified": "2024-09-05",
+            "keyword": [
+                "provider",
+                "clinician",
+                "ptsd treatment",
+                "treatment brief"
+            ],
+            "landingPage": "https://www.ptsd.va.gov/repository",
+            "language": [
+                "en-US"
+            ],
+            "modified": "2025-05-23",
+            "programCode": [
+                "029:000"
+            ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "www.data.va.gov"
+                "name": "National Center for PTSD"
             },
+            "rights": "All data is within the public domain and is currently available for download.",
+            "spatial": "International",
+            "theme": [
+                "PTSD Randomized Controlled Trials"
+            ],
             "title": "For Providers"
         },
         {
