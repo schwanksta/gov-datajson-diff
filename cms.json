@@ -24859,10 +24859,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/261b83b6-b89f-43ad-ae7b-0d419a3bc24b/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-23",
+                    "modified": "2025-05-28",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/261b83b6-b89f-43ad-ae7b-0d419a3bc24b",
-                    "temporal": "2025-05-11/2025-05-17",
-                    "title": "Pending Initial Logging and Tracking Non Physicians : 2025-05-23"
+                    "temporal": "2025-05-18/2025-05-24",
+                    "title": "Pending Initial Logging and Tracking Non Physicians : 2025-05-28"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-05/fbe6916c-0f96-4d9f-87ef-82c8ac25a745/PendingInitialLandTsNonPhysicians_20250527.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-05-28",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/9b3c1e73-9a59-4278-b8cf-03082319cb57",
+                    "temporal": "2025-05-18/2025-05-24",
+                    "title": "Pending Initial Logging and Tracking Non Physicians : 2025-05-28"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/9b3c1e73-9a59-4278-b8cf-03082319cb57/data",
+                    "format": "API",
+                    "modified": "2025-05-28",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/9b3c1e73-9a59-4278-b8cf-03082319cb57",
+                    "temporal": "2025-05-18/2025-05-24",
+                    "title": "Pending Initial Logging and Tracking Non Physicians : 2025-05-28"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -28567,7 +28585,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-23",
+            "modified": "2025-05-28",
             "programCode": [
                 "009:000"
             ],
@@ -28578,7 +28596,7 @@
             "references": [
                 "https://data.cms.gov/resources/pending-initial-logging-and-tracking-physician-and-non-physicians-methodology"
             ],
-            "temporal": "2023-05-21/2025-05-17",
+            "temporal": "2023-05-21/2025-05-24",
             "theme": [
                 "Medicare"
             ],
