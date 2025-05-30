@@ -41371,7 +41371,7 @@
                 "hasEmail": "mailto:IPAG_Data_Products@cms.hhs.gov"
             },
             "dataQuality": true,
-            "describedBy": "https://data.cms.gov/resources/medicare-part-d-spending-by-drug-data-dictionary-2023",
+            "describedBy": "https://data.cms.gov/resources/medicare-part-d-spending-by-drug-data-dictionary",
             "description": "The Medicare Part D by Drug dataset presents information on spending for drugs prescribed to Medicare beneficiaries enrolled in Part D by physicians and other healthcare providers. Drugs prescribed in the Medicare Part D program are drugs patients generally administer themselves.\n\n\u00a0\n\nThe dataset focuses on average spending per dosage unit and change in average spending per dosage unit over time. It\u00a0also includes spending information for manufacturer(s) of the drugs as well as consumer-friendly information of drug uses and clinical indications.\n\n\u00a0\n\nDrug spending metrics for Part D drugs are based on the gross drug cost, which represents total spending for the prescription claim, including Medicare, plan, and beneficiary payments. The Part D spending metrics do not reflect any manufacturers\u2019 rebates or other price concessions as CMS is prohibited from publicly disclosing such information.",
             "distribution": [
                 {
@@ -41424,7 +41424,7 @@
                 "name": "Centers for Medicare & Medicaid Services"
             },
             "references": [
-                "https://data.cms.gov/resources/medicare-part-d-spending-by-drug-methodology-2023"
+                "https://data.cms.gov/resources/medicare-part-d-spending-by-drug-methodology"
             ],
             "temporal": "2023-01-01/2023-12-31",
             "theme": [
@@ -41445,7 +41445,7 @@
                 "hasEmail": "mailto:IPAG_Data_Products@cms.hhs.gov"
             },
             "dataQuality": true,
-            "describedBy": "https://data.cms.gov/resources/medicare-part-b-spending-by-drug-data-dictionary-2023",
+            "describedBy": "https://data.cms.gov/resources/medicare-part-b-spending-by-drug-data-dictionary",
             "description": "The Medicare Part B by Drug dataset presents information on spending for drugs administered in doctors\u2019 offices and other outpatient settings by physicians and other healthcare providers to Medicare Part B enrollees.\u00a0\n\nThe dataset focuses on average spending per dosage unit and change in average spending per dosage unit over time. It\u00a0also includes consumer-friendly descriptions of the drug uses, clinical indications, and manufacturer(s).\n\nDrug spending metrics for Part B drugs represent the full value of the product, including the Medicare payment and beneficiary liability. All Part B drug spending metrics are calculated at the HCPCS level.",
             "distribution": [
                 {
@@ -41518,7 +41518,7 @@
                 "hasEmail": "mailto:IPAG_Data_Products@cms.hhs.gov"
             },
             "dataQuality": true,
-            "describedBy": "https://data.cms.gov/resources/medicaid-spending-by-drug-data-dictionary-2023",
+            "describedBy": "https://data.cms.gov/resources/medicaid-spending-by-drug-data-dictionary",
             "description": "The Medicaid by Drug dataset presents information on spending for covered outpatient drugs prescribed to beneficiaries enrolled in Medicaid by physicians and other healthcare professionals.\u00a0\n\n\u00a0\n\nThe dataset focuses on average spending per dosage unit and change in average spending per dosage unit over time. Units refer to the drug unit in the lowest dispensable amount. It also includes spending information for manufacturer(s) of the drugs as well as consumer-friendly information of drug uses and clinical indications.\n\n\u00a0\n\nDrug spending metrics for Medicaid represent the total amount reimbursed by both Medicaid and non-Medicaid entities to pharmacies for the drug. Medicaid drug spending contains both the Federal and State reimbursement and is inclusive of any applicable dispensing fees. In addition, this total is not reduced or affected by Medicaid rebates paid to the states.",
             "distribution": [
                 {
@@ -41570,7 +41570,7 @@
                 "name": "Centers for Medicare & Medicaid Services"
             },
             "references": [
-                "https://data.cms.gov/resources/medicaid-spending-by-drug-methodology-2023"
+                "https://data.cms.gov/resources/medicaid-spending-by-drug-methodology"
             ],
             "temporal": "2023-01-01/2023-12-31",
             "theme": [
@@ -47360,28 +47360,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/d7fabe1e-d19b-4333-9eff-e80e0643f2fd/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-04-24",
+                    "modified": "2025-05-30",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/d7fabe1e-d19b-4333-9eff-e80e0643f2fd",
-                    "temporal": "2025-01-01/2025-01-31",
-                    "title": "Medicare Monthly Enrollment : 2025-01-01"
+                    "temporal": "2025-02-01/2025-02-28",
+                    "title": "Medicare Monthly Enrollment : 2025-02-01"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/07f7bdc5-94f0-4129-b07b-17faa69067bc/Medicare%20Monthly%20Enrollment%20Data_January%202025.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-05/4e0eeda4-a845-46aa-a2f6-ddf66a0274ed/Medicare%20Monthly%20Enrollment%20Data_February%202025.csv",
                     "mediaType": "text/csv",
-                    "modified": "2025-04-24",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/0cbf3698-8e8e-42e1-90e9-630f4d6478ba",
-                    "temporal": "2025-01-01/2025-01-31",
-                    "title": "Medicare Monthly Enrollment : 2025-01-01"
+                    "modified": "2025-05-30",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/6fb83713-0cd6-46a4-94a5-521e890a4505",
+                    "temporal": "2025-02-01/2025-02-28",
+                    "title": "Medicare Monthly Enrollment : 2025-02-01"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/0cbf3698-8e8e-42e1-90e9-630f4d6478ba/data",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/6fb83713-0cd6-46a4-94a5-521e890a4505/data",
                     "format": "API",
-                    "modified": "2025-04-24",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/0cbf3698-8e8e-42e1-90e9-630f4d6478ba",
-                    "temporal": "2025-01-01/2025-01-31",
-                    "title": "Medicare Monthly Enrollment : 2025-01-01"
+                    "modified": "2025-05-30",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/6fb83713-0cd6-46a4-94a5-521e890a4505",
+                    "temporal": "2025-02-01/2025-02-28",
+                    "title": "Medicare Monthly Enrollment : 2025-02-01"
                 }
             ],
             "identifier": "https://data.cms.gov/data-api/v1/dataset/d7fabe1e-d19b-4333-9eff-e80e0643f2fd/data-viewer",
@@ -47401,7 +47401,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-04-24",
+            "modified": "2025-05-30",
             "programCode": [
                 "009:000"
             ],
@@ -47412,7 +47412,7 @@
             "references": [
                 "https://data.cms.gov/resources/medicare-monthly-enrollment-methodology"
             ],
-            "temporal": "2025-01-01/2025-01-31",
+            "temporal": "2025-02-01/2025-02-28",
             "theme": [
                 "Medicare"
             ],
