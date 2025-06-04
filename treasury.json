@@ -11920,8 +11920,8 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://www.usmint.gov/bullion-sales",
-                    "downloadURL": "https://www.usmint.gov/bullion-sales",
+                    "accessURL": "https://www.usmint.gov/about/production-sales-figures/bullion-sales",
+                    "downloadURL": "https://www.usmint.gov/about/production-sales-figures/bullion-sales",
                     "mediaType": "text/html"
                 }
             ],
@@ -11930,7 +11930,7 @@
                 "Bullion Sales",
                 "Bullion Mintage\u00a0Figures"
             ],
-            "landingPage": "https://www.usmint.gov/bullion-sales",
+            "landingPage": "https://www.usmint.gov/about/production-sales-figures/bullion-sales",
             "modified": "2025-02-11",
             "programCode": [
                 "015:000"
@@ -11947,7 +11947,7 @@
                     }
                 }
             },
-            "title": "Bullion Sales and Mintage\u00a0Figures"
+            "title": "Bullion Sales Figures"
         },
         {
             "@type": "dcat:Dataset",
@@ -11964,8 +11964,8 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://www.usmint.gov/circulating-coins-production",
-                    "downloadURL": "https://www.usmint.gov/circulating-coins-production",
+                    "accessURL": "https://www.usmint.gov/about/production-sales-figures/circulating-coins-production",
+                    "downloadURL": "https://www.usmint.gov/about/production-sales-figures/circulating-coins-production",
                     "mediaType": "text/html"
                 }
             ],
@@ -11973,7 +11973,7 @@
             "keyword": [
                 "Circulating Coins Production Figures"
             ],
-            "landingPage": "https://www.usmint.gov/circulating-coins-production",
+            "landingPage": "https://www.usmint.gov/about/production-sales-figures/circulating-coins-production",
             "modified": "2025-02-11",
             "programCode": [
                 "015:000"
@@ -12007,8 +12007,8 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://www.usmint.gov/cumulative-sales-figures/",
-                    "downloadURL": "https://www.usmint.gov/cumulative-sales-figures/",
+                    "accessURL": "https://www.usmint.gov/about/production-sales-figures/cumulative-sales",
+                    "downloadURL": "https://www.usmint.gov/about/production-sales-figures/cumulative-sales",
                     "mediaType": "text/html"
                 }
             ],
@@ -12016,7 +12016,7 @@
             "keyword": [
                 "Cumulative Numismatic Sales Figures"
             ],
-            "landingPage": "https://www.usmint.gov/cumulative-sales-figures/",
+            "landingPage": "https://www.usmint.gov/about/production-sales-figures/cumulative-sales",
             "modified": "2025-02-11",
             "programCode": [
                 "015:000"
@@ -12034,49 +12034,6 @@
                 }
             },
             "title": "Cumulative Numismatic Sales Figures"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/P1Y",
-            "bureauCode": [
-                "015:25"
-            ],
-            "contactPoint": {
-                "fn": "Thomas Samuelsen",
-                "hasEmail": "mailto:Thomas.Samuelsen@usmint.treas.gov"
-            },
-            "description": "Annual sales figures for numismatic precious metal products. Updated annually after sales have been audited and finalized. Programs tracked in this report include American Eagle and American Buffalo.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "accessURL": "https://www.usmint.gov/precious-metal-products",
-                    "downloadURL": "https://www.usmint.gov/precious-metal-products",
-                    "mediaType": "text/html"
-                }
-            ],
-            "identifier": "015-USMint-0004",
-            "keyword": [
-                "Numismatic Precious Metal Products Sales Figures"
-            ],
-            "landingPage": "https://www.usmint.gov/precious-metal-products",
-            "modified": "2025-02-11",
-            "programCode": [
-                "015:000"
-            ],
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "United States Mint, Sales and Marketing (SAM) Department",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "USMint",
-                    "subOrganizationOf": {
-                        "@type": "org:Organization",
-                        "name": "Department of the Treasury"
-                    }
-                }
-            },
-            "title": "Numismatic Precious Metal Products Sales Figures"
         },
         {
             "@type": "dcat:Dataset",
