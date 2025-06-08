@@ -29449,6 +29449,33 @@
             "title": "FloodSmart.gov"
         },
         {
+            "accessLevel": "restricted public",
+            "bureauCode": [
+                "024:030"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "myUSCIS is a public facing website that was developed to assist USCIS customers with obtaining answers to routine immigration questions and access to supporting immigration material. myUSCIS was designed to allow immigration information to be easily and readily available.  myUSCIS provides an authenticated account experience to enable applicants and representatives to file for immigration benefits online and track the progress of their cases until decision.",
+            "identifier": "USCIS-10057-MAJ-10057",
+            "keyword": [
+                "Master"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-06-06T16:09:53-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Unspecified"
+            },
+            "rights": null,
+            "title": "myUSCIS"
+        },
+        {
             "accessLevel": "public",
             "bureauCode": [
                 "000:000"
@@ -35775,6 +35802,33 @@
             },
             "rights": null,
             "title": "FEMA Organization Codes"
+        },
+        {
+            "accessLevel": "non-public",
+            "bureauCode": [
+                "024:030"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "Stores different fee scenarios to calculate payments for non-ELIS forms. (Permanent)",
+            "identifier": "USCIS-10057-MAJ-10057-011",
+            "keyword": [
+                "none"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-06-06T16:10:05-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Unspecified"
+            },
+            "rights": null,
+            "title": "myUSCIS - fee-calculator"
         }
     ]
 }
