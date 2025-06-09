@@ -4417,10 +4417,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/4bae4223-a1dc-4b9c-bd7e-d9622461be35/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2024-08-09",
+                    "modified": "2025-06-09",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/4bae4223-a1dc-4b9c-bd7e-d9622461be35",
-                    "temporal": "2023-06-01/2023-06-30",
-                    "title": "End-Stage Renal Disease Facility Aggregation Group Performance : 2023-06-01"
+                    "temporal": "2023-12-01/2023-12-31",
+                    "title": "End-Stage Renal Disease Facility Aggregation Group Performance : 2023-12-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-01/59d86a73-5804-4bf6-8ae7-49edf04eb301/ETC-MY5-DF-ModelDetailedResults.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-06-09",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/caee7b92-5e32-4e40-ae18-736bb370dd2c",
+                    "temporal": "2023-12-01/2023-12-31",
+                    "title": "End-Stage Renal Disease Facility Aggregation Group Performance : 2023-12-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/caee7b92-5e32-4e40-ae18-736bb370dd2c/data",
+                    "format": "API",
+                    "modified": "2025-06-09",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/caee7b92-5e32-4e40-ae18-736bb370dd2c",
+                    "temporal": "2023-12-01/2023-12-31",
+                    "title": "End-Stage Renal Disease Facility Aggregation Group Performance : 2023-12-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -4512,7 +4530,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-08-09",
+            "modified": "2025-06-09",
             "programCode": [
                 "009:000"
             ],
@@ -4523,7 +4541,7 @@
             "references": [
                 "https://data.cms.gov/resources/esrd-treatment-choices-etc-model-methodology"
             ],
-            "temporal": "2021-12-01/2023-06-30",
+            "temporal": "2021-12-01/2023-12-31",
             "theme": [
                 "Medicare"
             ],
