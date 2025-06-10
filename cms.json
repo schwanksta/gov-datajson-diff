@@ -13662,10 +13662,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/6a0dbf98-e4b0-4037-ac63-1439b08f4a71/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2024-08-09",
+                    "modified": "2025-06-09",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/6a0dbf98-e4b0-4037-ac63-1439b08f4a71",
-                    "temporal": "2023-06-01/2023-06-30",
-                    "title": "Managing Clinician Aggregation Group Performance : 2023-06-01"
+                    "temporal": "2023-12-01/2023-12-31",
+                    "title": "Managing Clinician Aggregation Group Performance : 2023-12-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-01/70ecaae2-4428-4bdc-b3ff-ae8130c595a1/ETC-MY5-MC-ModelDetailedResults.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-06-09",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/aceb449c-e67f-45a5-a288-7c264a837921",
+                    "temporal": "2023-12-01/2023-12-31",
+                    "title": "Managing Clinician Aggregation Group Performance : 2023-12-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/aceb449c-e67f-45a5-a288-7c264a837921/data",
+                    "format": "API",
+                    "modified": "2025-06-09",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/aceb449c-e67f-45a5-a288-7c264a837921",
+                    "temporal": "2023-12-01/2023-12-31",
+                    "title": "Managing Clinician Aggregation Group Performance : 2023-12-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -13757,7 +13775,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-08-09",
+            "modified": "2025-06-09",
             "programCode": [
                 "009:000"
             ],
@@ -13768,7 +13786,7 @@
             "references": [
                 "https://data.cms.gov/resources/esrd-treatment-choices-etc-model-methodology"
             ],
-            "temporal": "2021-12-01/2023-06-30",
+            "temporal": "2021-12-01/2023-12-31",
             "theme": [
                 "Medicare"
             ],
