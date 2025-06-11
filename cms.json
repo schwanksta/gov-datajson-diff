@@ -17919,10 +17919,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/97ecfad1-d3f1-4d42-b774-d74661d830bc/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-14",
+                    "modified": "2025-06-11",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/97ecfad1-d3f1-4d42-b774-d74661d830bc",
-                    "temporal": "2025-04-01/2025-04-30",
-                    "title": "Nursing Home Affiliated Entity Performance Measures : 2025-04-01"
+                    "temporal": "2025-05-01/2025-05-31",
+                    "title": "Nursing Home Affiliated Entity Performance Measures : 2025-05-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-05/1b48f5eb-d3ec-47d1-83de-6a3a17a0a140/Affiliated%20Entity%20Performance%2020250527.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-06-11",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e66dfe44-7bce-4f00-b62c-027cea9eacaa",
+                    "temporal": "2025-05-01/2025-05-31",
+                    "title": "Nursing Home Affiliated Entity Performance Measures : 2025-05-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/e66dfe44-7bce-4f00-b62c-027cea9eacaa/data",
+                    "format": "API",
+                    "modified": "2025-06-11",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e66dfe44-7bce-4f00-b62c-027cea9eacaa",
+                    "temporal": "2025-05-01/2025-05-31",
+                    "title": "Nursing Home Affiliated Entity Performance Measures : 2025-05-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -18314,7 +18332,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-14",
+            "modified": "2025-06-11",
             "programCode": [
                 "009:000"
             ],
@@ -18325,7 +18343,7 @@
             "references": [
                 "https://data.cms.gov/resources/nursing-home-affiliated-entity-performance-measures-methodology"
             ],
-            "temporal": "2023-06-01/2025-04-30",
+            "temporal": "2023-06-01/2025-05-31",
             "theme": [
                 "Medicare"
             ],
