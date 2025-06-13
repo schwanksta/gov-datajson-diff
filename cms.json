@@ -14002,10 +14002,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/a93f5362-2fe6-4b4d-8260-118be0d618e0/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-21",
+                    "modified": "2025-06-13",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/a93f5362-2fe6-4b4d-8260-118be0d618e0",
-                    "temporal": "2024-10-01/2024-12-31",
-                    "title": "Medicaid Managed Care : 2024-10-01"
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Medicaid Managed Care : 2025-03-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-06/cb8697a7-8df8-4193-897e-c98eadbfe25d/CSV_Final%20Dashboard%20Data%20June%202025.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-06-13",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e61618a9-7e8b-4047-81b7-abe7ab67947f",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Medicaid Managed Care : 2025-03-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/e61618a9-7e8b-4047-81b7-abe7ab67947f/data",
+                    "format": "API",
+                    "modified": "2025-06-13",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e61618a9-7e8b-4047-81b7-abe7ab67947f",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Medicaid Managed Care : 2025-03-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -14057,7 +14075,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-21",
+            "modified": "2025-06-13",
             "programCode": [
                 "009:000"
             ],
@@ -14068,7 +14086,7 @@
             "references": [
                 "https://data.cms.gov/resources/medicaid-managed-care-methodology"
             ],
-            "temporal": "2023-10-01/2024-12-31",
+            "temporal": "2023-10-01/2025-03-31",
             "theme": [
                 "Medicaid"
             ],
