@@ -20435,14 +20435,14 @@
             },
             "dataQuality": true,
             "describedBy": "https://data.cms.gov/resources/order-and-referring-data-dictionary",
-            "description": "The Order and Referring dataset provides information on all physicians and non-physician practitioners, by their National Provider Identifier (NPI), who are of a type/specialty that is legally eligible to order and refer in the Medicare program and who have current enrollment records in Medicare.\u00a0\n\n\u00a0\n\nNote: This full dataset contains more records than most spreadsheet programs can handle, which will result in an incomplete load of data. Use of a database or statistical software is required.",
+            "description": "The Order and Referring dataset provides information on all physicians and non-physician practitioners, by their National Provider Identifier (NPI), who are of a type/specialty that is legally eligible to order and refer in the Medicare program and who have current enrollment records in Medicare.\u00a0This dataset identifies Medicare fee-for-service ordering and referring eligibility, supporting transparency and regulatory compliance efforts. The information can be used to verify ordering and referring capabilities as required by Medicare program standards.\n\n\u00a0\n\nNote: This full dataset contains more records than most spreadsheet programs can handle, which will result in an incomplete load of data. Use of a database or statistical software is required.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/c99b5865-1119-4436-bb80-c5af2773ea1f/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-06-17",
+                    "modified": "2025-06-18",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/c99b5865-1119-4436-bb80-c5af2773ea1f",
                     "temporal": "2025-06-08/2025-06-14",
                     "title": "Order and Referring : 2025-06-17"
@@ -20451,7 +20451,7 @@
                     "@type": "dcat:Distribution",
                     "downloadURL": "https://data.cms.gov/sites/default/files/2025-06/736f4453-0cfb-4abb-90fa-fbd87c6629df/OrderReferring_20250616.csv",
                     "mediaType": "text/csv",
-                    "modified": "2025-06-17",
+                    "modified": "2025-06-18",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/51160ec8-7abb-4886-8c1b-3859d341e83f",
                     "temporal": "2025-06-08/2025-06-14",
                     "title": "Order and Referring : 2025-06-17"
@@ -20460,7 +20460,7 @@
                     "@type": "dcat:Distribution",
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/51160ec8-7abb-4886-8c1b-3859d341e83f/data",
                     "format": "API",
-                    "modified": "2025-06-17",
+                    "modified": "2025-06-18",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/51160ec8-7abb-4886-8c1b-3859d341e83f",
                     "temporal": "2025-06-08/2025-06-14",
                     "title": "Order and Referring : 2025-06-17"
@@ -24257,7 +24257,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-17",
+            "modified": "2025-06-18",
             "programCode": [
                 "009:000"
             ],
