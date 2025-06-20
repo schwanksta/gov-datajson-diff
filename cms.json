@@ -14179,17 +14179,35 @@
             "dataQuality": true,
             "describedBy": "https://data.cms.gov/sites/default/files/2024-06/7ae600cf-5662-4462-8d86-7aab3f58e7b8/Medicare%20Advantage%20Geographic%20Variation%20National%20%20State%20Data%20Dictionary_RY24.pdf",
             "describedByType": "application/pdf",
-            "description": "The Medicare Advantage Geographic Variation National & State dataset provides information on demographic characteristics and service utilization for hospital inpatient, skilled nursing facility services, outpatient, DME, and professional services between 2016-2021 for Medicare Advantage beneficiaries at the national and state levels.",
+            "description": "The Medicare Advantage Geographic Variation National & State dataset provides information on demographic characteristics and service utilization for hospital inpatient, skilled nursing facility services, outpatient, DME, and professional services between 2016-2022 for Medicare Advantage beneficiaries at the national and state levels.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/8e989bc0-2260-49a7-9c6d-8e9e10af7cea/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2024-05-30",
+                    "modified": "2025-06-20",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/8e989bc0-2260-49a7-9c6d-8e9e10af7cea",
-                    "temporal": "2021-01-01/2021-12-31",
-                    "title": "Medicare Advantage Geographic Variation - National & State : 2021-01-15"
+                    "temporal": "2022-01-01/2022-12-31",
+                    "title": "Medicare Advantage Geographic Variation - National & State : 2022-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-06/a0f6cfe0-b67c-44ef-807d-a901921ed1ee/MA%20GV%20PUF%202016-2022_RY_2025.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-06-20",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/a43b4776-ac0c-459a-8823-6cc74bfbd670",
+                    "temporal": "2022-01-01/2022-12-31",
+                    "title": "Medicare Advantage Geographic Variation - National & State : 2022-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/a43b4776-ac0c-459a-8823-6cc74bfbd670/data",
+                    "format": "API",
+                    "modified": "2025-06-20",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/a43b4776-ac0c-459a-8823-6cc74bfbd670",
+                    "temporal": "2022-01-01/2022-12-31",
+                    "title": "Medicare Advantage Geographic Variation - National & State : 2022-01-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -14225,7 +14243,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-05-30",
+            "modified": "2025-06-20",
             "programCode": [
                 "009:000"
             ],
@@ -14234,9 +14252,9 @@
                 "name": "Centers for Medicare & Medicaid Services"
             },
             "references": [
-                "https://data.cms.gov/sites/default/files/2024-05/1633f75a-93d4-4600-80f4-ba033c9d8e38/Medicare%20Advantage%20Geographic%20Variation%20National%20%20State_Methods_RY24_508.pdf"
+                "https://data.cms.gov/sites/default/files/2025-06/MA_GV_PUF_Methods_Updated_06042025.pdf"
             ],
-            "temporal": "2021-01-01/2021-12-31",
+            "temporal": "2021-01-01/2022-12-31",
             "theme": [
                 "Medicare"
             ],
@@ -16554,35 +16572,35 @@
             },
             "dataQuality": true,
             "describedBy": "https://data.cms.gov/resources/medicare-telehealth-trends-data-dictionary",
-            "description": "The Medicare Telehealth Trends dataset provides information about people with Medicare who used telehealth services between January 1, 2020 and September 30, 2024. The data were used to generate the Medicare Telehealth Trends Report.",
+            "description": "The Medicare Telehealth Trends dataset provides information about people with Medicare who used telehealth services between January 1, 2020 and December 31, 2024. The data were used to generate the Medicare Telehealth Trends Report.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/939226be-b107-476e-8777-f199a840138a/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-03-20",
+                    "modified": "2025-06-20",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/939226be-b107-476e-8777-f199a840138a",
-                    "temporal": "2024-07-01/2024-09-30",
-                    "title": "Medicare Telehealth Trends : 2024-07-01"
+                    "temporal": "2024-10-01/2024-12-31",
+                    "title": "Medicare Telehealth Trends : 2024-10-01"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-03/a0f87871-d25b-468e-bdb4-01737016ea43/TMEDTREND_PUBLIC_250226.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-06/835c04f1-c169-4b8f-a109-45d65a350f22/TMEDTREND_PUBLIC_250522.csv",
                     "mediaType": "text/csv",
-                    "modified": "2025-03-20",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/c64296d2-c881-415a-8858-b283e20e6cd5",
-                    "temporal": "2024-07-01/2024-09-30",
-                    "title": "Medicare Telehealth Trends : 2024-07-01"
+                    "modified": "2025-06-20",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/b052164e-7e51-45c7-b469-0d2329e49cb3",
+                    "temporal": "2024-10-01/2024-12-31",
+                    "title": "Medicare Telehealth Trends : 2024-10-01"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/c64296d2-c881-415a-8858-b283e20e6cd5/data",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/b052164e-7e51-45c7-b469-0d2329e49cb3/data",
                     "format": "API",
-                    "modified": "2025-03-20",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/c64296d2-c881-415a-8858-b283e20e6cd5",
-                    "temporal": "2024-07-01/2024-09-30",
-                    "title": "Medicare Telehealth Trends : 2024-07-01"
+                    "modified": "2025-06-20",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/b052164e-7e51-45c7-b469-0d2329e49cb3",
+                    "temporal": "2024-10-01/2024-12-31",
+                    "title": "Medicare Telehealth Trends : 2024-10-01"
                 }
             ],
             "identifier": "https://data.cms.gov/data-api/v1/dataset/939226be-b107-476e-8777-f199a840138a/data-viewer",
@@ -16594,7 +16612,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-03-20",
+            "modified": "2025-06-20",
             "programCode": [
                 "009:000"
             ],
@@ -16605,7 +16623,7 @@
             "references": [
                 "https://data.cms.gov/resources/medicare-telehealth-trends-methodology-current"
             ],
-            "temporal": "2024-07-01/2024-09-30",
+            "temporal": "2024-10-01/2024-12-31",
             "theme": [
                 "Medicare"
             ],
@@ -33978,10 +33996,46 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/63a83bb1-4c02-43b3-8ef4-e3d3c6cf62fa/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2024-10-25",
+                    "modified": "2025-06-20",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/63a83bb1-4c02-43b3-8ef4-e3d3c6cf62fa",
-                    "temporal": "2024-07-01/2024-09-30",
-                    "title": "Public Reporting of Missing Digital Contact Information : 2024-09-01"
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Public Reporting of Missing Digital Contact Information : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-06/6934edb8-2461-4b25-8458-e397c9676bac/Q1_2025_Providers%20without%20Endpoints%20-31Mar2025%2003-01-10.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-06-20",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/d96cfdb0-ef63-4917-9f26-ec3eaf0215f3",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Public Reporting of Missing Digital Contact Information : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/d96cfdb0-ef63-4917-9f26-ec3eaf0215f3/data",
+                    "format": "API",
+                    "modified": "2025-06-20",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/d96cfdb0-ef63-4917-9f26-ec3eaf0215f3",
+                    "temporal": "2025-01-01/2025-03-31",
+                    "title": "Public Reporting of Missing Digital Contact Information : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-06/c6e03460-ce7c-4687-be62-6d148ab83f1d/Q4_2024_Providers%20without%20Endpoints%20-31Dec2024%2002-01-09.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-06-20",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/c45f3cf9-d487-4e70-93bb-9439e433a9e3",
+                    "temporal": "2024-10-01/2024-12-31",
+                    "title": "Public Reporting of Missing Digital Contact Information : 2024-10-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/c45f3cf9-d487-4e70-93bb-9439e433a9e3/data",
+                    "format": "API",
+                    "modified": "2025-06-20",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/c45f3cf9-d487-4e70-93bb-9439e433a9e3",
+                    "temporal": "2024-10-01/2024-12-31",
+                    "title": "Public Reporting of Missing Digital Contact Information : 2024-10-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -34102,7 +34156,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-10-25",
+            "modified": "2025-06-20",
             "programCode": [
                 "009:000"
             ],
@@ -34113,7 +34167,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2021-12/8eb2b4bf-6e5f-4e05-bcdb-39c07ad8f77a/Missing_Digital_Contact_Info_Methods%20.pdf"
             ],
-            "temporal": "2023-01-01/2024-09-30",
+            "temporal": "2023-01-01/2025-03-31",
             "theme": [
                 "Medicare"
             ],
@@ -44603,7 +44657,7 @@
                 "hasEmail": "mailto:IPAG_Data_Products@cms.hhs.gov"
             },
             "dataQuality": true,
-            "describedBy": "https://data.cms.gov/resources/medicare-durable-medical-equipment-devices-supplies-by-geography-and-service-data-dictionary-2022",
+            "describedBy": "https://data.cms.gov/resources/medicare-durable-medical-equipment-devices-supplies-by-geography-and-service-data-dictionary-0",
             "description": "The Medicare Durable Medical Equipment, Devices & Supplies by Geography and Service dataset contains information on usage, payments, and submitted charges organized by geography, Healthcare Common Procedure Coding System (HCPCS) code, and supplier rental indicator.",
             "distribution": [
                 {
