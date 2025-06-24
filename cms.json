@@ -13492,7 +13492,7 @@
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-06/0359c169-9953-4bee-bf49-3518b6345a65/WDDSE-Model-Summary-Fixing-Error-06-17-2025.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-06/7c2463df-1724-456d-8f55-c860be2a1ef5/WDDSE-Model-Summary-Fixing-Error-06-17-2025.csv",
                     "mediaType": "text/csv",
                     "modified": "2025-06-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/038a8dcf-6552-4766-a954-18a275412bb6",
@@ -18541,10 +18541,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/f1a8c197-b53d-4c24-9770-aea5d5a97dfb/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-06-17",
+                    "modified": "2025-06-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f1a8c197-b53d-4c24-9770-aea5d5a97dfb",
-                    "temporal": "2025-06-08/2025-06-14",
-                    "title": "Opioid Treatment Program Providers : 2025-06-17"
+                    "temporal": "2025-06-15/2025-06-21",
+                    "title": "Opioid Treatment Program Providers : 2025-06-24"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-06/8cc57664-dcf2-4a91-aab5-24fcae92b1aa/OPIOID_TREATMENT_PROGRAM_PROVIDERS_06232025.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-06-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/4bdf02c0-195e-4d4b-9483-9452204da576",
+                    "temporal": "2025-06-15/2025-06-21",
+                    "title": "Opioid Treatment Program Providers : 2025-06-24"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/4bdf02c0-195e-4d4b-9483-9452204da576/data",
+                    "format": "API",
+                    "modified": "2025-06-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/4bdf02c0-195e-4d4b-9483-9452204da576",
+                    "temporal": "2025-06-15/2025-06-21",
+                    "title": "Opioid Treatment Program Providers : 2025-06-24"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -20467,7 +20485,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-17",
+            "modified": "2025-06-24",
             "programCode": [
                 "009:000"
             ],
@@ -20478,7 +20496,7 @@
             "references": [
                 "https://data.cms.gov/resources/opioid-treatment-program-providers-methodology"
             ],
-            "temporal": "2023-05-21/2025-06-14",
+            "temporal": "2023-05-21/2025-06-21",
             "theme": [
                 "Medicare"
             ],
