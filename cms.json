@@ -14800,19 +14800,37 @@
                 "hasEmail": "mailto:ESRDQuestions@cms.hhs.gov"
             },
             "dataQuality": true,
-            "describedBy": "https://data.cms.gov/sites/default/files/2024-02/FY2024%20Data%20Dictionary.xlsx",
+            "describedBy": "https://data.cms.gov/sites/default/files/2025-03/FY2025%20PUF%20Data%20Dictionary.xlsx",
             "describedByType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-            "description": "The Medicare Dialysis Facilities data provides information on clinical and patient measures for Medicare-certified\u00a0ESRD\u00a0facilities, also known as dialysis facilities. It contains data on patient characteristics, treatment patterns, hospitalization, mortality, and transplantation patterns in Medicare-certified dialysis facilities.\n\n\u00a0\n\nNote: This full dataset contains more records than most spreadsheet programs can handle, which will result in an incomplete load of data. Use of a database or statistical software is required.",
+            "description": "The Medicare Dialysis Facilities data provides information on clinical and patient measures for Medicare-certified\u00a0ESRD\u00a0facilities, also known as dialysis facilities. It contains data on patient characteristics, treatment patterns, hospitalization, mortality, and transplantation patterns in Medicare-certified dialysis facilities.\n\nNote: This full dataset contains more records than most spreadsheet programs can handle, which will result in an incomplete load of data. Use of a database or statistical software is required.\n\nThe following four data files are available for download each year, where yyyy denotes the fiscal year.\n\n\n\tDFR_Data_FYyyyy.csv file includes all summaries (facility- and regional-level) reported in the Dialysis Facility Report (DFR). The file includes one record for each dialysis facility and is the file recommended for download (i.e., wide format).\n\tdfr_facility_socrata_fyyyyy.csv file includes only facility-level summaries reported in the DFR. The file includes one record per measure per year (i.e., long format) and contains more records than most spreadsheet programs can handle, which will result in an incomplete load of data. Use of a database or statistical software is required.\n\tdfr_us_state_socrata_fyyyyyy.csv file includes state- and national-level summaries reported in DFR. The file includes one record per measure per year (i.e., long format).\n\tdfr_network_socrata_fyyyyyy.csv file includes ESRD network-level summaries reported in the DFR. The file includes one record per measure per year (i.e., long format).",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/f8610e87-ba25-43a3-a49e-927dbc8701ae/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2024-02-29",
+                    "modified": "2025-06-24",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f8610e87-ba25-43a3-a49e-927dbc8701ae",
-                    "temporal": "2024-01-01/2024-12-31",
-                    "title": "Medicare Dialysis Facilities : 2024-01-01"
+                    "temporal": "2025-01-01/2025-12-31",
+                    "title": "Medicare Dialysis Facilities : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-04/94d61c1e-b20f-47a9-b236-521016b54b0f/dfr_facility_socrata_fy2025_resubmit.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-06-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/7d4e7bd1-f08a-4fca-8085-6af24026a19a",
+                    "temporal": "2025-01-01/2025-12-31",
+                    "title": "Medicare Dialysis Facilities : 2025-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/7d4e7bd1-f08a-4fca-8085-6af24026a19a/data",
+                    "format": "API",
+                    "modified": "2025-06-24",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/7d4e7bd1-f08a-4fca-8085-6af24026a19a",
+                    "temporal": "2025-01-01/2025-12-31",
+                    "title": "Medicare Dialysis Facilities : 2025-01-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -15018,7 +15036,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-02-29",
+            "modified": "2025-06-24",
             "programCode": [
                 "009:000"
             ],
@@ -15027,9 +15045,9 @@
                 "name": "Centers for Medicare & Medicaid Services"
             },
             "references": [
-                "https://data.cms.gov/sites/default/files/2024-02/FY2024_DFR_Guide%20and%20Methodology.pdf"
+                "https://data.cms.gov/sites/default/files/2025-03/FY2025_DFR_Guide.pdf"
             ],
-            "temporal": "2009-01-01/2024-12-31",
+            "temporal": "2009-01-01/2025-12-31",
             "theme": [
                 "Medicare"
             ],
