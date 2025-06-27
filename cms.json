@@ -12960,10 +12960,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/8708ca8b-8636-44ed-8303-724cbfaf78ad/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2024-07-26",
+                    "modified": "2025-06-27",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/8708ca8b-8636-44ed-8303-724cbfaf78ad",
-                    "temporal": "2023-01-01/2023-12-31",
-                    "title": "Hospital Service Area : 2023-01-01"
+                    "temporal": "2024-01-01/2024-12-31",
+                    "title": "Hospital Service Area : 2024-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-06/f19af76e-d5d9-4d0d-a95a-47ba797d8fe0/Hospital_Service_Area_2024.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-06-27",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/197d0c76-ef9f-4a92-bd05-19b381746f62",
+                    "temporal": "2024-01-01/2024-12-31",
+                    "title": "Hospital Service Area : 2024-01-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/197d0c76-ef9f-4a92-bd05-19b381746f62/data",
+                    "format": "API",
+                    "modified": "2025-06-27",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/197d0c76-ef9f-4a92-bd05-19b381746f62",
+                    "temporal": "2024-01-01/2024-12-31",
+                    "title": "Hospital Service Area : 2024-01-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -13141,7 +13159,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-07-26",
+            "modified": "2025-06-27",
             "programCode": [
                 "009:000"
             ],
@@ -13152,7 +13170,7 @@
             "references": [
                 "https://data.cms.gov/resources/hospital-service-area-methodology"
             ],
-            "temporal": "2015-01-01/2023-12-31",
+            "temporal": "2015-01-01/2024-12-31",
             "theme": [
                 "Medicare"
             ],
@@ -25498,10 +25516,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/261b83b6-b89f-43ad-ae7b-0d419a3bc24b/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-06-24",
+                    "modified": "2025-06-27",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/261b83b6-b89f-43ad-ae7b-0d419a3bc24b",
                     "temporal": "2025-06-15/2025-06-21",
-                    "title": "Pending Initial Logging and Tracking Non Physicians : 2025-06-24"
+                    "title": "Pending Initial Logging and Tracking Non Physicians : 2025-06-27"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-06/9b9079b2-39c4-4375-9737-907d6e953f3f/PendingInitialLandTsNonPhysicians_20250626.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-06-27",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f398cc67-bd16-48da-8755-36f3012bd105",
+                    "temporal": "2025-06-15/2025-06-21",
+                    "title": "Pending Initial Logging and Tracking Non Physicians : 2025-06-27"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/f398cc67-bd16-48da-8755-36f3012bd105/data",
+                    "format": "API",
+                    "modified": "2025-06-27",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f398cc67-bd16-48da-8755-36f3012bd105",
+                    "temporal": "2025-06-15/2025-06-21",
+                    "title": "Pending Initial Logging and Tracking Non Physicians : 2025-06-27"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -29368,7 +29404,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-24",
+            "modified": "2025-06-27",
             "programCode": [
                 "009:000"
             ],
@@ -39550,10 +39586,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/9887a515-7552-4693-bf58-735c77af46d7/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-27",
+                    "modified": "2025-06-27",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/9887a515-7552-4693-bf58-735c77af46d7",
-                    "temporal": "2025-04-01/2025-04-30",
-                    "title": "Opt Out Affidavits : 2025-04-01"
+                    "temporal": "2025-05-01/2025-05-31",
+                    "title": "Opt Out Affidavits : 2025-05-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-06/b251b636-0dbc-496d-9aa1-dc55c0980405/Opt_Out_List_May.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-06-27",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/c8f2e37b-1e3e-480f-8526-bb2e1e2f44ab",
+                    "temporal": "2025-05-01/2025-05-31",
+                    "title": "Opt Out Affidavits : 2025-05-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/c8f2e37b-1e3e-480f-8526-bb2e1e2f44ab/data",
+                    "format": "API",
+                    "modified": "2025-06-27",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/c8f2e37b-1e3e-480f-8526-bb2e1e2f44ab",
+                    "temporal": "2025-05-01/2025-05-31",
+                    "title": "Opt Out Affidavits : 2025-05-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -40018,7 +40072,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-27",
+            "modified": "2025-06-27",
             "programCode": [
                 "009:000"
             ],
@@ -40029,7 +40083,7 @@
             "references": [
                 "https://data.cms.gov/resources/opt-out-affidavits-methodology"
             ],
-            "temporal": "2023-04-01/2025-04-30",
+            "temporal": "2023-04-01/2025-05-31",
             "theme": [
                 "Medicare"
             ],
