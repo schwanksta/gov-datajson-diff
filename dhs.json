@@ -35985,6 +35985,195 @@
             },
             "rights": null,
             "title": "DSM5-ICD10"
+        },
+        {
+            "accessLevel": "non-public",
+            "bureauCode": [
+                "024:080"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "The Unified Medical Language System integrates and distributes key terminology, classification, and coding standards to promote interoperability",
+            "identifier": "OHS-HISDS-DATASET-OHS-PHEN-NIH-UMLS-20210601",
+            "keyword": [
+                "Phenotyping (PHEN)"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-06-26T07:41:06-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Unspecified"
+            },
+            "rights": null,
+            "title": "UMLS"
+        },
+        {
+            "accessLevel": "non-public",
+            "bureauCode": [
+                "024:080"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "Logical Observation Identifiers Names and Codes (LOINC) is a database and universal standard for identifying medical laboratory observations. This data is being used as an Ontology for use in Phenotyping Natural Language Processing (NLP)",
+            "identifier": "OHS-HISDS-DATASET-OHS-PHEN-LOINCORG-LONIC-20210602",
+            "keyword": [
+                "Phenotyping (PHEN)"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-06-26T07:41:06-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Unspecified"
+            },
+            "rights": null,
+            "title": "LOINC"
+        },
+        {
+            "accessLevel": "non-public",
+            "bureauCode": [
+                "024:080"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "Medical Subject Headings (MeSH) is a comprehensive controlled vocabulary for the purpose of indexing journal articles and books in the life science",
+            "identifier": "OHS-HISDS-DATASET-OHS-PHEN-NIH-MESH-20210601",
+            "keyword": [
+                "Phenotyping (PHEN)"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-06-26T07:41:06-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Unspecified"
+            },
+            "rights": null,
+            "title": "MESH"
+        },
+        {
+            "accessLevel": "non-public",
+            "bureauCode": [
+                "024:080"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "RXNorm is a normalized naming system for generic and branded drugs developed by the U.S. National Library of Medicine to support semantic interoperbility between drug terminologies and pharmacy systems",
+            "identifier": "OHS-HISDS-DATASET-OHS-PHEN-NIH-RXNORM-20210601",
+            "keyword": [
+                "Phenotyping (PHEN)"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-06-26T07:41:06-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Unspecified"
+            },
+            "rights": null,
+            "title": "RxNorm"
+        },
+        {
+            "accessLevel": "non-public",
+            "bureauCode": [
+                "024:080"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "The Heatlhcare common Procedure Coding System is a set of health care procedure codes based on the American Medical Association's CPT",
+            "identifier": "OHS-HISDS-DATASET-OHS-PHEN-CMS-HCPCS-20210601",
+            "keyword": [
+                "Phenotyping (PHEN)"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-06-26T07:41:06-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Unspecified"
+            },
+            "rights": null,
+            "title": "HCPCS"
+        },
+        {
+            "accessLevel": "non-public",
+            "bureauCode": [
+                "024:080"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "The International Classification of Diseases 10th Revision is a medical classification list by the WHO for coding various diseases and conditions",
+            "identifier": "OHS-HISDS-DATASET-OHS-PHEN-CDC-ICD10-20210601",
+            "keyword": [
+                "Phenotyping (PHEN)"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-06-26T07:41:06-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Unspecified"
+            },
+            "rights": null,
+            "title": "ICD-10"
+        },
+        {
+            "accessLevel": "non-public",
+            "bureauCode": [
+                "024:080"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "The Diuagnostics and Statistical Manual of Mental Discorders, Fifth Edition, is used by clinicians to diagnose mental disorders",
+            "identifier": "OHS-HISDS-DATASET-OHS-PHEN-PSYCHIATRY-DSMSICD10-20210601",
+            "keyword": [
+                "Phenotyping (PHEN)"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-06-26T07:41:06-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Unspecified"
+            },
+            "rights": null,
+            "title": "DSM5-ICD10"
         }
     ]
 }
