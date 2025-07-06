@@ -3923,16 +3923,115 @@
                 "Assessments"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2024-12-02T10:48:00-05:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "FEMA/Resilience/Hazard Mitigation Directorate"
+                "name": "FEMA/RESILIENCE/FIMA"
             },
             "rights": null,
             "title": "National Flood Insurance Program (NFIP) - Community Status Book Dataset"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "This dataset includes information associated with Community Assistance Visits (CAV), a type of engagement in which FEMA or its state partners conduct a comprehensive assessment of a community's floodplain management program and understanding of the National Flood Insurance Program (NFIP). rnThe CAV is intended to support communities in improving their floodplain management practices and to remedy identified issues.  Each record reports non-PII data gathered during each visit, including generalized ratings and general details of the CAV such as the type of agency conducting it or associated dates.  This dataset originates within the Community Information System (CIS), which is the database and system of record for the FEMA NFIP Floodplain Management Program, as well as the management system for its activities.  All associated floodplain data are manually entered into the CIS within 30 days of the floodplain management activity, with subsequent update entry entered on an as needed basis.  Associated CAV and floodplain activity documentation, correspondence, and other pertinent information of community, State, and Federal actions are stored in CIS.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://www.fema.gov/openfema-data-page/nfip-community-status-book-v1"
+                }
+            ],
+            "identifier": "FEMA-0139",
+            "keyword": [
+                "Assessments"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-07-01T11:27:25-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/RESILIENCE/FIMA"
+            },
+            "rights": null,
+            "title": "National Flood Insurance Program (NFIP) - Community Assistance Visits (CAV)"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "This dataset contains non-sensitive data gathered during National Flood Insurance Policy (NFIP) Community Assistance Contacts (CAC). The CAC provides a means to establish or re-establish contact with an NFIP community for the purpose of determining any existing problems or issues and to offer technical assistance if necessary. The CAC also provides the opportunity to enhance the working relationship between the State or FEMA and NFIP communities and creates a greater awareness of the NFIP and its requirements.  A CAC can be conducted by a telephone call to the community or a brief visit. Using either method of contact, the CAC is intended to be less comprehensive and less time-consuming than a Community Assisted Visit (CAV). The CAC should not be conducted in communities where more serious floodplain management problems or issues are known or suspected, especially in communities where growth occurs in the floodplain, or in communities with a high potential for damage to existing development.  Each record reports non-PII data gathered during each contact, including genericized ratings and general details of the CAC, such as the type of agency conducting it or associated dates. This dataset originates within the CIS, which is a database and system of record for the FEMA NFIP Floodplain Management Program, as well as the management system for its activities.  All associated floodplain data should be manually entered into the CIS within 30 days of the floodplain management activity, with further updates entered as needed. Documentation, correspondence, and other pertinent information of community, State, and Federal actions must also be placed into the CIS.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://www.fema.gov/openfema-data-page/nfip-community-status-book-v1"
+                }
+            ],
+            "identifier": "FEMA-0140",
+            "keyword": [
+                "Assessments"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-07-01T11:27:25-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/RESILIENCE/FIMA"
+            },
+            "rights": null,
+            "title": "National Flood Insurance Program (NFIP) - Community Assistance Contacts (CAC)"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "This dataset contains required community information for enrollment in the National Flood Insurance Program (NFIP).  Congress created the National Flood Insurance Program (NFIP) through enactment of the National Flood Insurance Act of 1968 (NFIA) (Title XIII of Pub. L. 90-448, 82 Stat. 476), found at 42 U.S.C. 4001 et seq. The goal of the program is to help mitigate future losses caused by flooding through community enforced building standards. The NFIP is a federal program enabling property owners in participating communities to purchase insurance as a protection against flood losses in exchange for State and community floodplain management requirements that reduce the risk of future flood damages. Communities participate in the NFIP based on an agreement between the community and FEMA. If a community submits Federal Emergency Management Agency Application for Participation in the National Flood Insurance Program, FEMA FORM 086-0-30, O.M.B. Control Number 1660-0004 along with adopting and enforcing a floodplain  management ordinance to reduce future flood risk to new construction in floodplains, FEMA will make flood insurance available within the community as a financial protection against flood losses.  rnA community submits either an electronic or hard copy of the FEMA NFIP enrollment form 086-0-30 to the State NFIP Coordinator, FEMA Regional Office, and FEMA Headquarters to apply for participation in the National Flood Insurance Program.   The enrollment form contains personally identifiable information (PII) for local community officials, including the individual signing and submitting the form.   FEMA uses the collected information to maintain contact databases and records relating to local floodplain management. Information collected through FEMA Form 086-0-30 and entered into CIS is covered by the following privacy compliance documents:  PIA: DHS/FEMA/PIA \u2013 011 National Flood Insurance Program (NFIP) Information Technology Services (ITS); DHS/FEMA/PIA-050 National Flood Insurance Program (NFIP) PIVOT System; SORN: DHS/FEMA \u2013 003 National Flood Insurance Program (NFIP) Files and DHS/ALL-004 \u2013 General Information Technology Access Account Records System (GITAARS).",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://www.fema.gov/about/openfema/data-sets#nfip"
+                }
+            ],
+            "identifier": "FEMA-0141",
+            "keyword": [
+                "Assessments"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-07-01T11:27:25-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/RESILIENCE/FIMA"
+            },
+            "rights": null,
+            "title": "National Flood Insurance Program (NFIP) - Community Enrollment Dataset"
         },
         {
             "accessLevel": "restricted public",
@@ -5849,6 +5948,39 @@
                 "fn": "Open Data (MGMT)",
                 "hasEmail": "mailto:edmo@hq.dhs.gov"
             },
+            "description": "DRC DOT is a FEMA-internal facing application that is used to populate the data available in externally available application DRC Locator. DOT allows a FEMA user to open and close DRCs, enter information about a DRC such as the location, address, phone number, hours of operation, and services available.\u00a0\u00a0\u00a0When the information is saved, DOT accesses a geolocation service to obtain latitude and longitude information, so that a map can be viewed in DRC Locator. The FEMA user is also able to record visitor information and generate canned reports with detailed DRC information. This system is also tightly integrated with the FEMA mobile app and the FEMA Geo Portal through near real-time data exchanges.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://piv.fema.gov/ESF6/DOT"
+                }
+            ],
+            "identifier": "FEMA-0122",
+            "keyword": [
+                "External Coordination"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-07-01T11:27:25-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Response and Recovery/Recovery Directorate"
+            },
+            "rights": null,
+            "title": "Recovery Center (DRC) Disaster Operations Tool (DOT)"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
             "description": "This dataset contains information on upcoming training for courses in the FEMA Course Catalog. Data included is the dates of the training, time of the training, location of the training, and information on how to sign up/register for the training (this is usually a link to the training partner's site)",
             "distribution": [
                 {
@@ -6107,6 +6239,60 @@
                 "fn": "Open Data (MGMT)",
                 "hasEmail": "mailto:edmo@hq.dhs.gov"
             },
+            "description": "FEMA's Response Geospatial Office developed the Prioritizing Operations Support Tool (POST) to provide a systematic method to prioritize and manage response operations during disasters. Emergency Managers at all levels of government need to understand both predicted and actual impacts to infrastructure and to vulnerable populations so they can apply key resources to the most critical community functions and stabilize the situation.",
+            "identifier": "FEMA-0210",
+            "keyword": [
+                "Information Technology"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-07-01T11:27:25-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Response and Recovery/Response Directorate"
+            },
+            "rights": null,
+            "title": "FEMA Prioritizing Operations Support Tool (POST) Outputs"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "FEMA is developing the capability to understand the full extent of disaster impacts within 72 hours post-incident using Geospatial Damage Assessments. This analysis takes advantage of Geospatial Information Systems (GIS)-based modeling and remote sensing processes to provide initial situational awareness and expedited recovery planning.",
+            "identifier": "FEMA-0211",
+            "keyword": [
+                "Incidents"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-07-01T11:27:25-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Response and Recovery/Response Directorate"
+            },
+            "rights": null,
+            "title": "Geospatial Damage Assessment Outputs"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
             "description": "A binary dasymetric analysis, using National Land Cover Databases (NLCD) as an auxiliary, is applied to US Census Tracts. American Community Survey (ACS) Demographic data is often joined and used to generate impacted population with a hazard/AOI.",
             "distribution": [
                 {
@@ -6278,7 +6464,7 @@
                 "Authorities"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -6874,7 +7060,7 @@
                 "Incidents"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -6907,7 +7093,7 @@
                 "Incidents"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -6973,13 +7159,13 @@
                 "Finance"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-02-03T14:11:54-05:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "FEMA/Resilience/Grant Programs Directorate"
+                "name": "FEMA/RESILIENCE/GRANT PROGRAMS DIR"
             },
             "rights": null,
             "title": "Non-Disaster and Assistance to Firefighter Grants"
@@ -7105,7 +7291,7 @@
                 "Incidents"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -7138,7 +7324,7 @@
                 "Incidents"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-01T11:44:29-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -7171,7 +7357,7 @@
                 "Incidents"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -7336,7 +7522,7 @@
                 "External Coordination"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-02-03T14:11:54-05:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -7635,13 +7821,13 @@
                 "Communications"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-02-03T14:11:54-05:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "FEMA/Resilience/Office of the Flood Insurance Advocate"
+                "name": "FEMA/RESILIENCE/FIMA"
             },
             "rights": null,
             "title": "Flood Insurance Advocate Periodic Reports"
@@ -7866,13 +8052,13 @@
                 "People"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-02-03T14:11:54-05:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "FEMA/Office of Equal Rights/Equal Employment Opportunity Unit"
+                "name": "FEMA/OFFICE OF CIVIL RIGHTS/INTERNAL CIVIL RIGHTS DIVISION"
             },
             "rights": null,
             "title": "No FEAR Act Data (FEMA Statistics)"
@@ -7899,7 +8085,7 @@
                 "Authorities"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-02-03T14:11:54-05:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -7932,7 +8118,7 @@
                 "Authorities"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-01-02T13:11:38-05:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -8409,7 +8595,7 @@
                 "Threats and Hazards"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -8628,13 +8814,13 @@
                 "Threats and Hazards"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-02-03T14:11:54-05:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "FEMA/Resilience/Risk Management Directorate"
+                "name": "FEMA/RESILIENCE/RISK ANAL,PLANN & INFO DIRECT"
             },
             "rights": null,
             "title": "Hazus Data"
@@ -8661,13 +8847,13 @@
                 "Assessments"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-02-03T14:11:54-05:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "FEMA/Resilience/Risk Management Directorate"
+                "name": "FEMA/RESILIENCE/RISK ANAL,PLANN & INFO DIRECT"
             },
             "rights": null,
             "title": "AALs from the adoption of I-Codes"
@@ -8709,11 +8895,11 @@
                 "fn": "Open Data (MGMT)",
                 "hasEmail": "mailto:edmo@hq.dhs.gov"
             },
-            "description": "Centralized repository for accessing natural hazard risk information, curated by FEMA's Natural Hazards Risk Assessment Program (NHRAP). Risk assessment resources from the Hazus program are always freely available and transparently developed. rnrnDataset provides Hazus risk scores.rnrnDatapoints include Hazard Frequency, Hazard Exposure, SHELDUS, SoVI, BRIC.",
+            "description": "The National Risk Index is an easy-to-use, interactive tool that shows which communities are most at risk to natural hazards. It includes data about the expected annual losses to individual natural hazards (18 natural hazards), social vulnerability and community resilience, available at county and Census tract levels.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://www.fema.gov/hazus"
+                    "accessURL": "https://hazards.fema.gov/nri/"
                 }
             ],
             "identifier": "FEMA-0630",
@@ -8721,16 +8907,16 @@
                 "Assessments"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "FEMA/Resilience/Risk Management Directorate"
+                "name": "FEMA/RESILIENCE/FIMA"
             },
             "rights": null,
-            "title": "Hazus Risk Scores and Components"
+            "title": "National Risk Index (NRI) Data"
         },
         {
             "accessLevel": "public",
@@ -8853,7 +9039,7 @@
                 "Incidents"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-01T11:44:29-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -8955,6 +9141,72 @@
             },
             "rights": null,
             "title": "FEMA Region 10 Facilities Building Management"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "The FEMA Interoperability Gateway Solution (IGS) is an unclassified, secure communications platform supporting interoperability among platforms by allowing various types of communications devices to communicate with one another.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://usfema.sharepoint.com/sites/OAI/ncp/CCD/Pages/default.aspx"
+                }
+            ],
+            "identifier": "FEMA-0660",
+            "keyword": [
+                "Communications"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-07-01T11:27:25-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/NCP/CONTINUITY COMMUNICATIONS DIV"
+            },
+            "rights": null,
+            "title": "FEMA Interoperable Gateway System"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "The FEMA National Radio System (FNARS) data set comprises semi-monthly testing data, including: test date/times, number of systems, system identifiers, system locations, frequencies, Call Signs, ALE Addresses, Antenna used, et. al.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://usfema.sharepoint.com/sites/OAI/ncp/CCD/Pages/default.aspx"
+                }
+            ],
+            "identifier": "FEMA-0661",
+            "keyword": [
+                "Communications"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-07-01T11:27:25-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/NCP/CONTINUITY COMMUNICATIONS DIV"
+            },
+            "rights": null,
+            "title": "FEMA National Radio System"
         },
         {
             "accessLevel": "public",
@@ -29128,6 +29380,33 @@
                 "fn": "Open Data (MGMT)",
                 "hasEmail": "mailto:edmo@hq.dhs.gov"
             },
+            "description": "A user mailbox contains information relevant to that user email account (e.g. address, settings) in addition to metadata associated with the mailbox itself (e.g. creation date, size).",
+            "identifier": "FEMA-0095",
+            "keyword": [
+                "Information Technology"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-07-01T11:27:25-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Mission Support/Office of Chief Information Officer"
+            },
+            "rights": null,
+            "title": "User Mailbox"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
             "description": "Location Details allow for the precise location of individual real property assets (land, building, structures), that are owned or leased by FEMA. This dataset includes information such as lat/long, street address, city, state, zipcode, Real property unique identifier (RPUID), real property types (land, building, structure).",
             "distribution": [
                 {
@@ -29203,10 +29482,10 @@
             ],
             "identifier": "FEMA-0128",
             "keyword": [
-                "People"
+                "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -29236,10 +29515,10 @@
             ],
             "identifier": "FEMA-0129",
             "keyword": [
-                "People"
+                "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -29269,10 +29548,10 @@
             ],
             "identifier": "FEMA-0130",
             "keyword": [
-                "People"
+                "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -29381,6 +29660,33 @@
             },
             "rights": null,
             "title": "Owned Asset Facility Condition Assessment (FCA) Details"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "An Outlook/Exchange mailbox shared by multiple users for a specific business function or use case. A Shared Mailbox has attributes relevant to the mailbox (e.g. Owner, Inbox, Sent) and metadata associated with all mailboxes (e.g. creation date, size).",
+            "identifier": "FEMA-0096",
+            "keyword": [
+                "Information Technology"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-07-01T11:27:25-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Mission Support/Office of Chief Information Officer"
+            },
+            "rights": null,
+            "title": "Shared Mailbox"
         },
         {
             "accessLevel": "public",
@@ -29665,13 +29971,13 @@
                 "Finance"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-02-03T14:11:54-05:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "FEMA/Resilience/Grant Programs Directorate"
+                "name": "FEMA/RESILIENCE/GRANT PROGRAMS DIR"
             },
             "rights": null,
             "title": "Emergency Management Performance Grants (OPENFEMA)"
@@ -32199,7 +32505,7 @@
                 "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -32232,7 +32538,7 @@
                 "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -32265,7 +32571,7 @@
                 "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -32298,7 +32604,7 @@
                 "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -32331,7 +32637,7 @@
                 "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -32364,7 +32670,7 @@
                 "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -32397,7 +32703,7 @@
                 "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -32430,7 +32736,7 @@
                 "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -32463,7 +32769,7 @@
                 "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -32496,7 +32802,7 @@
                 "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -32529,7 +32835,7 @@
                 "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -32562,7 +32868,7 @@
                 "Assets"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-01T21:22:04-04:00",
+            "modified": "2025-07-01T11:27:25-04:00",
             "programCode": [
                 "024:000"
             ],
@@ -32998,6 +33304,39 @@
             },
             "rights": null,
             "title": "010 Office of Intelligence and Analysis Open Source Enterprice Open Source Intelligence Collection and Reporting"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "The data lexicon provides an application that promotes transparency across all of FEMA for common data terms used by defining common data terms and providing additional context. The data lexicon contains descriptive information on key attributes of datasets such as:rnrnTitle of requested termrnReason for requested termrnStatus of requested termrnUser who requested the term",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://usfema.sharepoint.com/teams/OPPAEAD/EDAMI/DM/SitePages/Data-Lexicon.aspx"
+                }
+            ],
+            "identifier": "FEMA-0614",
+            "keyword": [
+                "Authorities"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-07-01T11:27:25-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Off of Policy & Pgm Analysis/ENTERPRISE ANALYTICS DIV"
+            },
+            "rights": null,
+            "title": "Data Lexicon Data Dictionary"
         },
         {
             "accessLevel": "public",
@@ -36174,6 +36513,72 @@
             },
             "rights": null,
             "title": "DSM5-ICD10"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "This reference table provides an standardized geographic information on the US states, territories, district and counties.  This includes critical fields such as jurisdiction name, state and county FIPS codes, postal abbreviations, and FEMA Regions. The table supports data normalization geographic filtering and consistent mapping across datasets. It is designed to serve as an reference sources for identifying and categorizing geographic entities a within the US and its territories.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://usfema.sharepoint.com/teams/OPPAEAD/EDAMI/DM/SitePages/Data-Management-Support-Program.aspx"
+                }
+            ],
+            "identifier": "FEMA-0668",
+            "keyword": [
+                "Authorities"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-07-01T11:27:26-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Off of Policy & Pgm Analysis/ENTERPRISE ANALYTICS DIV"
+            },
+            "rights": null,
+            "title": "Region Referance List"
+        },
+        {
+            "accessLevel": "public",
+            "bureauCode": [
+                "024:070"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Open Data (MGMT)",
+                "hasEmail": "mailto:edmo@hq.dhs.gov"
+            },
+            "description": "The Commonly Used Data Element Standard aims to update and consolidate FEMA's existing data element standards, ensuring a consistent and high-quality approach to managing commonly used data elements. Incorrect data ingestion can lead to decision-making errors and challenge analysts with limited resources to correct these errors. Ensuring data quality begins with identifying and structuring key data elements that are vital to business operations. By standardizing the management of these elements, we can eliminate inconsistencies, reduce errors, and foster a culture of data excellence. This document provides comprehensive guidelines for adopting these data elements across systems and analytical reports to enhance data accuracy and support our strategic objectives. While compliance to these standards is not mandatory, it is highly recommended to achieve the full benefits of standardized, high-quality data practices within FEMA. By offering these standards as flexible recommendations rather than strict requirements, we allow programs and systems the flexibility to adapt while guiding FEMA towards exemplary data practices. Implementing these standards is crucial for improving our data management strategy, resulting in higher data quality and better alignment with our strategic goals.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://usfema.sharepoint.com/teams/OPPAEAD/EDAMI/DM/SitePages/Data-Management-Support-Program.aspx"
+                }
+            ],
+            "identifier": "FEMA-0671",
+            "keyword": [
+                "Authorities"
+            ],
+            "license": "https://www.usa.gov/government-works",
+            "modified": "2025-07-01T11:27:26-04:00",
+            "programCode": [
+                "024:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "FEMA/Off of Policy & Pgm Analysis/ENTERPRISE ANALYTICS DIV"
+            },
+            "rights": null,
+            "title": "Commonly Used Data Elements"
         }
     ]
 }
