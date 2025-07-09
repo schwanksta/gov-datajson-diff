@@ -13530,27 +13530,8 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/44e93e18-b9b3-4650-9471-2b1b31dc588b/data",
-                    "description": "latest",
-                    "format": "API",
-                    "modified": "2025-07-08",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/44e93e18-b9b3-4650-9471-2b1b31dc588b",
-                    "temporal": "2025-06-29/2025-07-05",
-                    "title": "Innovation Center Model Participants : 2025-07-08"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/ca017a4f-f69d-4348-9852-33bfd412813e/Innovation_Center_Model_Participants-GUIDE-07-08-2025.csv",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/b6327a66-4204-4845-bd78-902e6730490f/Innovation_Center_Model_Participants-GUIDE-07-09-2025.csv",
                     "mediaType": "text/csv",
-                    "modified": "2025-07-08",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/cea81977-6fa6-44e3-876a-5116c905921c",
-                    "temporal": "2025-06-29/2025-07-05",
-                    "title": "Innovation Center Model Participants : 2025-07-08"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/cea81977-6fa6-44e3-876a-5116c905921c/data",
-                    "format": "API",
                     "modified": "2025-07-08",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/cea81977-6fa6-44e3-876a-5116c905921c",
                     "temporal": "2025-06-29/2025-07-05",
@@ -18288,10 +18269,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/97ecfad1-d3f1-4d42-b774-d74661d830bc/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-06-11",
+                    "modified": "2025-07-09",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/97ecfad1-d3f1-4d42-b774-d74661d830bc",
-                    "temporal": "2025-05-01/2025-05-31",
-                    "title": "Nursing Home Affiliated Entity Performance Measures : 2025-05-01"
+                    "temporal": "2025-06-01/2025-06-30",
+                    "title": "Nursing Home Affiliated Entity Performance Measures : 2025-06-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-06/e27943ac-ab38-48b4-9acd-82978061df79/Affiliated%20Entity%20Performance%2020250626.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-09",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/49ccc3e1-f771-44bc-b83f-b2b0b3e42a00",
+                    "temporal": "2025-06-01/2025-06-30",
+                    "title": "Nursing Home Affiliated Entity Performance Measures : 2025-06-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/49ccc3e1-f771-44bc-b83f-b2b0b3e42a00/data",
+                    "format": "API",
+                    "modified": "2025-07-09",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/49ccc3e1-f771-44bc-b83f-b2b0b3e42a00",
+                    "temporal": "2025-06-01/2025-06-30",
+                    "title": "Nursing Home Affiliated Entity Performance Measures : 2025-06-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -18701,7 +18700,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-11",
+            "modified": "2025-07-09",
             "programCode": [
                 "009:000"
             ],
@@ -18712,7 +18711,7 @@
             "references": [
                 "https://data.cms.gov/resources/nursing-home-affiliated-entity-performance-measures-methodology"
             ],
-            "temporal": "2023-06-01/2025-05-31",
+            "temporal": "2023-06-01/2025-06-30",
             "theme": [
                 "Medicare"
             ],
