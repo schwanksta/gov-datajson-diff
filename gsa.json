@@ -7579,9 +7579,9 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://inventory.data.gov/dataset/acf8e47e-24d2-4e4d-a786-847643f101fd/resource/9273eb4f-7dca-42ea-9ec1-0533ad07e031/download/edi-6.27.25.json",
+                    "downloadURL": "https://inventory.data.gov/dataset/acf8e47e-24d2-4e4d-a786-847643f101fd/resource/c4928e6d-6976-44dd-b91a-8176bccddcff/download/edi-7.4.25.json",
                     "mediaType": "application/json",
-                    "title": "EDI 6.27.25.json"
+                    "title": "EDI 7.4.25.json"
                 }
             ],
             "identifier": "GSA-2015-11-13-01",
@@ -17406,7 +17406,7 @@
                 "en-US"
             ],
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2023-10-20T18:48:57.947Z",
+            "modified": "2025-07-09T17:38:59.277Z",
             "programCode": [
                 "000:000"
             ],
@@ -17771,7 +17771,7 @@
                 "en-US"
             ],
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-            "modified": "2024-08-07T14:23:40.286Z",
+            "modified": "2025-07-09T17:14:01.813Z",
             "programCode": [
                 "000:000"
             ],
@@ -17953,6 +17953,124 @@
             },
             "rights": "true",
             "title": "FY25 Enterprise Infrastructure Solutions (EIS) Quarterly Reports"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "bureauCode": [
+                "000:00"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Stephanie Klodzen",
+                "hasEmail": "mailto:stephanie.klodzen@gsa.gov"
+            },
+            "dataQuality": true,
+            "describedBy": "https://www.gsa.gov/policy-regulations/policy/real-property-policy/asset-management/federal-real-property-council-frpc/frpc-guidance-library",
+            "describedByType": "application/pdf",
+            "description": "The Federal Real Property Profile Management System (FRPP MS) is the federal government\u2019s centralized inventory of real property under the custody and control of executive branch agencies. Due to national security and other authorized exclusions, some FRPP data is not available to the public.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://inventory.data.gov/dataset/5752ee7f-9e8b-467a-aa5a-274b4bd1bc29/resource/1a94a302-b3c9-433d-ac97-43db73fa6d04/download/frpp_public_dataset_fy24_07022025.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "title": "FRPP_Public_Dataset_FY24_07022025.xlsx"
+                }
+            ],
+            "identifier": "GSA-25-07-09-03",
+            "keyword": [
+                "FRPP",
+                "Federal Real Property Profile",
+                "GSA",
+                "General Services Property",
+                "RTF",
+                "Warehouse",
+                "building",
+                "civilian",
+                "geospatial",
+                "land",
+                "office",
+                "real-estate",
+                "real-pro",
+                "reduce the footprint",
+                "structures"
+            ],
+            "language": [
+                "en-US"
+            ],
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "modified": "2025-07-09T17:16:08.609Z",
+            "programCode": [
+                "000:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "General Services Administration",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "General Services Administration"
+                }
+            },
+            "rights": "true",
+            "theme": [
+                "geospatial"
+            ],
+            "title": "FY 2024 Federal Real Property Profile (FRPP) Public Dataset"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "bureauCode": [
+                "000:00"
+            ],
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Stephanie Klodzen",
+                "hasEmail": "mailto:stephanie.klodzen@gsa.gov"
+            },
+            "dataQuality": true,
+            "describedBy": "https://www.gsa.gov/policy-regulations/policy/real-property-policy/asset-management/federal-real-property-council-frpc/frpc-guidance-library",
+            "describedByType": "application/pdf",
+            "description": "A XLSX export of summarized data for all DoD and specified civilian agency assets contained within the FRPP, a government-wide database of executive branch agency federal real property assets, that cannot be made public at a detailed level.  Data for these records is summarized at the Installation Level.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://inventory.data.gov/dataset/63ce05bb-278a-46c6-afd7-42730eba4da8/resource/618f6c1f-00c3-47d6-94ba-cbde43906862/download/frpp-data-summarized-by-installation-name-fy24.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "title": "FRPP Data Summarized by Installation Name FY24.xlsx"
+                }
+            ],
+            "identifier": "GSA-25-07-09",
+            "keyword": [
+                "FRPP",
+                "Federal Real Property Profile",
+                "General Services Administration",
+                "Installation Name",
+                "builiding",
+                "land",
+                "real property",
+                "structure"
+            ],
+            "language": [
+                "en-US"
+            ],
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "modified": "2025-07-09T17:38:54.128Z",
+            "programCode": [
+                "000:000"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "General Services Administration",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "General Services Administration"
+                }
+            },
+            "rights": "true",
+            "title": "FY 2024 Federal Real Property Profile Summary Data by Installation Name"
         }
     ],
     "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
