@@ -58542,20 +58542,28 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "bureauCode": [
+                "029:15"
+            ],
             "contactPoint": {
                 "@type": "vcard:Contact",
-                "fn": "Jimmy Yun, CTR",
-                "hasEmail": "mailto:no-reply@ptsd-va.data.socrata.com"
+                "fn": "National Center for PTSD",
+                "hasEmail": "mailto:ncptsd@va.gov"
             },
             "description": "",
             "identifier": "https://www.data.va.gov/api/views/mnyw-brke",
             "issued": "2025-07-14",
             "landingPage": "https://www.data.va.gov/d/mnyw-brke",
             "modified": "2025-07-14",
+            "programCode": [
+                "029:000"
+            ],
             "publisher": {
                 "@type": "org:Organization",
-                "name": "www.data.va.gov"
+                "name": "National Center for PTSD"
             },
+            "rights": "All data is within the public domain and is currently available for download.",
             "title": "PTSD Treatments Briefs _ Under Construction"
         },
         {
@@ -67157,16 +67165,16 @@
             "identifier": "https://www.data.va.gov/api/views/qmjb-6xsx",
             "issued": "2021-11-23",
             "keyword": [
-                "edit",
-                "ptsd studies",
-                "ptsd trials",
+                "ptsd-repository",
                 "repository",
                 "update",
+                "edit",
                 "ncptsd",
-                "ptsd-repository"
+                "ptsd studies",
+                "ptsd trials"
             ],
             "landingPage": "https://www.data.va.gov/d/qmjb-6xsx",
-            "modified": "2025-06-11",
+            "modified": "2025-07-14",
             "programCode": [
                 "029:000"
             ],
@@ -74682,16 +74690,16 @@
             "identifier": "https://www.data.va.gov/api/views/t65f-tiwq",
             "issued": "2023-12-13",
             "keyword": [
+                "provider",
                 "clinician",
                 "ptsd treatment",
-                "treatment brief",
-                "provider"
+                "treatment brief"
             ],
             "landingPage": "https://www.ptsd.va.gov/repository",
             "language": [
                 "en-US"
             ],
-            "modified": "2025-05-23",
+            "modified": "2025-07-14",
             "programCode": [
                 "029:000"
             ],
