@@ -19027,10 +19027,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/f1a8c197-b53d-4c24-9770-aea5d5a97dfb/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-07-08",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f1a8c197-b53d-4c24-9770-aea5d5a97dfb",
-                    "temporal": "2025-06-29/2025-07-05",
-                    "title": "Opioid Treatment Program Providers : 2025-07-08"
+                    "temporal": "2025-07-06/2025-07-12",
+                    "title": "Opioid Treatment Program Providers : 2025-07-15"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/07b35b4b-8575-47a5-8146-a8f9cb0e9fbd/OPIOID_TREATMENT_PROGRAM_PROVIDERS_07142025.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e3b51407-32a8-439a-a2c8-fe968a4078d3",
+                    "temporal": "2025-07-06/2025-07-12",
+                    "title": "Opioid Treatment Program Providers : 2025-07-15"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/e3b51407-32a8-439a-a2c8-fe968a4078d3/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e3b51407-32a8-439a-a2c8-fe968a4078d3",
+                    "temporal": "2025-07-06/2025-07-12",
+                    "title": "Opioid Treatment Program Providers : 2025-07-15"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -21007,7 +21025,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-07-08",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -21018,7 +21036,7 @@
             "references": [
                 "https://data.cms.gov/resources/opioid-treatment-program-providers-methodology"
             ],
-            "temporal": "2023-05-21/2025-07-05",
+            "temporal": "2023-05-21/2025-07-12",
             "theme": [
                 "Medicare"
             ],
