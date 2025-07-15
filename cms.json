@@ -15930,8 +15930,26 @@
                     "format": "API",
                     "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/2457ea29-fc82-48b0-86ec-3b0755de7515",
-                    "temporal": "2025-01-01/2025-03-31",
-                    "title": "Medicare Fee-For-Service Public Provider Enrollment : 2025-01-01"
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Medicare Fee-For-Service Public Provider Enrollment : 2025-04-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/84cdef5f-9880-4d51-afa9-d2c78cf7c2f4/PPEF_Enrollment_Extract_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/169fec49-2fe1-44bb-8b6b-ed624ccffa41",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Medicare Fee-For-Service Public Provider Enrollment : 2025-04-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/169fec49-2fe1-44bb-8b6b-ed624ccffa41/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/169fec49-2fe1-44bb-8b6b-ed624ccffa41",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Medicare Fee-For-Service Public Provider Enrollment : 2025-04-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -15948,24 +15966,6 @@
                     "format": "API",
                     "modified": "2025-04-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/74edb053-bd01-40a0-91a0-4961c1fe6281",
-                    "temporal": "2025-01-01/2025-03-31",
-                    "title": "Medicare Fee-For-Service Public Provider Enrollment : 2025-01-01"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/84cdef5f-9880-4d51-afa9-d2c78cf7c2f4/PPEF_Enrollment_Extract_2025.07.01.csv",
-                    "mediaType": "text/csv",
-                    "modified": "2025-07-15",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/169fec49-2fe1-44bb-8b6b-ed624ccffa41",
-                    "temporal": "2025-01-01/2025-03-31",
-                    "title": "Medicare Fee-For-Service Public Provider Enrollment : 2025-01-01"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/169fec49-2fe1-44bb-8b6b-ed624ccffa41/data",
-                    "format": "API",
-                    "modified": "2025-07-15",
-                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/169fec49-2fe1-44bb-8b6b-ed624ccffa41",
                     "temporal": "2025-01-01/2025-03-31",
                     "title": "Medicare Fee-For-Service Public Provider Enrollment : 2025-01-01"
                 },
@@ -16125,7 +16125,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-04-15",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -16136,7 +16136,7 @@
             "references": [
                 "https://data.cms.gov/resources/fee-for-service-public-provider-enrollment-methodology"
             ],
-            "temporal": "2023-01-01/2025-03-31",
+            "temporal": "2023-01-01/2025-06-30",
             "theme": [
                 "Medicare"
             ],
