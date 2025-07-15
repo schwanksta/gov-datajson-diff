@@ -16569,7 +16569,7 @@
                     "modified": "2024-06-14",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/fa8caa65-d5c3-492e-be49-835fe42c9190",
                     "temporal": "2022-01-01/2022-12-31",
-                    "title": "Medicare Post-Acute Care and Hospice - by Geography & Provider : 2022-01-02"
+                    "title": "Medicare Post-Acute Care & Hospice - by Geography and Provider : 2022-01-02"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -16578,7 +16578,7 @@
                     "modified": "2024-06-14",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/29ee817a-da89-4743-a43e-6b8b6f11d7dc",
                     "temporal": "2022-01-01/2022-12-31",
-                    "title": "Medicare Post-Acute Care and Hospice - by Geography & Provider : 2022-01-02"
+                    "title": "Medicare Post-Acute Care & Hospice - by Geography and Provider : 2022-01-02"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -16587,7 +16587,7 @@
                     "modified": "2024-06-14",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/29ee817a-da89-4743-a43e-6b8b6f11d7dc",
                     "temporal": "2022-01-01/2022-12-31",
-                    "title": "Medicare Post-Acute Care and Hospice - by Geography & Provider : 2022-01-02"
+                    "title": "Medicare Post-Acute Care & Hospice - by Geography and Provider : 2022-01-02"
                 }
             ],
             "identifier": "https://data.cms.gov/data-api/v1/dataset/fa8caa65-d5c3-492e-be49-835fe42c9190/data-viewer",
@@ -16605,7 +16605,7 @@
                 "Health Care Use & Payments",
                 "Health Equity"
             ],
-            "landingPage": "https://data.cms.gov/provider-summary-by-type-of-service/medicare-post-acute-care-hospice/medicare-post-acute-care-and-hospice-by-geography-provider",
+            "landingPage": "https://data.cms.gov/provider-summary-by-type-of-service/medicare-post-acute-care-hospice/medicare-post-acute-care-hospice-by-geography-and-provider",
             "language": [
                 "en-US"
             ],
@@ -16625,7 +16625,7 @@
             "theme": [
                 "Medicare"
             ],
-            "title": "Medicare Post-Acute Care and Hospice - by Geography & Provider"
+            "title": "Medicare Post-Acute Care & Hospice - by Geography and Provider"
         },
         {
             "@type": "dcat:Dataset",
@@ -16902,10 +16902,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/4b50bbe6-a496-4eda-b03b-5f835937f81b/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-04-08",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/4b50bbe6-a496-4eda-b03b-5f835937f81b",
-                    "temporal": "2025-01-01/2025-03-31",
-                    "title": "Minimum Data Set Frequency : 2025-01-01"
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Minimum Data Set Frequency : 2025-04-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/311adc5c-b56b-4fb6-bb20-4c8e5009759a/MDS_Frequency_Q2_2025.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/014c7431-61f8-4c4c-b1d0-cc8857eb30a8",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Minimum Data Set Frequency : 2025-04-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/014c7431-61f8-4c4c-b1d0-cc8857eb30a8/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/014c7431-61f8-4c4c-b1d0-cc8857eb30a8",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Minimum Data Set Frequency : 2025-04-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -17296,7 +17314,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-04-08",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -17307,7 +17325,7 @@
             "references": [
                 "https://data.cms.gov/resources/minimum-data-set-frequency-methodology"
             ],
-            "temporal": "2020-01-01/2025-03-31",
+            "temporal": "2020-01-01/2025-06-30",
             "theme": [
                 "Medicare",
                 "Medicaid"
