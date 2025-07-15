@@ -4750,10 +4750,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/ed289c89-0bb8-4221-a20a-85776066381b/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-15",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/ed289c89-0bb8-4221-a20a-85776066381b",
-                    "temporal": "2025-04-01/2025-06-30",
-                    "title": "Federally Qualified Health Center All Owners : 2025-04-01"
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Federally Qualified Health Center All Owners : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/0770b13a-dd58-4110-bfe7-11596e43cebe/FQHC_All_Owners_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/04b49abd-befa-4439-a1ae-546b3ac85c3e",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Federally Qualified Health Center All Owners : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/04b49abd-befa-4439-a1ae-546b3ac85c3e/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/04b49abd-befa-4439-a1ae-546b3ac85c3e",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Federally Qualified Health Center All Owners : 2025-07-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -4895,7 +4913,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-15",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -4906,7 +4924,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2023-09/FQHC_Data_Guidance.pdf"
             ],
-            "temporal": "2023-10-01/2025-06-30",
+            "temporal": "2023-10-01/2025-09-30",
             "theme": [
                 "Medicare"
             ],
@@ -4934,10 +4952,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/4bcae866-3411-439a-b762-90a6187c194b/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-15",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/4bcae866-3411-439a-b762-90a6187c194b",
-                    "temporal": "2025-04-01/2025-06-30",
-                    "title": "Federally Qualified Health Center Enrollments : 2025-04-01"
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Federally Qualified Health Center Enrollments : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/89a3b520-6bc5-4323-b28d-8a03a404a12d/FQHC_Enrollments_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e3d647cb-2c77-4164-a91a-f453467446e6",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Federally Qualified Health Center Enrollments : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/e3d647cb-2c77-4164-a91a-f453467446e6/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e3d647cb-2c77-4164-a91a-f453467446e6",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Federally Qualified Health Center Enrollments : 2025-07-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -5079,7 +5115,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-15",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -5090,7 +5126,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2023-09/FQHC_Data_Guidance.pdf"
             ],
-            "temporal": "2023-10-01/2025-06-30",
+            "temporal": "2023-10-01/2025-09-30",
             "theme": [
                 "Medicare"
             ],
@@ -9097,10 +9133,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/fc009b2d-7846-44b1-b4a1-692f0c143879/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-15",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/fc009b2d-7846-44b1-b4a1-692f0c143879",
-                    "temporal": "2025-04-01/2025-06-30",
-                    "title": "Home Health Agency All Owners : 2025-04-01"
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Home Health Agency All Owners : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/34d3acb6-ed6d-473e-a2bd-ab554f17ec83/HHA_All_Owners_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f11048cd-750f-4277-9fe9-20121d4be54e",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Home Health Agency All Owners : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/f11048cd-750f-4277-9fe9-20121d4be54e/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f11048cd-750f-4277-9fe9-20121d4be54e",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Home Health Agency All Owners : 2025-07-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -9279,7 +9333,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-15",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -9290,7 +9344,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-10/HHA_Data_Guidance.pdf"
             ],
-            "temporal": "2023-04-01/2025-06-30",
+            "temporal": "2023-04-01/2025-09-30",
             "theme": [
                 "Medicare"
             ],
@@ -9430,10 +9484,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/15f64ab4-3172-4a27-b589-ebd67a6d28aa/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-15",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/15f64ab4-3172-4a27-b589-ebd67a6d28aa",
-                    "temporal": "2025-04-01/2025-06-30",
-                    "title": "Home Health Agency Enrollments : 2025-04-01"
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Home Health Agency Enrollments : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/64e9fe1b-9edf-44ad-8ce9-7b7c1cc17f72/HHA_Enrollments_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/1cb0dedd-2f12-45fe-9563-35eaf1234ec6",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Home Health Agency Enrollments : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/1cb0dedd-2f12-45fe-9563-35eaf1234ec6/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/1cb0dedd-2f12-45fe-9563-35eaf1234ec6",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Home Health Agency Enrollments : 2025-07-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -9612,7 +9684,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-15",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -9623,7 +9695,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-10/HHA_Data_Guidance.pdf"
             ],
-            "temporal": "2023-04-01/2025-06-30",
+            "temporal": "2023-04-01/2025-09-30",
             "theme": [
                 "Medicare"
             ],
@@ -10684,10 +10756,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/e983965e-1603-4cb8-82b5-c40090e380d1/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-15",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e983965e-1603-4cb8-82b5-c40090e380d1",
-                    "temporal": "2025-04-01/2025-06-30",
-                    "title": "Hospice All Owners : 2025-04-01"
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Hospice All Owners : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/b407d980-37ae-48f8-aff1-1a9faa1cbfcf/Hospice_All_Owners_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/a22811ef-80d5-4b59-a363-b12dae56fb6c",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Hospice All Owners : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/a22811ef-80d5-4b59-a363-b12dae56fb6c/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/a22811ef-80d5-4b59-a363-b12dae56fb6c",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Hospice All Owners : 2025-07-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -10866,7 +10956,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-15",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -10877,7 +10967,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2023-03/f193e9ef-9fd7-4de3-9a27-0d5281cf80a9/Hospice_Data_Guidance.pdf"
             ],
-            "temporal": "2023-04-01/2025-06-30",
+            "temporal": "2023-04-01/2025-09-30",
             "theme": [
                 "Medicare"
             ],
@@ -10905,10 +10995,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/25704213-e833-4b8b-9dbc-58dd17149209/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-15",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/25704213-e833-4b8b-9dbc-58dd17149209",
-                    "temporal": "2025-04-01/2025-06-30",
-                    "title": "Hospice Enrollments : 2025-04-01"
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Hospice Enrollments : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/30719e52-511a-46fa-81d9-f09b6be5966b/Hospice_Enrollments_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e083903d-b1e4-4fa6-8c9b-e8367dd63a72",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Hospice Enrollments : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/e083903d-b1e4-4fa6-8c9b-e8367dd63a72/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/e083903d-b1e4-4fa6-8c9b-e8367dd63a72",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Hospice Enrollments : 2025-07-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -11087,7 +11195,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-15",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -11098,7 +11206,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2023-03/f193e9ef-9fd7-4de3-9a27-0d5281cf80a9/Hospice_Data_Guidance.pdf"
             ],
-            "temporal": "2023-04-01/2025-06-30",
+            "temporal": "2023-04-01/2025-09-30",
             "theme": [
                 "Medicare"
             ],
@@ -11126,10 +11234,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/029c119f-f79c-49be-9100-344d31d10344/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-06-16",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/029c119f-f79c-49be-9100-344d31d10344",
-                    "temporal": "2025-06-01/2025-06-30",
-                    "title": "Hospital All Owners : 2025-06-01"
+                    "temporal": "2025-07-01/2025-07-31",
+                    "title": "Hospital All Owners : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/34b2ac24-f2e3-4c07-b2f0-a889ad342e8b/Hospital_All_Owners_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/b1f91b3c-d15b-4425-aa27-fcbbd3612d0d",
+                    "temporal": "2025-07-01/2025-07-31",
+                    "title": "Hospital All Owners : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/b1f91b3c-d15b-4425-aa27-fcbbd3612d0d/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/b1f91b3c-d15b-4425-aa27-fcbbd3612d0d",
+                    "temporal": "2025-07-01/2025-07-31",
+                    "title": "Hospital All Owners : 2025-07-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -11703,7 +11829,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-16",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -11714,7 +11840,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-10/Hospital_Data_Guidance.pdf"
             ],
-            "temporal": "2022-11-01/2025-06-30",
+            "temporal": "2022-11-01/2025-07-31",
             "theme": [
                 "Medicare"
             ],
@@ -11742,10 +11868,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/c04031db-54ce-461c-85d1-d2613d71f167/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-15",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/c04031db-54ce-461c-85d1-d2613d71f167",
-                    "temporal": "2025-01-01/2025-03-31",
-                    "title": "Hospital Change of Ownership : 2025-03-01"
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Hospital Change of Ownership : 2025-06-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/a3523300-eb90-4ae5-883f-0ded2fac2ce8/Hospital_CHOW_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/621923b2-9620-4f31-a042-c36428a995cb",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Hospital Change of Ownership : 2025-06-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/621923b2-9620-4f31-a042-c36428a995cb/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/621923b2-9620-4f31-a042-c36428a995cb",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Hospital Change of Ownership : 2025-06-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -11995,7 +12139,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-15",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -12006,7 +12150,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-10/Hospital_CHOW_Data_Guidance.pdf"
             ],
-            "temporal": "2022-01-01/2025-03-31",
+            "temporal": "2022-01-01/2025-06-30",
             "theme": [
                 "Medicare"
             ],
@@ -12034,10 +12178,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/60625dc8-b621-45f0-9423-077fd133b13e/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-15",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/60625dc8-b621-45f0-9423-077fd133b13e",
-                    "temporal": "2025-01-01/2025-03-31",
-                    "title": "Hospital Change of Ownership - Owner Information : 2025-03-01"
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Hospital Change of Ownership - Owner Information : 2025-06-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/3d403b31-b4d9-4ae0-a59d-684d399f36f4/Hospital_CHOW_Owners_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/3996f7ad-5dd8-4dbf-a19c-1c10b1a66a52",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Hospital Change of Ownership - Owner Information : 2025-06-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/3996f7ad-5dd8-4dbf-a19c-1c10b1a66a52/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/3996f7ad-5dd8-4dbf-a19c-1c10b1a66a52",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Hospital Change of Ownership - Owner Information : 2025-06-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -12287,7 +12449,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-15",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -12298,7 +12460,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-10/Hospital_CHOW_Data_Guidance.pdf"
             ],
-            "temporal": "2022-01-01/2025-03-31",
+            "temporal": "2022-01-01/2025-06-30",
             "theme": [
                 "Medicare"
             ],
@@ -12326,10 +12488,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/f6f6505c-e8b0-4d57-b258-e2b94133aaf2/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-06-16",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f6f6505c-e8b0-4d57-b258-e2b94133aaf2",
-                    "temporal": "2025-06-01/2025-06-30",
-                    "title": "Hospital Enrollments : 2025-06-01"
+                    "temporal": "2025-07-01/2025-07-31",
+                    "title": "Hospital Enrollments : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/f64175ad-afb3-4e7b-bd7e-53c35468c1ad/Hospital_Enrollments_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/4a1df48b-1726-4bd7-82f8-2b6e22935c8c",
+                    "temporal": "2025-07-01/2025-07-31",
+                    "title": "Hospital Enrollments : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/4a1df48b-1726-4bd7-82f8-2b6e22935c8c/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/4a1df48b-1726-4bd7-82f8-2b6e22935c8c",
+                    "temporal": "2025-07-01/2025-07-31",
+                    "title": "Hospital Enrollments : 2025-07-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -12903,7 +13083,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-16",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -12914,7 +13094,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-10/Hospital_Data_Guidance.pdf"
             ],
-            "temporal": "2022-11-01/2025-06-30",
+            "temporal": "2022-11-01/2025-07-31",
             "theme": [
                 "Medicare"
             ],
@@ -37439,10 +37619,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/ab03c9bc-0c22-4ca4-b032-21dd3408210d/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-15",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/ab03c9bc-0c22-4ca4-b032-21dd3408210d",
-                    "temporal": "2025-04-01/2025-06-30",
-                    "title": "Rural Health Clinic All Owners : 2025-04-01"
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Rural Health Clinic All Owners : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/127fa3ab-ae59-4ebc-b67b-89e2699f020a/RHC_All_Owners_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/68d1b328-619a-4f82-806d-332b2417739a",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Rural Health Clinic All Owners : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/68d1b328-619a-4f82-806d-332b2417739a/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/68d1b328-619a-4f82-806d-332b2417739a",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Rural Health Clinic All Owners : 2025-07-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -37585,7 +37783,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-15",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -37596,7 +37794,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-10/RHC_Data_Guidance.pdf"
             ],
-            "temporal": "2023-10-01/2025-06-30",
+            "temporal": "2023-10-01/2025-09-30",
             "theme": [
                 "Medicare"
             ],
@@ -37624,10 +37822,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/3b7e7659-067e-41ea-8e36-f9ee2036e1f6/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-15",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/3b7e7659-067e-41ea-8e36-f9ee2036e1f6",
-                    "temporal": "2025-04-01/2025-06-30",
-                    "title": "Rural Health Clinic Enrollments : 2025-04-01"
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Rural Health Clinic Enrollments : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/aca27548-5cec-4f4f-8989-d1451e27cd38/RHC_Enrollments_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/d4ce6e70-e382-4005-98c4-571394eefe9c",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Rural Health Clinic Enrollments : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/d4ce6e70-e382-4005-98c4-571394eefe9c/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/d4ce6e70-e382-4005-98c4-571394eefe9c",
+                    "temporal": "2025-07-01/2025-09-30",
+                    "title": "Rural Health Clinic Enrollments : 2025-07-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -37770,7 +37986,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-15",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -37781,7 +37997,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-10/RHC_Data_Guidance.pdf"
             ],
-            "temporal": "2023-10-01/2025-06-30",
+            "temporal": "2023-10-01/2025-09-30",
             "theme": [
                 "Medicare"
             ],
@@ -37809,10 +38025,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/afe44b85-cc6d-40d7-b5df-00ae8910d1d2/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-06-16",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/afe44b85-cc6d-40d7-b5df-00ae8910d1d2",
-                    "temporal": "2025-06-01/2025-06-30",
-                    "title": "Skilled Nursing Facility All Owners : 2025-06-01"
+                    "temporal": "2025-07-01/2025-07-31",
+                    "title": "Skilled Nursing Facility All Owners : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/4b4d80b9-d1c0-4051-8658-c59a4bdbed0a/SNF_All_Owners_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/99b4cb9c-07b4-46ca-9afd-84334f055301",
+                    "temporal": "2025-07-01/2025-07-31",
+                    "title": "Skilled Nursing Facility All Owners : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/99b4cb9c-07b4-46ca-9afd-84334f055301/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/99b4cb9c-07b4-46ca-9afd-84334f055301",
+                    "temporal": "2025-07-01/2025-07-31",
+                    "title": "Skilled Nursing Facility All Owners : 2025-07-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -38423,7 +38657,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-16",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -38434,7 +38668,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-12/1ea55414-f441-4694-a13c-6400d4e28ef6/SNF_Data_Guidance.pdf"
             ],
-            "temporal": "2022-09-01/2025-06-30",
+            "temporal": "2022-09-01/2025-07-31",
             "theme": [
                 "Medicare"
             ],
@@ -38462,10 +38696,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/f557a6ed-95b3-4a22-8433-4175db2dec1c/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-15",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/f557a6ed-95b3-4a22-8433-4175db2dec1c",
-                    "temporal": "2025-01-01/2025-03-31",
-                    "title": "Skilled Nursing Facility Change of Ownership : 2025-03-01"
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Skilled Nursing Facility Change of Ownership : 2025-06-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/9065fdb2-75ad-4e13-8613-1349f676ee39/SNF_CHOW_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/853d6f98-8ba7-496d-991c-28b57fe2bbdf",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Skilled Nursing Facility Change of Ownership : 2025-06-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/853d6f98-8ba7-496d-991c-28b57fe2bbdf/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/853d6f98-8ba7-496d-991c-28b57fe2bbdf",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Skilled Nursing Facility Change of Ownership : 2025-06-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -38715,7 +38967,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-15",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -38726,7 +38978,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-10/SNF_CHOW_Data_Guidance.pdf"
             ],
-            "temporal": "2022-01-01/2025-03-31",
+            "temporal": "2022-01-01/2025-06-30",
             "theme": [
                 "Medicare"
             ],
@@ -38754,10 +39006,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/a4358712-e910-4eaf-8f24-5e90ba3cf8d0/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-15",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/a4358712-e910-4eaf-8f24-5e90ba3cf8d0",
-                    "temporal": "2025-01-01/2025-03-31",
-                    "title": "Skilled Nursing Facility Change of Ownership - Owner Information : 2025-03-01"
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Skilled Nursing Facility Change of Ownership - Owner Information : 2025-06-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/dad2c428-d58b-4df7-a969-3c2b40e999b1/SNF_CHOW_Owners_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/a49f5a3b-baa7-4e78-8b8f-1b5dff647cf9",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Skilled Nursing Facility Change of Ownership - Owner Information : 2025-06-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/a49f5a3b-baa7-4e78-8b8f-1b5dff647cf9/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/a49f5a3b-baa7-4e78-8b8f-1b5dff647cf9",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Skilled Nursing Facility Change of Ownership - Owner Information : 2025-06-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -39007,7 +39277,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-15",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -39018,7 +39288,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-10/SNF_CHOW_Data_Guidance.pdf"
             ],
-            "temporal": "2022-01-01/2025-03-31",
+            "temporal": "2022-01-01/2025-06-30",
             "theme": [
                 "Medicare"
             ],
@@ -39322,10 +39592,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/5f2c306f-3b1c-42cd-b037-187b2ce22126/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-06-16",
+                    "modified": "2025-07-15",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/5f2c306f-3b1c-42cd-b037-187b2ce22126",
-                    "temporal": "2025-06-01/2025-06-30",
-                    "title": "Skilled Nursing Facility Enrollments : 2025-06-01"
+                    "temporal": "2025-07-01/2025-07-31",
+                    "title": "Skilled Nursing Facility Enrollments : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/ac41688f-7375-4057-8076-3c181f3d937f/SNF_Enrollments_2025.07.01.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/56f8329e-c1f1-44e9-95cd-bbdeab5480ca",
+                    "temporal": "2025-07-01/2025-07-31",
+                    "title": "Skilled Nursing Facility Enrollments : 2025-07-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/56f8329e-c1f1-44e9-95cd-bbdeab5480ca/data",
+                    "format": "API",
+                    "modified": "2025-07-15",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/56f8329e-c1f1-44e9-95cd-bbdeab5480ca",
+                    "temporal": "2025-07-01/2025-07-31",
+                    "title": "Skilled Nursing Facility Enrollments : 2025-07-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -39936,7 +40224,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-06-16",
+            "modified": "2025-07-15",
             "programCode": [
                 "009:000"
             ],
@@ -39947,7 +40235,7 @@
             "references": [
                 "https://data.cms.gov/sites/default/files/2024-12/1ea55414-f441-4694-a13c-6400d4e28ef6/SNF_Data_Guidance.pdf"
             ],
-            "temporal": "2022-09-01/2025-06-30",
+            "temporal": "2022-09-01/2025-07-31",
             "theme": [
                 "Medicare"
             ],
