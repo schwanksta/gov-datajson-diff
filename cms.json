@@ -34846,7 +34846,7 @@
                 "hasEmail": "mailto:QIESData@cms.hhs.gov"
             },
             "dataQuality": true,
-            "describedBy": "https://data.cms.gov/sites/default/files/2025-01/47cff7a0-5575-4a62-be85-ae72dcedf677/iQIES%20POS%20Data%20Dictionary.zip",
+            "describedBy": "https://data.cms.gov/sites/default/files/2025-07/b843f8fa-9883-4350-83d1-687daef85135/iQIES%20POS%20Data%20Dictionary.zip",
             "describedByType": "application/zip",
             "description": "The Provider of Services File (POS) - Internet Quality Improvement and Evaluation System (iQIES) - Home Health Agency (HHA), Ambulatory Surgical Center (ASC), and Hospice Providers data\u00a0provides information on provider demographic and associated certification information. In this file you will find provider number (CMS Certification Number), name, address, and other characteristics of the participating institution providers.",
             "distribution": [
@@ -34855,10 +34855,28 @@
                     "accessURL": "https://data.cms.gov/data-api/v1/dataset/086e48c4-87a6-4be1-8823-29e8da8f225b/data",
                     "description": "latest",
                     "format": "API",
-                    "modified": "2025-05-08",
+                    "modified": "2025-07-16",
                     "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/086e48c4-87a6-4be1-8823-29e8da8f225b",
-                    "temporal": "2025-01-01/2025-03-31",
-                    "title": "Provider of Services File - Internet Quality Improvement and Evaluation System - Home Health Agency, Ambulatory Surgical Center, and Hospice Providers : 2025-01-02"
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Provider of Services File - Internet Quality Improvement and Evaluation System - Home Health Agency, Ambulatory Surgical Center, and Hospice Providers : 2025-04-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.cms.gov/sites/default/files/2025-07/960cbc13-d444-4227-9ff3-028a2a168999/POS_File_iQIES_HHA_ASC_and_Hospice_Providers_Q2_2025.csv",
+                    "mediaType": "text/csv",
+                    "modified": "2025-07-16",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/1ac9accd-5974-4fad-90eb-f3b8c093de34",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Provider of Services File - Internet Quality Improvement and Evaluation System - Home Health Agency, Ambulatory Surgical Center, and Hospice Providers : 2025-04-01"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "accessURL": "https://data.cms.gov/data-api/v1/dataset/1ac9accd-5974-4fad-90eb-f3b8c093de34/data",
+                    "format": "API",
+                    "modified": "2025-07-16",
+                    "resourcesAPI": "https://data.cms.gov/data-api/v1/dataset-resources/1ac9accd-5974-4fad-90eb-f3b8c093de34",
+                    "temporal": "2025-04-01/2025-06-30",
+                    "title": "Provider of Services File - Internet Quality Improvement and Evaluation System - Home Health Agency, Ambulatory Surgical Center, and Hospice Providers : 2025-04-01"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -34984,7 +35002,7 @@
                 "en-US"
             ],
             "license": "https://www.usa.gov/government-works",
-            "modified": "2025-05-08",
+            "modified": "2025-07-16",
             "programCode": [
                 "009:000"
             ],
@@ -34995,7 +35013,7 @@
             "references": [
                 "https://data.cms.gov/resources/pos-file-iqies-for-hha-asc-and-hospice-providers-methodology"
             ],
-            "temporal": "2023-10-01/2025-03-31",
+            "temporal": "2023-10-01/2025-06-30",
             "theme": [
                 "Medicare"
             ],
