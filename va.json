@@ -9109,8 +9109,8 @@
             "issued": "2023-06-19",
             "keyword": [
                 "dc",
-                "ncvas state summary",
-                "fy2021 data"
+                "fy2021 data",
+                "ncvas state summary"
             ],
             "landingPage": "https://www.data.va.gov/d/4tib-3w4r",
             "modified": "2024-06-20",
@@ -9218,9 +9218,9 @@
             "identifier": "VA-OIT-ASD-006",
             "issued": "2017-07-26",
             "keyword": [
+                "product",
                 "roadmap",
-                "vista",
-                "product"
+                "vista"
             ],
             "landingPage": "http://www.osehra.org/blog/release-vista-evolution-program-plan-and-vista-4-product-roadmap",
             "language": [
@@ -10746,15 +10746,15 @@
             "identifier": "https://www.data.va.gov/api/views/59na-t7z8",
             "issued": "2021-03-31",
             "keyword": [
-                "veteran",
                 "electron wait list",
-                "wait times",
-                "vha",
-                "veterans health administration",
-                "hospital",
-                "health care",
+                "ewl",
                 "health",
-                "ewl"
+                "health care",
+                "hospital",
+                "veteran",
+                "veterans health administration",
+                "vha",
+                "wait times"
             ],
             "landingPage": "https://www.va.gov/health/access-audit.asp",
             "language": [
@@ -16980,8 +16980,8 @@
             "identifier": "https://www.data.va.gov/api/views/7765-4ury",
             "issued": "2024-05-16",
             "keyword": [
-                "fy2024 data",
                 "arkansas",
+                "fy2024 data",
                 "ncvas state summary"
             ],
             "landingPage": "https://www.data.va.gov/d/7765-4ury",
@@ -17424,14 +17424,14 @@
             "identifier": "VA-VHA-PCS-017",
             "issued": "2017-07-26",
             "keyword": [
-                "va",
-                "veteran",
                 "cpt",
-                "results",
-                "workload",
                 "lab",
                 "laboratory",
-                "pathology"
+                "pathology",
+                "results",
+                "va",
+                "veteran",
+                "workload"
             ],
             "landingPage": "https://www.data.va.gov/d/7ahm-cn5f",
             "language": [
@@ -18671,9 +18671,9 @@
             "issued": "2017-07-26",
             "keyword": [
                 "benefits fact sheet",
-                "va fact sheet",
+                "general benefit information",
                 "va benefits",
-                "general benefit information"
+                "va fact sheet"
             ],
             "landingPage": "https://benefits.va.gov/benefits/media-publications.asp",
             "language": [
@@ -25955,9 +25955,9 @@
             "identifier": "VA-VIA-1",
             "issued": "2017-11-17",
             "keyword": [
-                "patient",
-                "healthcare",
                 "call",
+                "healthcare",
+                "patient",
                 "provider"
             ],
             "landingPage": "https://www.data.va.gov/d/abwq-ukrv",
@@ -26693,22 +26693,22 @@
             "identifier": "VA-VHA-OIA-017",
             "issued": "2017-07-26",
             "keyword": [
-                "community",
-                "veteran",
-                "va",
-                "surgery",
-                "patient",
-                "or",
-                "operating room",
-                "living",
                 "admission",
                 "care",
                 "center",
-                "inpatient",
-                "extended",
-                "drg",
-                "discharge",
+                "community",
                 "diagnosis",
+                "discharge",
+                "drg",
+                "extended",
+                "inpatient",
+                "living",
+                "operating room",
+                "or",
+                "patient",
+                "surgery",
+                "va",
+                "veteran",
                 "ward"
             ],
             "landingPage": "https://www.data.va.gov/d/ahm2-ztdw",
@@ -28562,9 +28562,9 @@
             "isPartOf": "VA-VBA-MASTER-COMPENSATIONPENSION-001",
             "issued": "2017-07-26",
             "keyword": [
-                "veteran",
+                "disability compensation",
                 "pension",
-                "disability compensation"
+                "veteran"
             ],
             "landingPage": "https://www1.va.gov/vetdata/docs/DataGov_Compensation_and_Pension_by_County_Technical_Notes.doc",
             "language": [
@@ -29403,12 +29403,12 @@
             "identifier": "https://www.data.va.gov/api/views/bekq-y2e2",
             "issued": "2025-02-07",
             "keyword": [
+                "outcomes",
                 "self-directed violence",
-                "suicide",
-                "suicidality",
-                "suicidal ideation",
                 "self-harm",
-                "outcomes"
+                "suicidal ideation",
+                "suicidality",
+                "suicide"
             ],
             "landingPage": "https://www.data.va.gov/d/bekq-y2e2",
             "license": "https://www.usa.gov/government-works",
@@ -32404,10 +32404,10 @@
             "identifier": "VA-OEI-OEI-068",
             "issued": "2017-07-26",
             "keyword": [
-                "gis",
-                "period of service",
                 "age",
                 "detailed geography",
+                "gis",
+                "period of service",
                 "veteran population"
             ],
             "landingPage": "https://www.data.va.gov/d/cfep-k67g",
@@ -39919,8 +39919,8 @@
             "identifier": "41fcda1d-ddbe-4bc8-a519-35c84abd444c",
             "issued": "2018-08-01",
             "keyword": [
-                "veterans",
-                "demographics"
+                "demographics",
+                "veterans"
             ],
             "landingPage": "https://www.data.va.gov/d/evtj-p45r",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -41578,6 +41578,11 @@
             "identifier": "VA-VHA-LWD-001",
             "issued": "2017-07-26",
             "keyword": [
+                "capital",
+                "eeo",
+                "employee",
+                "employment",
+                "equal",
                 "human",
                 "leadership",
                 "opportunity",
@@ -41586,12 +41591,7 @@
                 "supervisor",
                 "va",
                 "veteran",
-                "workforce",
-                "capital",
-                "eeo",
-                "employee",
-                "employment",
-                "equal"
+                "workforce"
             ],
             "landingPage": "https://www.data.va.gov/d/fdjf-462q",
             "language": [
@@ -46718,8 +46718,8 @@
             "issued": "2023-07-03",
             "keyword": [
                 "fy2021 data",
-                "ncvas state summary",
-                "massachusetts"
+                "massachusetts",
+                "ncvas state summary"
             ],
             "landingPage": "https://www.data.va.gov/d/h5jm-kreq",
             "modified": "2024-06-09",
@@ -56347,8 +56347,8 @@
             "identifier": "https://www.data.va.gov/api/views/km97-qdpp",
             "issued": "2021-08-26",
             "keyword": [
-                "veterans",
-                "nebraska"
+                "nebraska",
+                "veterans"
             ],
             "landingPage": "https://www.data.va.gov/d/km97-qdpp",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -56708,9 +56708,9 @@
             "isPartOf": "VA-VBA-MASTER-GENERAL INFORMATION-001",
             "issued": "2017-07-26",
             "keyword": [
-                "vre benefits",
                 "civilian career",
-                "vba benefits"
+                "vba benefits",
+                "vre benefits"
             ],
             "landingPage": "https://www.benefits.va.gov/vocrehab/jobs_for_veterans.asp",
             "language": [
@@ -59191,9 +59191,9 @@
             "identifier": "https://www.data.va.gov/api/views/mu4i-a98q",
             "issued": "2020-11-24",
             "keyword": [
-                "appendix f",
+                "ahrq report",
                 "appendix e",
-                "ahrq report"
+                "appendix f"
             ],
             "landingPage": "https://www.data.va.gov/d/mu4i-a98q",
             "modified": "2020-06-11",
@@ -59277,14 +59277,14 @@
             "identifier": "VA-OIT-ASD-003",
             "issued": "2017-07-26",
             "keyword": [
-                "it vision",
-                "it roadmap",
+                "enterprise technical architecture",
                 "enterprise technology strategic plan",
                 "it infrastructure",
-                "enterprise technical architecture",
-                "technology vision",
+                "it roadmap",
+                "it vision",
+                "strategy",
                 "technology",
-                "strategy"
+                "technology vision"
             ],
             "landingPage": "https://www.techstrategies.oit.va.gov/ETSP.asp",
             "language": [
@@ -63024,24 +63024,24 @@
             "isPartOf": "VA-VHA-OIA-122",
             "issued": "2020-08-18",
             "keyword": [
-                "sail",
                 "2018",
-                "measures",
-                "hospital",
                 "analytics",
+                "fy2018",
+                "hai",
+                "health",
+                "healthcare",
+                "hedis",
+                "hospital",
+                "measures",
                 "mortality",
-                "performance",
                 "mrsa",
                 "oryx",
-                "hedis",
-                "healthcare",
-                "health",
+                "performance",
                 "quality",
-                "vha",
-                "hai",
-                "fy2018",
+                "sail",
+                "veteran",
                 "veterans health administration",
-                "veteran"
+                "vha"
             ],
             "landingPage": "https://www.data.va.gov/d/p2pf-khui",
             "language": [
@@ -64000,9 +64000,9 @@
             "identifier": "https://www.data.va.gov/api/views/pgjq-abwt",
             "issued": "2023-04-14",
             "keyword": [
-                "life table",
+                "death rate",
                 "life expectancy",
-                "death rate"
+                "life table"
             ],
             "landingPage": "https://www.data.va.gov/d/pgjq-abwt",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -71763,8 +71763,8 @@
             "issued": "2017-07-26",
             "keyword": [
                 "healthcare",
-                "priority group",
                 "patients",
+                "priority group",
                 "veteran"
             ],
             "landingPage": "https://www.va.gov/vetdata/Utilization.asp",
@@ -71833,13 +71833,13 @@
             "identifier": "VA-VHA-OIA-003",
             "issued": "2017-07-26",
             "keyword": [
-                "satisfaction",
-                "veterans",
+                "health",
                 "healthcare",
-                "quality of care",
                 "hospital accreditation",
                 "patient safety",
-                "health"
+                "quality of care",
+                "satisfaction",
+                "veterans"
             ],
             "landingPage": "https://www.data.va.gov/d/s8nt-h89j",
             "language": [
@@ -76930,18 +76930,18 @@
             "isPartOf": "VA-VHA-OIA-073",
             "issued": "2017-07-26",
             "keyword": [
-                "wait list",
+                "access",
                 "appointment",
                 "audit",
                 "enrollee",
-                "wait time",
-                "va",
-                "health care",
-                "health",
-                "near",
-                "veteran",
                 "ewl",
-                "access"
+                "health",
+                "health care",
+                "near",
+                "va",
+                "veteran",
+                "wait list",
+                "wait time"
             ],
             "landingPage": "https://www.va.gov/health/access-audit.asp",
             "language": [
@@ -78583,9 +78583,9 @@
             "identifier": "https://www.data.va.gov/api/views/umiy-kxpr",
             "issued": "2024-06-17",
             "keyword": [
-                "oklahoma",
                 "fy2023",
-                "ncvas state summary"
+                "ncvas state summary",
+                "oklahoma"
             ],
             "landingPage": "https://www.data.va.gov/d/umiy-kxpr",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -83866,12 +83866,12 @@
             "identifier": "https://www.data.va.gov/api/views/vyzz-9v4a",
             "issued": "2021-11-10",
             "keyword": [
-                "veterans",
-                "vietnam war",
                 "gulf war",
                 "korean war",
-                "world war ii",
-                "world war i"
+                "veterans",
+                "vietnam war",
+                "world war i",
+                "world war ii"
             ],
             "landingPage": "https://www.data.va.gov/d/vyzz-9v4a",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -86978,9 +86978,9 @@
             "identifier": "https://www.data.va.gov/api/views/wxa3-iimb",
             "issued": "2023-06-15",
             "keyword": [
+                "alaska",
                 "fy2021 data",
-                "ncvas state summary",
-                "alaska"
+                "ncvas state summary"
             ],
             "landingPage": "https://www.data.va.gov/d/wxa3-iimb",
             "modified": "2024-05-16",
@@ -89883,13 +89883,13 @@
             "identifier": "VA-VHA-EHP-001",
             "issued": "2017-07-26",
             "keyword": [
+                "ahobpr",
+                "airborne",
+                "burn",
                 "hazards",
                 "health",
                 "open",
                 "pit",
-                "ahobpr",
-                "airborne",
-                "burn",
                 "platform",
                 "registry",
                 "va",
@@ -89974,9 +89974,9 @@
             "identifier": "https://www.data.va.gov/api/views/y9vr-w4nk",
             "issued": "2024-05-29",
             "keyword": [
-                "ncvas state summary",
+                "fy2024 data",
                 "id",
-                "fy2024 data"
+                "ncvas state summary"
             ],
             "landingPage": "https://www.data.va.gov/d/y9vr-w4nk",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -90039,7 +90039,6 @@
             "isPartOf": "VA-VHA-OIA-122",
             "issued": "2021-06-24",
             "keyword": [
-                "hospital",
                 "2021",
                 "analytics",
                 "fy2021",
@@ -90047,6 +90046,7 @@
                 "health",
                 "healthcare",
                 "hedis",
+                "hospital",
                 "measures",
                 "mortality",
                 "mrsa",
